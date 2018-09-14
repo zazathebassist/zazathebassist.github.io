@@ -2,7 +2,16 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
-      <loc>/blog/welcome-to-jekyll/</loc>
+      <loc>zaza.studio/blog/welcome-to-jekyll/</loc>
+      
+        <lastmod>2018-09-11T02:39:53-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
+      <loc>zaza.studio/blog/test-blog-part-3/</loc>
       
         <lastmod>2018-09-11T02:39:53-07:00</lastmod>
       
@@ -12,7 +21,7 @@
   
   
     <url>
-      <loc>/404/</loc>
+      <loc>zaza.studio/404/</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -22,7 +31,7 @@
      </url>
   
     <url>
-      <loc>/about/</loc>
+      <loc>zaza.studio/about/</loc>
        <lastmod>2018-09-11T00:00:00-07:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -32,7 +41,7 @@
      </url>
   
     <url>
-      <loc>/blog/</loc>
+      <loc>zaza.studio/blog/</loc>
        <lastmod>2018-09-11T00:00:00-07:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -42,17 +51,7 @@
      </url>
   
     <url>
-      <loc>/elements/</loc>
-       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>/</loc>
+      <loc>zaza.studio/</loc>
        <lastmod>2017-11-02T00:00:00-07:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -62,7 +61,7 @@
      </url>
   
     <url>
-      <loc>/sitemap.xml</loc>
+      <loc>zaza.studio/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -72,7 +71,7 @@
      </url>
   
     <url>
-      <loc>/feed.xml</loc>
+      <loc>zaza.studio/feed.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
@@ -82,7 +81,7 @@
      </url>
   
     <url>
-      <loc>/feed.xslt.xml</loc>
+      <loc>zaza.studio/feed.xslt.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
        <changefreq>weekly</changefreq>
