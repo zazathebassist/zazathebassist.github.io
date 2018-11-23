@@ -71,6 +71,16 @@
      </url>
   
     <url>
+      <loc>zaza.studio/photography/</loc>
+       <lastmod>2018-11-22T00:00:00-08:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>0.7</priority>
+      
+     </url>
+  
+    <url>
       <loc>zaza.studio/sitemap.xml</loc>
        <lastmod>2017-11-10T00:20:35+00:00</lastmod>
       
