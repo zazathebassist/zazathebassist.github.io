@@ -2,6 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>zaza.studio/blog/ios-game-review-elder-scrolls-blades/</loc>
+      
+        <lastmod>2019-04-11T00:00:00-07:00</lastmod>
+      
+      <changefreq>weekly</changefreq>
+      <priority>0.7</priority>
+    </url>
+  
+    <url>
       <loc>zaza.studio/blog/year-of-content/</loc>
       
         <lastmod>2019-01-05T23:00:00-08:00</lastmod>
@@ -143,6 +152,16 @@
        <changefreq>weekly</changefreq>
       
        <priority>0.5</priority>
+      
+     </url>
+  
+    <url>
+      <loc>zaza.studio/blog/page2/</loc>
+       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
+      
+       <changefreq>weekly</changefreq>
+      
+       <priority>1.0</priority>
       
      </url>
   
