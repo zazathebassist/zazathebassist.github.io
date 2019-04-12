@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="zaza.studio/zazathebassist.github.io/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="zaza.studio/zazathebassist.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="zaza.studio/zazathebassist.github.io/" rel="alternate" type="text/html" /><updated>2019-04-11T22:37:43-07:00</updated><id>zaza.studio/zazathebassist.github.io/</id><title type="html">Project Incomplete</title><subtitle>Emmanuel Medina's Personal Blog, Portfolio, and page to mess around</subtitle><entry><title type="html">iOS Game Reviews: Elder Scrolls Blades</title><link href="zaza.studio/zazathebassist.github.io/blog/ios-game-review-elder-scrolls-blades/" rel="alternate" type="text/html" title="iOS Game Reviews: Elder Scrolls Blades" /><published>2019-04-11T00:00:00-07:00</published><updated>2019-04-11T00:00:00-07:00</updated><id>zaza.studio/zazathebassist.github.io/blog/ios-game-review-elder-scrolls-blades</id><content type="html" xml:base="zaza.studio/zazathebassist.github.io/blog/ios-game-review-elder-scrolls-blades/">&lt;p&gt;I want to love Elder Scrolls: Blades. I do. I really really do.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xml" href="zaza.studio/feed.xslt.xml"?><feed xmlns="http://www.w3.org/2005/Atom"><generator uri="http://jekyllrb.com" version="3.2.1">Jekyll</generator><link href="zaza.studio/feed.xml" rel="self" type="application/atom+xml" /><link href="zaza.studio/" rel="alternate" type="text/html" /><updated>2019-04-11T22:59:23-07:00</updated><id>zaza.studio/</id><title type="html">Project Incomplete</title><subtitle>Emmanuel Medina's Personal Blog, Portfolio, and page to mess around</subtitle><entry><title type="html">iOS Game Reviews: Elder Scrolls Blades</title><link href="zaza.studio/blog/ios-game-review-elder-scrolls-blades/" rel="alternate" type="text/html" title="iOS Game Reviews: Elder Scrolls Blades" /><published>2019-04-11T00:00:00-07:00</published><updated>2019-04-11T00:00:00-07:00</updated><id>zaza.studio/blog/ios-game-review-elder-scrolls-blades</id><content type="html" xml:base="zaza.studio/blog/ios-game-review-elder-scrolls-blades/">&lt;p&gt;I want to love Elder Scrolls: Blades. I do. I really really do.&lt;/p&gt;
 
-&lt;p&gt;[Good image of ES World]&lt;/p&gt;
-&lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/es-blades/es-title.png&quot; alt=&quot;Title Screen - I wish it lived up to the hype of seeing this page&quot; /&gt;&lt;/div&gt;
+&lt;p&gt;&lt;img style=&quot;height: 100%; width: 100%; object-fit: contain&quot; src=&quot;/images/es-blades/es-title.png&quot; alt=&quot;Title Screen - I wish it lived up to the hype of seeing this page&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;I’m starting this off by saying that I am a huge fan of the Elder Scrolls series. I have put more hours than I can count into Oblivion and almost as many into Skyrim. Elder Scrolls Online is in my top 5 MMOs. So I wanted, so desperately, for a mobile game to capture the feeling of Elder Scrolls. The massive world, the progression, the sense of exploration, the feeling of almost endless depth (even if that depth is almost irrelevant to the actual game).&lt;/p&gt;
 
@@ -13,7 +12,7 @@
 
 &lt;h2 id=&quot;controls&quot;&gt;Controls&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/es-blades/movement.gif&quot; alt=&quot;Aaaaaand Walking&quot; title=&quot;Everyone turns exactly like that.&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;height: 100%; width: 100%; object-fit: contain&quot; src=&quot;/images/es-blades/movement.gif&quot; alt=&quot;Yes, people turn exactly like that irl&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;While this game in many points feels like it was built from the ground up to be a mobile game, it feels like it was built by people who have never played a mobile game. The game can be played both vertically and horizontally. Vertically, swiping on the screen will allow you to look around. Tapping on the ground will move your character. Horizontally this still works, but swiping on what feels like the bottom left 1/8th of the screen will allow you to walk like an analog stick, and swiping on the bottom right 1/8th will move the screen like a right analog stick. This isn’t &lt;em&gt;bad&lt;/em&gt; per se, but it leads to awkwardness.
 The movement with tapping feels far worse than with the virtual analog stick. When tapping on the ground to move, the game will automatically take control of the camera, sometimes hilariously badly. Walking up stairs, the actual view you have is terrible, looking up about 45 degrees, and when you reach the top of the stairs your view stays in that position. If you click something around a corner, the character will strafe in a very unusual way around the corner. It &lt;em&gt;is&lt;/em&gt; something you can get used to, but definitely annoying. It’s definitely more of a “get used to” issue, but still feels like an oversight by the game devs.&lt;/p&gt;
@@ -22,13 +21,13 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 
 &lt;h3 id=&quot;combat&quot;&gt;Combat&lt;/h3&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/es-blades/combat.gif&quot; alt=&quot;Pop the bubble&quot; title=&quot;This goblin's having too much fun&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;height: 100%; width: 100%; object-fit: contain&quot; src=&quot;/images/es-blades/combat.gif&quot; alt=&quot;Pop the bubble&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;Combat is where this game fully stops feeling like an Elder Scrolls game. You tap and hold to charge an attack, and let go to release it. If you release &lt;em&gt;just&lt;/em&gt; when the charging circle gets to its ready indicator, you get a critical hit. You also get buttons on the screen for using abilities and Magic. However, it is a far cry from an actual Elder Scrolls game, where you move, run, use abilities, attack, block, and (in Skyrim) using Shouts. Most fights usually end up being “can you tap correctly” and “are you stronger than the enemy” and that’s it. Any depth is lost in the lack of responsiveness.&lt;/p&gt;
 
 &lt;h2 id=&quot;story&quot;&gt;Story&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/es-blades/story.jpeg&quot; alt=&quot;Nothing to see Here&quot; title=&quot;Exploding statues are normal&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;height: 100%; width: 100%; object-fit: contain&quot; src=&quot;/images/es-blades/story.jpeg&quot; alt=&quot;Nothing to see Here&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;When you launch the game, you get a quick instance where your character is introduced. In traditional Elder Scrolls fashion, &lt;em&gt;something&lt;/em&gt; happened and you’re starting life from scratch. Unlike riding a cart to your death, or waking up in a prison, you’re heading home because you were a member of the “Blades” a kind of Secret Service in Tamriel that got disbanded.&lt;/p&gt;
 
@@ -38,7 +37,7 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 
 &lt;h2 id=&quot;town&quot;&gt;Town&lt;/h2&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/es-blades/es-town.png&quot; alt=&quot;Town... needs some repair&quot; title=&quot;Fix me please&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;height: 100%; width: 100%; object-fit: contain&quot; src=&quot;/images/es-blades/es-town.png&quot; alt=&quot;Fix me please&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;The Town is the Main game mode in ES: Blades. You will go on Quests to rescue town members, or to do tasks that those town members need done (Kill Goblins, Collect Resources, etc.), and get gold and resources that will then help you rebuild the Town. There is a lot to do in the town. You are tasked with rebuilding important buildings like the Blacksmith or Alchemist, which will unlock shops and new weapons/items. And, because this is a mobile Freemium game, the first few buildings are fairly cheap to build, and the price goes up fairly quickly from there, requiring way more time and resources to rebuild. There is also a “Jobs” board that has quests on them, including a Daily and Weekly Quest that has better rewards. These jobs will also drop you into a dungeon instance, just like the quests from town members.&lt;/p&gt;
 
@@ -82,7 +81,7 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 
 &lt;p&gt;It looks like Bethesda is listening though. Between when I started writing this review and right before it went out, I got this push notificaiton.&lt;/p&gt;
 
-&lt;p&gt;&lt;img src=&quot;/images/es-blades/notification.png&quot; alt=&quot;I thought I had notifications turned off&quot; title=&quot;DING!... We're listening&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img style=&quot;height: 50%; width: 50%; object-fit: contain&quot; src=&quot;/images/es-blades/notification.png&quot; alt=&quot;I thought I had notifications turned off&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;They are actively trying to do things to make it feel less freemium. This is something I would never expect from a company like(and I hate to pick on them cause they make good games) Supercell. They’ve also added confirmation screens for spending any large amount of gems(over 11 says their patch notes) and changed percentages on chest drops. This is good news that Bethesda is listening and this game is more than the cash grab it felt like at the beginning.&lt;/p&gt;
 
@@ -95,31 +94,32 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 &lt;p&gt;Since this is my first review, I had to figure out how I’m gonna rate games. I think an out of Five system works well, especially for iOS games since there’s such a range of games, and experience, that anything more granular feels like it’d be too specific to be useful.&lt;/p&gt;
 
 &lt;hr /&gt;
-&lt;blockquote&gt;
 
-# Elder Scrolls: Blades - 3/5
+&lt;h2 id=&quot;elder-scrolls-blades---35&quot;&gt;Elder Scrolls: Blades - 3/5&lt;/h2&gt;
 
- Disclaimer: ES: Blades is in Beta/Early Access and a lot is subject to change. I will add a section about Arena below the final score in an edit once it is released
+&lt;p&gt;Disclaimer: ES: Blades is in Beta/Early Access and a lot is subject to change. I will add a section about Arena below the final score in an edit once it is released&lt;/p&gt;
 
-### The Good
-* Semi-engaging gameplay
-* Interesting city building aspect
-* Decent graphics
-* It's an Elder Scrolls Game. On your phone
-* Runs very smooth, even on an iPhone 7
+&lt;h3 id=&quot;the-good&quot;&gt;The Good&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Semi-engaging gameplay&lt;/li&gt;
+  &lt;li&gt;Interesting city building aspect&lt;/li&gt;
+  &lt;li&gt;Decent graphics&lt;/li&gt;
+  &lt;li&gt;It’s an Elder Scrolls Game. On your phone&lt;/li&gt;
+  &lt;li&gt;Runs very smooth, even on an iPhone 7&lt;/li&gt;
+&lt;/ul&gt;
 
-### The Bad
-* Clunky Movement when not using Virtual Joysticks
-* Over-reliance on Freemium aspects like timers on chests and buildings, gems, and quest refresh
-* Uninspired music and visuals that would fit basically any fantasy game, none really feeling Elder Scrolls like
-* Weak Combat
-* Difficult to play in short bursts, not enough content for longer gameplay
-
-&lt;/blockquote&gt;
+&lt;h3 id=&quot;the-bad&quot;&gt;The Bad&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Clunky Movement when not using Virtual Joysticks&lt;/li&gt;
+  &lt;li&gt;Over-reliance on Freemium aspects like timers on chests and buildings, gems, and quest refresh&lt;/li&gt;
+  &lt;li&gt;Uninspired music and visuals that would fit basically any fantasy game, none really feeling Elder Scrolls like&lt;/li&gt;
+  &lt;li&gt;Weak Combat&lt;/li&gt;
+  &lt;li&gt;Difficult to play in short bursts, not enough content for longer gameplay&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Review by Emmanuel Medina&lt;/p&gt;</content><summary type="html">I want to love Elder Scrolls: Blades. I do. I really really do.</summary></entry><entry><title type="html">2019: Year of Content</title><link href="zaza.studio/zazathebassist.github.io/blog/year-of-content/" rel="alternate" type="text/html" title="2019: Year of Content" /><published>2019-01-05T23:00:00-08:00</published><updated>2019-01-05T23:00:00-08:00</updated><id>zaza.studio/zazathebassist.github.io/blog/year-of-content</id><content type="html" xml:base="zaza.studio/zazathebassist.github.io/blog/year-of-content/">&lt;p&gt;I’ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.&lt;/p&gt;
+&lt;p&gt;Review by Emmanuel Medina&lt;/p&gt;</content><summary type="html">I want to love Elder Scrolls: Blades. I do. I really really do.</summary></entry><entry><title type="html">2019: Year of Content</title><link href="zaza.studio/blog/year-of-content/" rel="alternate" type="text/html" title="2019: Year of Content" /><published>2019-01-05T23:00:00-08:00</published><updated>2019-01-05T23:00:00-08:00</updated><id>zaza.studio/blog/year-of-content</id><content type="html" xml:base="zaza.studio/blog/year-of-content/">&lt;p&gt;I’ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.&lt;/p&gt;
 
 &lt;p&gt;Part of the reason I started this blog is to chronicle my yearly themes. I’ll probably repost my old themes &lt;del&gt;but no promises&lt;/del&gt;.&lt;/p&gt;
 
@@ -129,7 +129,7 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 
 &lt;p&gt;For people who may not know, yearly themes is a topic that kind of came to be, or was at least first brought to my attention, by the &lt;a href=&quot;https://www.relay.fm/cortex/79&quot;&gt;Cortex&lt;/a&gt; podcast. Myke and Grey have been doing yearly themes for a few years. And the whole idea is that you don’t have a set goal, because goals fail. You set a theme to help guide decisions. It just helps guide your ideas and thought process, and keeps the theme an active part of your mind that you can focus on, instead of wishful thinking.&lt;/p&gt;
 
-&lt;p&gt;And I need that because it is really easy for me to lose focus. The last few months of my life I’ve mostly lost direction and kinda been meandering through work and responsibilities and I needed better focus on my life going forward.&lt;/p&gt;</content><summary type="html">I’ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.</summary></entry><entry><title type="html">Accidental Disconnect from the Internet</title><link href="zaza.studio/zazathebassist.github.io/blog/accidental-disconnect/" rel="alternate" type="text/html" title="Accidental Disconnect from the Internet" /><published>2018-12-28T23:00:00-08:00</published><updated>2018-12-28T23:00:00-08:00</updated><id>zaza.studio/zazathebassist.github.io/blog/accidental-disconnect</id><content type="html" xml:base="zaza.studio/zazathebassist.github.io/blog/accidental-disconnect/">&lt;p&gt;It’s been an odd month or two for me. For the first time in as long as I can remember, I’ve been mostly disconnected from the internet.&lt;/p&gt;
+&lt;p&gt;And I need that because it is really easy for me to lose focus. The last few months of my life I’ve mostly lost direction and kinda been meandering through work and responsibilities and I needed better focus on my life going forward.&lt;/p&gt;</content><summary type="html">I’ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.</summary></entry><entry><title type="html">Accidental Disconnect from the Internet</title><link href="zaza.studio/blog/accidental-disconnect/" rel="alternate" type="text/html" title="Accidental Disconnect from the Internet" /><published>2018-12-28T23:00:00-08:00</published><updated>2018-12-28T23:00:00-08:00</updated><id>zaza.studio/blog/accidental-disconnect</id><content type="html" xml:base="zaza.studio/blog/accidental-disconnect/">&lt;p&gt;It’s been an odd month or two for me. For the first time in as long as I can remember, I’ve been mostly disconnected from the internet.&lt;/p&gt;
 
 &lt;p&gt;This wasn’t really any kind of planned event. I had recently become more active on the Do By Friday discord, was fairly active with my bands social media, rediscovered Twitter a third time, and was actually enjoying Instagram. Then, shortly before I took my trip to Mexico, my use basically plummited. Mexico certainly helped, I ran out of data shortly after my plane arrived and I had basically nothing but simple texting for a week. But even after that, my usage of almost all social media went down to near zero.&lt;/p&gt;
 
@@ -152,7 +152,7 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 &lt;p&gt;This isn’t the end of my experiment. But I will definitely be something I think about a LOT in the coming year.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=wf2VxeIm1no&quot;&gt;CGP Grey’s Disconnect YouTube Video&lt;/a&gt;
-&lt;a href=&quot;https://www.relay.fm/cortex/74&quot;&gt;Disconnect Discussion on Cortex&lt;/a&gt;&lt;/p&gt;</content><summary type="html">It’s been an odd month or two for me. For the first time in as long as I can remember, I’ve been mostly disconnected from the internet.</summary></entry><entry><title type="html">Coming Back to Magic</title><link href="zaza.studio/zazathebassist.github.io/blog/coming-back-to-magic/" rel="alternate" type="text/html" title="Coming Back to Magic" /><published>2018-12-04T23:00:00-08:00</published><updated>2018-12-04T23:00:00-08:00</updated><id>zaza.studio/zazathebassist.github.io/blog/coming-back-to-magic</id><content type="html" xml:base="zaza.studio/zazathebassist.github.io/blog/coming-back-to-magic/">&lt;p&gt;I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack&lt;/p&gt;
+&lt;a href=&quot;https://www.relay.fm/cortex/74&quot;&gt;Disconnect Discussion on Cortex&lt;/a&gt;&lt;/p&gt;</content><summary type="html">It’s been an odd month or two for me. For the first time in as long as I can remember, I’ve been mostly disconnected from the internet.</summary></entry><entry><title type="html">Coming Back to Magic</title><link href="zaza.studio/blog/coming-back-to-magic/" rel="alternate" type="text/html" title="Coming Back to Magic" /><published>2018-12-04T23:00:00-08:00</published><updated>2018-12-04T23:00:00-08:00</updated><id>zaza.studio/blog/coming-back-to-magic</id><content type="html" xml:base="zaza.studio/blog/coming-back-to-magic/">&lt;p&gt;I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack&lt;/p&gt;
 
 &lt;p&gt;OH NO&lt;/p&gt;
 
@@ -176,7 +176,7 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 
 &lt;p&gt;It is still early on. It is a Beta after all. Simple things like friends lists are still being worked on, and actual tournaments seem a ways away. &lt;del&gt;Plus no Mac client yet grumble grumble&lt;/del&gt;. But I just wanted to sing praises to the game that got me back into Magic.&lt;/p&gt;
 
-&lt;p&gt;&lt;sub&gt;Image Courtesy of Wizards of the Coast&lt;/sub&gt;&lt;/p&gt;</content><summary type="html">I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack</summary></entry><entry><title type="html">Back to Living in Fear</title><link href="zaza.studio/zazathebassist.github.io/blog/back-in-fear/" rel="alternate" type="text/html" title="Back to Living in Fear" /><published>2018-11-22T23:00:00-08:00</published><updated>2018-11-22T23:00:00-08:00</updated><id>zaza.studio/zazathebassist.github.io/blog/back-in-fear</id><content type="html" xml:base="zaza.studio/zazathebassist.github.io/blog/back-in-fear/">&lt;p&gt;When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.&lt;/p&gt;
+&lt;p&gt;&lt;sub&gt;Image Courtesy of Wizards of the Coast&lt;/sub&gt;&lt;/p&gt;</content><summary type="html">I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack</summary></entry><entry><title type="html">Back to Living in Fear</title><link href="zaza.studio/blog/back-in-fear/" rel="alternate" type="text/html" title="Back to Living in Fear" /><published>2018-11-22T23:00:00-08:00</published><updated>2018-11-22T23:00:00-08:00</updated><id>zaza.studio/blog/back-in-fear</id><content type="html" xml:base="zaza.studio/blog/back-in-fear/">&lt;p&gt;When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.&lt;/p&gt;
 
 &lt;p&gt;I’m a child of immigrants. I wont go into it too much, but I’ll just say both my parents are citizens now. They weren’t then. I would get bouts of anxiety if my dad took too long to get home. Did they finally pull him over? Did he run into an immigration checkpoint(they were common in California). Is tonight the night I lose my dad? This was a time before cell phones were common, so I was doubly paranoid. But time passes. Those checkpoints became less common, and my parents went through the process to naturalize.&lt;/p&gt;
 
@@ -190,7 +190,7 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 
 &lt;p&gt;I don’t know why I’m writing this. I don’t have a point. Trump is in office for two more years. If they truly close the border there’s other legal ways for American Citizens to enter the country. I would be thrown into a financial hole if that happens, but life would go on.&lt;/p&gt;
 
-&lt;p&gt;But I needed this off my chest. I needed to vent. To scream. To &lt;strong&gt;&lt;em&gt;FUCKING SCREAM&lt;/em&gt;&lt;/strong&gt;. Because today, I saw my life disappear. In one rash string of tweets, on the day where Americans are supposed to be celebrating the hospitality the natives showed what was ostensively a group of immigrants, one statement threw me into a panic attack. One statement made me cry. And I’m filled with pure hopelessness, because I know it won’t be the last time.&lt;/p&gt;</content><summary type="html">When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.</summary></entry><entry><title type="html">Test Blog Part 3!</title><link href="zaza.studio/zazathebassist.github.io/blog/test-blog-part-3/" rel="alternate" type="text/html" title="Test Blog Part 3!" /><published>2018-11-21T01:39:53-08:00</published><updated>2018-11-21T01:39:53-08:00</updated><id>zaza.studio/zazathebassist.github.io/blog/test-blog-part-3</id><content type="html" xml:base="zaza.studio/zazathebassist.github.io/blog/test-blog-part-3/">&lt;blockquote&gt; I've had two blogs, and abandoned both. So... I'm launching my third blog... What am I Doing Here. &lt;/blockquote&gt;
+&lt;p&gt;But I needed this off my chest. I needed to vent. To scream. To &lt;strong&gt;&lt;em&gt;FUCKING SCREAM&lt;/em&gt;&lt;/strong&gt;. Because today, I saw my life disappear. In one rash string of tweets, on the day where Americans are supposed to be celebrating the hospitality the natives showed what was ostensively a group of immigrants, one statement threw me into a panic attack. One statement made me cry. And I’m filled with pure hopelessness, because I know it won’t be the last time.&lt;/p&gt;</content><summary type="html">When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.</summary></entry><entry><title type="html">Test Blog Part 3!</title><link href="zaza.studio/blog/test-blog-part-3/" rel="alternate" type="text/html" title="Test Blog Part 3!" /><published>2018-11-21T01:39:53-08:00</published><updated>2018-11-21T01:39:53-08:00</updated><id>zaza.studio/blog/test-blog-part-3</id><content type="html" xml:base="zaza.studio/blog/test-blog-part-3/">&lt;blockquote&gt; I've had two blogs, and abandoned both. So... I'm launching my third blog... What am I Doing Here. &lt;/blockquote&gt;
 
 &lt;div style=&quot;text-align:center&quot;&gt;&lt;img src=&quot;/images/Blog-text.png&quot; alt=&quot;Side note, Atom is a fantastic text editor&quot; /&gt;&lt;/div&gt;
 
@@ -208,7 +208,7 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 
 &lt;p&gt;I also essentially need a portfolio. I am doing what I can to shape my life and make it so I can make my way into freelancing, and I need a way to show what I’m really about. So I guess there’s that too.&lt;/p&gt;
 
-&lt;p&gt;Stick around I guess. I can guarantee I’ll be writing more.&lt;/p&gt;</content><summary type="html">I've had two blogs, and abandoned both. So... I'm launching my third blog... What am I Doing Here.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="zaza.studio/zazathebassist.github.io/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-09-11T02:39:53-07:00</published><updated>2018-09-11T02:39:53-07:00</updated><id>zaza.studio/zazathebassist.github.io/blog/welcome-to-jekyll</id><content type="html" xml:base="zaza.studio/zazathebassist.github.io/blog/welcome-to-jekyll/">&lt;blockquote&gt; I am leaving this default page up, both because I really like Jekyll and want to emphasize that this blog was done in Jekyll and anyone can do it... and it serves as good documentation for me. &lt;/blockquote&gt;
+&lt;p&gt;Stick around I guess. I can guarantee I’ll be writing more.&lt;/p&gt;</content><summary type="html">I've had two blogs, and abandoned both. So... I'm launching my third blog... What am I Doing Here.</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="zaza.studio/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2018-09-11T02:39:53-07:00</published><updated>2018-09-11T02:39:53-07:00</updated><id>zaza.studio/blog/welcome-to-jekyll</id><content type="html" xml:base="zaza.studio/blog/welcome-to-jekyll/">&lt;blockquote&gt; I am leaving this default page up, both because I really like Jekyll and want to emphasize that this blog was done in Jekyll and anyone can do it... and it serves as good documentation for me. &lt;/blockquote&gt;
 
 &lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
