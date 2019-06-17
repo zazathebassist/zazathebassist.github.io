@@ -1,168 +1,46 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-    <url>
-      <loc>zaza.studio/blog/ios-game-review-elder-scrolls-blades/</loc>
-      
-        <lastmod>2019-04-11T00:00:00-07:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>zaza.studio/blog/year-of-content/</loc>
-      
-        <lastmod>2019-01-05T23:00:00-08:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>zaza.studio/blog/accidental-disconnect/</loc>
-      
-        <lastmod>2018-12-28T23:00:00-08:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>zaza.studio/blog/coming-back-to-magic/</loc>
-      
-        <lastmod>2018-12-04T23:00:00-08:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>zaza.studio/blog/back-in-fear/</loc>
-      
-        <lastmod>2018-11-22T23:00:00-08:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>zaza.studio/blog/test-blog-part-3/</loc>
-      
-        <lastmod>2018-11-21T01:39:53-08:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-    <url>
-      <loc>zaza.studio/blog/welcome-to-jekyll/</loc>
-      
-        <lastmod>2018-09-11T02:39:53-07:00</lastmod>
-      
-      <changefreq>weekly</changefreq>
-      <priority>0.7</priority>
-    </url>
-  
-  
-    <url>
-      <loc>zaza.studio/404/</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/about/</loc>
-       <lastmod>2018-11-21T00:00:00-08:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/blog/</loc>
-       <lastmod>2018-09-11T00:00:00-07:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/</loc>
-       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/links-and-resources/</loc>
-       <lastmod>2018-11-22T00:00:00-08:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/photography/</loc>
-       <lastmod>2018-11-22T00:00:00-08:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.7</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/sitemap.xml</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/feed.xml</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/feed.xslt.xml</loc>
-       <lastmod>2017-11-10T00:20:35+00:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>0.5</priority>
-      
-     </url>
-  
-    <url>
-      <loc>zaza.studio/blog/page2/</loc>
-       <lastmod>2017-11-02T00:00:00-07:00</lastmod>
-      
-       <changefreq>weekly</changefreq>
-      
-       <priority>1.0</priority>
-      
-     </url>
-  
+<url>
+<loc>http://localhost:4000/blog/welcome-to-jekyll/</loc>
+<lastmod>2018-09-11T02:39:53-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/test-blog-part-3/</loc>
+<lastmod>2018-11-21T01:39:53-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/back-in-fear/</loc>
+<lastmod>2018-11-22T23:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/coming-back-to-magic/</loc>
+<lastmod>2018-12-04T23:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/accidental-disconnect/</loc>
+<lastmod>2018-12-28T23:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/year-of-content/</loc>
+<lastmod>2019-01-05T23:00:00-08:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/blog/ios-game-review-elder-scrolls-blades/</loc>
+<lastmod>2019-04-11T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/404/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/links-and-resources/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page2/</loc>
+</url>
 </urlset>
