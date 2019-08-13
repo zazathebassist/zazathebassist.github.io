@@ -41,6 +41,9 @@
 <loc>http://localhost:4000/links-and-resources/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/portfolio/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/blog/page2/</loc>
 </url>
 </urlset>
