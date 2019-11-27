@@ -33,4 +33,9 @@ var store = [{
         "excerpt":"I want to love Elder Scrolls: Blades. I do. I really really do. I’m starting this off by saying that I am a huge fan of the Elder Scrolls series. I have put more hours than I can count into Oblivion and almost as many into Skyrim. Elder Scrolls Online...","categories": ["gaming","reviews"],
         "tags": [],
         "url": "http://localhost:4000/blog/ios-game-review-elder-scrolls-blades/",
+        "teaser":null},{
+        "title": "Oko: A Returning Player's Perspective",
+        "excerpt":"Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say. So I was a very into Magic a few years ago. I came into the game at the end of the Return to Ravnica block, my first event...","categories": ["personal","games","magic"],
+        "tags": [],
+        "url": "http://localhost:4000/blog/Oko-A-Returning-Players-Perspective/",
         "teaser":null}]
