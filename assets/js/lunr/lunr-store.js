@@ -38,4 +38,9 @@ var store = [{
         "excerpt":"Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say. So I was a very into Magic a few years ago. I came into the game at the end of the Return to Ravnica block, my first event...","categories": ["personal","games","magic"],
         "tags": [],
         "url": "http://localhost:4000/blog/Oko-A-Returning-Players-Perspective/",
+        "teaser":null},{
+        "title": "Top Ten Games of the Decade (2010-2019)",
+        "excerpt":"It’s the end of the 2010s and I really want to reflect on my life. But I feel like I’m in a flux part of my life and with so much happening around me, I thought it’d be easier to just do games of the decade. A bit about me,...","categories": ["personal","games"],
+        "tags": [],
+        "url": "http://localhost:4000/blog/top-ten-games-decade/",
         "teaser":null}]
