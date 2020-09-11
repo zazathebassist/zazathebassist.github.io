@@ -1,7 +1,7 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.16.5 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.20.2 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
@@ -13,6 +13,9 @@
 <meta name="description" content="Personal Blog, Portfolio, and Random project hosting by Emmanuel Medina">
 
 
+  <meta name="author" content="Emmanuel Medina">
+  
+
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
@@ -20,6 +23,8 @@
 <meta property="og:title" content="Portfolio">
 <meta property="og:url" content="http://localhost:4000/portfolio/">
 
+
+  <meta property="og:description" content="Personal Blog, Portfolio, and Random project hosting by Emmanuel Medina">
 
 
 
@@ -37,9 +42,16 @@
 
 
 
-
-
-
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Emmanuel Medina",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
 
 
 
@@ -60,8 +72,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
-<!--[if IE ]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -112,13 +125,13 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/" >Blog</a>
+              <a href="/">Blog</a>
             </li><li class="masthead__menu-item">
-              <a href="/about/" >About</a>
+              <a href="/about/">About</a>
             </li><li class="masthead__menu-item">
-              <a href="/links-and-resources/" >Links and Resources</a>
+              <a href="/links-and-resources/">Links and Resources</a>
             </li><li class="masthead__menu-item">
-              <a href="/portfolio/" >Portfolio</a>
+              <a href="/portfolio/">Portfolio</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -155,8 +168,6 @@
   
     <div class="author__avatar">
       
-
-      
         <img src="/images/zaza.jpg" alt="Emmanuel Medina" itemprop="image">
       
     </div>
@@ -167,9 +178,10 @@
       <h3 class="author__name" itemprop="name">Emmanuel Medina</h3>
     
     
-      <p class="author__bio" itemprop="description">
-        I struggle to call myself an artist so I'm a *content creator*
-      </p>
+      <div class="author__bio" itemprop="description">
+        <p>I struggle to call myself an artist so I’m a <em>content creator</em></p>
+
+      </div>
     
   </div>
 
@@ -185,19 +197,19 @@
       
         
           
-            <li><a href="https://zaza.studio" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Critical Point</a></li>
+            <li><a href="https://zaza.studio" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Critical Point</span></a></li>
           
         
           
-            <li><a href="https://twitter.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+            <li><a href="https://twitter.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
           
         
           
-            <li><a href="https://github.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+            <li><a href="https://github.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
           
-            <li><a href="https://instagram.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+            <li><a href="https://instagram.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
           
         
       
@@ -265,6 +277,7 @@
   </div>
 
 
+
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Portfolio">
     
@@ -277,6 +290,8 @@
           <h1 id="page-title" class="page__title" itemprop="headline">Portfolio
 </h1>
           
+
+
         </header>
       
 
@@ -292,37 +307,37 @@
   
     
       <a href="/images/portfolio/HempGlory-Logo-Text-Serif.jpg" title="HempGlory Logo">
-        <img src="/images/portfolio/HempGlory-Logo-Text-Serif.jpg" alt="HempGlory Logo" />
+          <img src="/images/portfolio/HempGlory-Logo-Text-Serif.jpg" alt="HempGlory Logo" />
       </a>
     
   
     
       <a href="/images/portfolio/HempGlory_Logo_New.jpg" title="HG Flower Logo">
-        <img src="/images/portfolio/HempGlory_Logo_New.jpg" alt="HG Flower Logo" />
+          <img src="/images/portfolio/HempGlory_Logo_New.jpg" alt="HG Flower Logo" />
       </a>
     
   
     
       <a href="/images/portfolio/Orange.jpg" title="HempGlory Bottle Art">
-        <img src="/images/portfolio/Orange.jpg" alt="Bottle Label Design and Photography with Background" />
+          <img src="/images/portfolio/Orange.jpg" alt="Bottle Label Design and Photography with Background" />
       </a>
     
   
     
       <a href="/images/portfolio/HG-Blossums-crop.jpg" title="HempGlory Banner">
-        <img src="/images/portfolio/HG-Blossums-crop.jpg" alt="HempGlory Banner" />
+          <img src="/images/portfolio/HG-Blossums-crop.jpg" alt="HempGlory Banner" />
       </a>
     
   
     
       <a href="/images/portfolio/Info_Banner1.jpg" title="HG Pet Banner">
-        <img src="/images/portfolio/Info_Banner1.jpg" alt="HG Pet Banner" />
+          <img src="/images/portfolio/Info_Banner1.jpg" alt="HG Pet Banner" />
       </a>
     
   
     
       <a href="/images/portfolio/Topical.jpg" title="HG Topical Products">
-        <img src="/images/portfolio/Topical.jpg" alt="HG Topical Products" />
+          <img src="/images/portfolio/Topical.jpg" alt="HG Topical Products" />
       </a>
     
   
@@ -338,19 +353,19 @@
   
     
       <a href="/images/portfolio/strikeachord.jpg" title="Show Art for Strike a Chord">
-        <img src="/images/portfolio/strikeachord.jpg" alt="Show Art for Strike a Chord" />
+          <img src="/images/portfolio/strikeachord.jpg" alt="Show Art for Strike a Chord" />
       </a>
     
   
     
       <a href="/images/portfolio/OpenToIdeas.PNG" title="Show Art for Open to Ideas">
-        <img src="/images/portfolio/OpenToIdeas.PNG" alt="Show Art for Open to Ideas" />
+          <img src="/images/portfolio/OpenToIdeas.PNG" alt="Show Art for Open to Ideas" />
       </a>
     
   
     
       <a href="/images/portfolio/StepsPodArt.png" title="Show Art for the Steps Podcast">
-        <img src="/images/portfolio/StepsPodArt.png" alt="Show Art for the Steps Podcast" />
+          <img src="/images/portfolio/StepsPodArt.png" alt="Show Art for the Steps Podcast" />
       </a>
     
   
@@ -369,18 +384,16 @@
 <figure class=" ">
   
     
-      <img src=
-        
-          ""
-        
-        alt="">
+      <img src=""
+           alt="">
     
   
   
     <figcaption>Photography
 </figcaption>
   
-</figure> -->
+</figure>
+ -->
 
 
         
@@ -392,6 +405,7 @@
 
 
         
+
       </footer>
 
       
@@ -457,7 +471,6 @@
 
     
   <script src="/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 

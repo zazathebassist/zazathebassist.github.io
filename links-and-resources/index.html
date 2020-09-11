@@ -1,7 +1,7 @@
 <!doctype html>
 <!--
-  Minimal Mistakes Jekyll Theme 4.16.5 by Michael Rose
-  Copyright 2013-2019 Michael Rose - mademistakes.com | @mmistakes
+  Minimal Mistakes Jekyll Theme 4.20.2 by Michael Rose
+  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
   Free for personal and commercial use under the MIT license
   https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
 -->
@@ -13,6 +13,9 @@
 <meta name="description" content="Personal Blog, Portfolio, and Random project hosting by Emmanuel Medina">
 
 
+  <meta name="author" content="Emmanuel Medina">
+  
+
 
 <meta property="og:type" content="website">
 <meta property="og:locale" content="en_US">
@@ -20,6 +23,8 @@
 <meta property="og:title" content="Links and Resources">
 <meta property="og:url" content="http://localhost:4000/links-and-resources/">
 
+
+  <meta property="og:description" content="Personal Blog, Portfolio, and Random project hosting by Emmanuel Medina">
 
 
 
@@ -37,9 +42,16 @@
 
 
 
-
-
-
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    
+      "@type": "Person",
+      "name": "Emmanuel Medina",
+      "url": "http://localhost:4000/"
+    
+  }
+</script>
 
 
 
@@ -60,8 +72,9 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="/assets/css/main.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
 
-<!--[if IE ]>
+<!--[if IE]>
   <style>
     /* old IE unsupported flexbox fixes */
     .greedy-nav .site-title {
@@ -112,13 +125,13 @@
           
         </a>
         <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/" >Blog</a>
+              <a href="/">Blog</a>
             </li><li class="masthead__menu-item">
-              <a href="/about/" >About</a>
+              <a href="/about/">About</a>
             </li><li class="masthead__menu-item">
-              <a href="/links-and-resources/" >Links and Resources</a>
+              <a href="/links-and-resources/">Links and Resources</a>
             </li><li class="masthead__menu-item">
-              <a href="/portfolio/" >Portfolio</a>
+              <a href="/portfolio/">Portfolio</a>
             </li></ul>
         
         <button class="search__toggle" type="button">
@@ -155,8 +168,6 @@
   
     <div class="author__avatar">
       
-
-      
         <img src="/images/zaza.jpg" alt="Emmanuel Medina" itemprop="image">
       
     </div>
@@ -167,9 +178,10 @@
       <h3 class="author__name" itemprop="name">Emmanuel Medina</h3>
     
     
-      <p class="author__bio" itemprop="description">
-        I struggle to call myself an artist so I'm a *content creator*
-      </p>
+      <div class="author__bio" itemprop="description">
+        <p>I struggle to call myself an artist so I’m a <em>content creator</em></p>
+
+      </div>
     
   </div>
 
@@ -185,19 +197,19 @@
       
         
           
-            <li><a href="https://zaza.studio" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i> Critical Point</a></li>
+            <li><a href="https://zaza.studio" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Critical Point</span></a></li>
           
         
           
-            <li><a href="https://twitter.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
+            <li><a href="https://twitter.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
           
         
           
-            <li><a href="https://github.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
+            <li><a href="https://github.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
           
         
           
-            <li><a href="https://instagram.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
+            <li><a href="https://instagram.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
           
         
       
@@ -265,6 +277,7 @@
   </div>
 
 
+
   <article class="page" itemscope itemtype="https://schema.org/CreativeWork">
     <meta itemprop="headline" content="Links and Resources">
     
@@ -277,6 +290,8 @@
           <h1 id="page-title" class="page__title" itemprop="headline">Links and Resources
 </h1>
           
+
+
         </header>
       
 
@@ -295,7 +310,6 @@
 <p>I’ll start here because there’s a few but they’re all must listens</p>
 <ul>
   <li><a href="http://www.maximumfun.org/shows/my-brother-my-brother-and-me">My Brother My Brother and Me</a>: An <em>“advice”</em> show for the modren era. It takes the format of old write in/call in advice shows, but has the funniest twists and turns. The chemistry between the McElroys is legendary and is so fun to listen to week after week.</li>
-  <li><a href="http://dobyfriday.com/">Do By Friday</a>: A weekly challenge podcast with Cards Against Humanity cocreator Max Temkin, Cards’ main HDMI cable organizer Alex Cox, and person who used to be Merlin Mann… Merlin Mann. Hilarious, frequently political but in a funny way, and the podcast I look forward to the most each week.</li>
 </ul>
 
 <h5 id="tech-podcasts">Tech Podcasts</h5>
@@ -304,7 +318,6 @@
   <li><a href="http://atp.fm/">ATP: The Accidental Tech Podcast</a>: The best tech podcast, period. Marco, Casey, and John have such a chemistry, and are so knowledgeable on so many topics. Plus they got the best theme songs and aftershows.</li>
   <li><a href="https://www.relay.fm/connected">Connected</a>: Weekly tech show. Just a really fun listen. Covers mostly the same topics as ATP and Upgrade, but the hosts are so fun.</li>
   <li><a href="https://www.relay.fm/upgrade">Upgrade</a>: Podcast with prolific podcaster Myke, and Apple veteran and former MacWorld editor-in-chief Jason Snell. Very well done, highly informational, and basically the only tech show that also covers online streaming media like Netflix, Hulu, Apple+, Disney+, and any upcoming streaming services.</li>
-  <li><a href="https://www.relay.fm/roboism">Roboism</a>: Two awesome people talk about robots. That’s it. Listen now.</li>
   <li><a href="https://daringfireball.net/thetalkshow/">The Talk Show with John Gruber</a>: One of the oldest running podcasts, John Gruber is a veteran of the tech world, and brings in wildly different, talented, and knowledgeable guests.</li>
   <li><a href="https://www.relay.fm/cortex">Cortex</a>: Robot-disguised-as-youtuber CGP Grey and Myke talk about… what is supposed to be productivity but ends up being virtual truck driving and email clients. It’s fantastic.</li>
   <li><a href="https://www.relay.fm/shows">Honestly most of the Relayverse</a>: Relay has a bunch of tech shows. I obviously have a bias towards Apple but there’s shows on Google/Android, general tech, robots, rockets, and pens.</li>
@@ -339,7 +352,6 @@
 <ul>
   <li><a href="http://www.hellointernet.fm/">Hello Internet</a>: This doesn’t feel correct in this category but I didn’t know where else to put it. CGP Grey is an amazing robot trying to understand humans and him and Brady have a phenomenal chemistry</li>
   <li><a href="https://www.relay.fm/analogue">Analog(ue)</a>: Myke and Casey Liss talk about their life. They’ve currently been going over Casey’s transition to being self employed.</li>
-  <li><a href="https://twoheadedgirl.transistor.fm/">Two-Headed Girl</a>: Alex Cox and their partner Mattie Cox go into Mattie’s transition and talk in general about gender, mental illness, transitions, and more. Warning, this podcast may make you cry.</li>
 </ul>
 
 <h5 id="fiction-podcasts">Fiction Podcasts</h5>
@@ -355,7 +367,7 @@
 <h4 id="blogs-to-follow">Blogs to Follow</h4>
 <p>I read a lot online. I have this list just as much for me(RSS has not been a successful experiment in the past), and anyone wanting to know where I get most of my shit. I won’t include sites like Ars, Wired, the Verge, or others because those are more magazines than anything. This list will definitely grow</p>
 
-<h5 id="frequenly-updated">Frequenly Updated</h5>
+<h5 id="tech---frequenly-updated">Tech - Frequenly Updated</h5>
 <ul>
   <li><a href="motherboard.vice.com">Vice Motherboard</a>: The largest blog I follow, I mean, it’s Vice. What more do I need to say. World class tech reporting. I honestly was very apprehensive putting this on here but, I mean, their content is just <em>so good</em></li>
   <li><a href="https://sixcolors.com/">Six Colors</a>: Steven Hackett’s(of Relay) blog, focusing on Apple and specifically on older Apple machines.</li>
@@ -367,7 +379,7 @@
   <li><a href="https://localmusicnet.wordpress.com/">Local Musicians Network</a>: Blog about the local Music scene in Socal <del>I’m a guest writer totally not biased dont @ me</del></li>
 </ul>
 
-<h3 id="infrequently-updated">Infrequently Updated</h3>
+<h3 id="tech---infrequently-updated">Tech - Infrequently Updated</h3>
 <p>I realized this is basically the hosts of ATP’s blogs.</p>
 <ul>
   <li><a href="https://marco.org/">Marco.org</a>: Marco Arment, former Tumblr and Instapaper developer and creator of Overcast. Recently updated with a few reviews but usually fairly audio focused.</li>
@@ -380,13 +392,12 @@
 <h4 id="favorite-apps-and-programs">Favorite Apps and Programs</h4>
 
 <ul>
-  <li><a href="https://bear.app">Bear</a>: My <em>favorite</em> note taking app. No other app holds up to this in terms of design.</li>
-  <li><a href="https://www.omnigroup.com/omnifocus/">Omnifocus</a>: Task management app and where I run my whole life</li>
+  <li><a href="https://darkroom.co/">Darkroom</a>: iPhone and iPad native photo editing app. I was a big believer in Lightroom. Being able to have such powerful editing on my primary camera is making me fully leave Lightroom for this.</li>
+  <li><a href="https://getdrafts.com/">Drafts</a>: My new <em>favorite</em> note taking and processing app. The its simple design hides the absolute power this app has. And the minimalism gets out of the way so that I can do my work and not worry about my tools.</li>
   <li><a href="https://atom.io/">Atom</a>/<a href="https://code.visualstudio.com/">MS Visual Studio Code</a>: Honestly the only good Electron Apps, it really depends which one you prefer. But they are hands down the <em>best</em> text editors I have ever used. Atom is my preferred though</li>
   <li><a href="https://www.alfredapp.com/">Alfred</a>: Spotlight replacement and insanely powerful tool for Mac</li>
   <li><a href="https://overcast.fm/">Overcast</a>: Hands down the best podcast app I’ve ever used, made by the fantastic Marco Arment</li>
   <li><a href="https://itunes.apple.com/us/app/shortcuts/id915249334?mt=8">Shortcuts</a>: Is it cheating to include an Apple made app? Is it still cheating if it’s the best automation tool ever?</li>
-  <li><a href="https://www.instapaper.com/">Instapaper</a>: Beloved in the tech world, my love affair with Instapaper is <em>very</em> recent. But with adding the Chrome extention to all my PCs, it’s becoming the only way I read articles</li>
   <li><a href="https://apolloapp.io/">Apollo</a>: Best reddit app since AlienBlue. Hands, down, no argument, don’t @ me</li>
 </ul>
 
@@ -399,6 +410,7 @@
 
 
         
+
       </footer>
 
       
@@ -464,7 +476,6 @@
 
     
   <script src="/assets/js/main.min.js"></script>
-  <script src="https://kit.fontawesome.com/4eee35f757.js"></script>
 
 
 
