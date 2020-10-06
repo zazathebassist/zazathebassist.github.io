@@ -53,9 +53,15 @@ var store = [{
         "url": "http://localhost:4000/blog/top-ten-games-decade/",
         "teaser": null
       },{
-        "title": "iPhone Photography, and Finding Photography Again",
-        "excerpt":"I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The camera was too heavy to bring, I wasn’t good enough, and I had some personal reasons. So I kinda stopped photography. The DSLR...","categories": ["personal","games"],
+        "title": "Darkroom Diary: iPhone Photography, and Finding Photography Again",
+        "excerpt":"I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The camera was too heavy to bring, I wasn’t good enough, and I had some personal reasons. So I kinda stopped photography. The DSLR...","categories": ["personal","photography","darkroom-diary"],
         "tags": [],
         "url": "http://localhost:4000/blog/iphone-photography/",
+        "teaser": null
+      },{
+        "title": "Darkroom Diary: Using a $35 Lens on a 10 Year Old Camera",
+        "excerpt":"Photography is an expensive hobby. It’s one I love but definitely will suck as much money as you put into it. So when I see a lens that costs $35 on Amazon, I know I need to get it immediately. Taken with iPhone 11 Fotasy 35mm f/1.6 Micro 4/3 Lens...","categories": ["personal","photography","darkroom-diary"],
+        "tags": [],
+        "url": "http://localhost:4000/blog/fotasy-35mm-lens/",
         "teaser": null
       }]
