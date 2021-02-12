@@ -64,4 +64,10 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/blog/fotasy-35mm-lens/",
         "teaser": null
+      },{
+        "title": "2021: Year of Discovery",
+        "excerpt":"Yearly Theme: Year of Discovery So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don’t think I need to go into why covid but it’s time to get back on the...","categories": ["personal"],
+        "tags": [],
+        "url": "http://localhost:4000/blog/year-of-discovery/",
+        "teaser": null
       }]
