@@ -1,648 +1,980 @@
-<!doctype html>
-<!--
-  Minimal Mistakes Jekyll Theme 4.20.2 by Michael Rose
-  Copyright 2013-2020 Michael Rose - mademistakes.com | @mmistakes
-  Free for personal and commercial use under the MIT license
-  https://github.com/mmistakes/minimal-mistakes/blob/master/LICENSE
--->
-<html lang="en" class="no-js">
-  <head>
-    <meta charset="utf-8">
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+	<meta name="generator" content="Hugo 0.88.1" /><meta charset='utf-8'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content=''><title></title>
 
-<!-- begin _includes/seo.html --><title>Critical Point</title>
-<meta name="description" content="Emmanuel Medina’s Personal Blog, Portfolio, and page to mess around">
+<link rel='canonical' href='https://zaza.studio/'>
 
+<link rel="stylesheet" href="/scss/style.min.css"><meta property='og:title' content=''>
+<meta property='og:description' content=''>
+<meta property='og:url' content='https://zaza.studio/'>
+<meta property='og:site_name' content='Critical Point'>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2021-09-14T00:00:00&#43;00:00 '/>
+<meta name="twitter:title" content="">
+<meta name="twitter:description" content=""><link rel="alternate" type="application/rss&#43;xml" href="https://zaza.studio/index.xml">
+    </head>
+    <body class="">
+    <script>
+        (function() {
+            const colorSchemeKey = 'StackColorScheme';
+            if(!localStorage.getItem(colorSchemeKey)){
+                localStorage.setItem(colorSchemeKey, "dark");
+            }
+        })();
+    </script><script>
+    (function() {
+        const colorSchemeKey = 'StackColorScheme';
+        const colorSchemeItem = localStorage.getItem(colorSchemeKey);
+        const supportDarkMode = window.matchMedia('(prefers-color-scheme: dark)').matches === true;
 
-  <meta name="author" content="Emmanuel Medina">
-  
+        if (colorSchemeItem == 'dark' || colorSchemeItem === 'auto' && supportDarkMode) {
+            
 
-
-<meta property="og:type" content="website">
-<meta property="og:locale" content="en_US">
-<meta property="og:site_name" content="Critical Point">
-<meta property="og:title" content="Critical Point">
-<meta property="og:url" content="http://localhost:4000/">
-
-
-  <meta property="og:description" content="Emmanuel Medina’s Personal Blog, Portfolio, and page to mess around">
-
-
-
-
-
-
-
-
-
-
-
-
-<link rel="canonical" href="http://localhost:4000/">
-
-
-
-  <link rel="next" href="http://localhost:4000/blog/page2/">
-
-
-<script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    
-      "@type": "Person",
-      "name": "Emmanuel Medina",
-      "url": "http://localhost:4000/"
-    
-  }
+            document.documentElement.dataset.scheme = 'dark';
+        } else {
+            document.documentElement.dataset.scheme = 'light';
+        }
+    })();
 </script>
+<div class="container main-container flex on-phone--column extended"><aside class="sidebar left-sidebar sticky">
+    <button class="hamburger hamburger--spin" type="button" id="toggle-menu" aria-label="Toggle Menu">
+        <span class="hamburger-box">
+            <span class="hamburger-inner"></span>
+        </span>
+    </button>
 
-
-
-
-
-
-<!-- end _includes/seo.html -->
-
-
-<link href="/feed.xml" type="application/atom+xml" rel="alternate" title="Critical Point Feed">
-
-<!-- https://t.co/dKP3o1e -->
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-
-<script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-</script>
-
-<!-- For all browsers -->
-<link rel="stylesheet" href="/assets/css/main.css">
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5/css/all.min.css">
-
-<!--[if IE]>
-  <style>
-    /* old IE unsupported flexbox fixes */
-    .greedy-nav .site-title {
-      padding-right: 3em;
-    }
-    .greedy-nav button {
-      position: absolute;
-      top: 0;
-      right: 0;
-      height: 100%;
-    }
-  </style>
-<![endif]-->
-
-
-
-    <!-- start custom head snippets -->
-
-<!-- insert favicons. use https://realfavicongenerator.net/ -->
-
-<!-- end custom head snippets -->
-
-  </head>
-
-  <body class="layout--home">
-    <nav class="skip-links">
-  <h2 class="screen-reader-text">Skip links</h2>
-  <ul>
-    <li><a href="#site-nav" class="screen-reader-shortcut">Skip to primary navigation</a></li>
-    <li><a href="#main" class="screen-reader-shortcut">Skip to content</a></li>
-    <li><a href="#footer" class="screen-reader-shortcut">Skip to footer</a></li>
-  </ul>
-</nav>
-
-    <!--[if lt IE 9]>
-<div class="notice--danger align-center" style="margin: 0;">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
-<![endif]-->
-
-    
-
-<div class="masthead">
-  <div class="masthead__inner-wrap">
-    <div class="masthead__menu">
-      <nav id="site-nav" class="greedy-nav">
+    <header class="site-info">
         
-        <a class="site-title" href="/">
-          Critical Point
-          
-        </a>
-        <ul class="visible-links"><li class="masthead__menu-item">
-              <a href="/">Blog</a>
-            </li><li class="masthead__menu-item">
-              <a href="/about/">About</a>
-            </li><li class="masthead__menu-item">
-              <a href="/links-and-resources/">Links and Resources</a>
-            </li><li class="masthead__menu-item">
-              <a href="/portfolio/">Portfolio</a>
-            </li></ul>
+            
+            <figure class="site-avatar">
+                
+                    
+                    
+                    
+                        
+                        <img src="/img/pfp_hud9e96212c6513ff1814fec066703720e_90365_300x0_resize_q75_box.jpg" width="300"
+                            height="300" class="site-logo" loading="lazy" alt="Avatar">
+                    
+                
+
+                
+                    <span class="emoji">🦔</span>
+                
+            </figure>
+            
         
-        <button class="search__toggle" type="button">
-          <span class="visually-hidden">Toggle search</span>
-          <svg class="icon" width="16" height="16" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 15.99 16">
-            <path d="M15.5,13.12L13.19,10.8a1.69,1.69,0,0,0-1.28-.55l-0.06-.06A6.5,6.5,0,0,0,5.77,0,6.5,6.5,0,0,0,2.46,11.59a6.47,6.47,0,0,0,7.74.26l0.05,0.05a1.65,1.65,0,0,0,.5,1.24l2.38,2.38A1.68,1.68,0,0,0,15.5,13.12ZM6.4,2A4.41,4.41,0,1,1,2,6.4,4.43,4.43,0,0,1,6.4,2Z" transform="translate(-.01)"></path>
-          </svg>
-        </button>
+        <h1 class="site-name"><a href="https://zaza.studio">Critical Point</a></h1>
+        <h2 class="site-description">I struggle to call myself an artist so I&#39;m a *content creator*</h2>
+    </header>
+
+    <ol class="menu" id="main-menu">
         
-        <button class="greedy-nav__toggle hidden" type="button">
-          <span class="visually-hidden">Toggle menu</span>
-          <div class="navicon"></div>
-        </button>
-        <ul class="hidden-links hidden"></ul>
-      </nav>
-    </div>
-  </div>
-</div>
+        
+        
+
+        <li >
+            <a href='/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-home" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <polyline points="5 12 3 12 12 3 21 12 19 12" />
+  <path d="M5 12v7a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-7" />
+  <path d="M9 21v-6a2 2 0 0 1 2 -2h2a2 2 0 0 1 2 2v6" />
+</svg>
 
 
-    <div class="initial-content">
-      
 
-
-
-<div id="main" role="main">
-  
-  <div class="sidebar sticky">
-  
-
-
-<div itemscope itemtype="https://schema.org/Person">
-
-  
-    <div class="author__avatar">
-      
-        <img src="/images/zaza.jpg" alt="Emmanuel Medina" itemprop="image">
-      
-    </div>
-  
-
-  <div class="author__content">
-    
-      <h3 class="author__name" itemprop="name">Emmanuel Medina</h3>
-    
-    
-      <div class="author__bio" itemprop="description">
-        <p>I struggle to call myself an artist so I’m a <em>content creator</em></p>
-
-      </div>
-    
-  </div>
-
-  <div class="author__urls-wrapper">
-    <button class="btn btn--inverse">Follow</button>
-    <ul class="author__urls social-icons">
-      
-        <li itemprop="homeLocation" itemscope itemtype="https://schema.org/Place">
-          <i class="fas fa-fw fa-map-marker-alt" aria-hidden="true"></i> <span itemprop="name">Inland Empire, CA, USA</span>
+                
+                <span>Home</span>
+            </a>
         </li>
-      
-
-      
         
-          
-            <li><a href="https://zaza.studio" rel="nofollow noopener noreferrer"><i class="fas fa-fw fa-link" aria-hidden="true"></i><span class="label">Critical Point</span></a></li>
-          
         
-          
-            <li><a href="https://twitter.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i><span class="label">Twitter</span></a></li>
-          
+
+        <li >
+            <a href='/about/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>About</span>
+            </a>
+        </li>
         
-          
-            <li><a href="https://github.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i><span class="label">GitHub</span></a></li>
-          
         
-          
-            <li><a href="https://instagram.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i><span class="label">Instagram</span></a></li>
-          
+
+        <li >
+            <a href='/links-and-resources/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-user" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="7" r="4" />
+  <path d="M6 21v-2a4 4 0 0 1 4 -4h4a4 4 0 0 1 4 4v2" />
+</svg>
+
+
+
+                
+                <span>Links and Resources</span>
+            </a>
+        </li>
         
-      
+        
 
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      
-
-      <!--
-  <li>
-    <a href="http://link-to-whatever-social-network.com/user/" itemprop="sameAs" rel="nofollow noopener noreferrer">
-      <i class="fas fa-fw" aria-hidden="true"></i> Custom Social Profile Link
-    </a>
-  </li>
--->
-    </ul>
-  </div>
-</div>
-
-  
-  </div>
+        <li >
+            <a href='/archives/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-archive" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <rect x="3" y="4" width="18" height="4" rx="2" />
+  <path d="M5 8v10a2 2 0 0 0 2 2h10a2 2 0 0 0 2 -2v-10" />
+  <line x1="10" y1="12" x2="14" y2="12" />
+</svg>
 
 
 
-  <div class="archive">
+                
+                <span>Archives</span>
+            </a>
+        </li>
+        
+        
+
+        <li >
+            <a href='/search/' >
+                
+                    <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+                
+                <span>Search</span>
+            </a>
+        </li>
+        
+
+        
+            <li id="dark-mode-toggle">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-left" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="8" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-toggle-right" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="16" cy="12" r="2" />
+  <rect x="2" y="6" width="20" height="12" rx="6" />
+</svg>
+
+
+
+                <span>Dark Mode</span>
+            </li>
+        
+    </ol>
+</aside>
+<main class="main full-width">
     
-      <h1 id="page-title" class="page__title"></h1>
     
-    <a href="#" class="image main"><img src="/images/frontpage.jpg" alt="Homepage" /></a>
-
-	<p>This site will be both a personal blog, and experimentation in relearning HTML learning CSS, and learning how to use Jekyll.
-        <br> Upcoming will be ranty posts, articles about MTG, solo/one shot podcast recordings, videos, music, or anything my mind tells me I have to do.
-	</p>
-
-
-<h3 class="archive__subtitle">Recent Posts</h3>
-
-
-
-
-<div class="entries-list">
-  
+    
     
 
+    <section class="article-list">
+        
+            
+<article class="">
+    <header class="article-header">
 
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
+    <div class="article-details">
     
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/year-of-discovery/" rel="permalink">Yearly Theme 2021: Year of Discovery
-</a>
-      
+    <header class="article-category">
+        
+            <a href="/categories/personal/" >
+                personal
+            </a>
+        
+            <a href="/categories/yearly-theme/" >
+                yearly theme
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="/p/yearly-theme-2021/">Yearly Theme 2021: Year of Discovery</a>
     </h2>
-    
-
-  <p class="page__meta">
-    
 
     
 
     
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+    <footer class="article-time">
         
-          1 minute read
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Feb 06, 2021</time>
+            </div>
         
-      </span>
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    2 minute read
+                </time>
+            </div>
+        
+    </footer>
     
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don’t think I ne...</p>
-  </article>
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
 
-  
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/photography/" >
+                photography
+            </a>
+        
+            <a href="/categories/darkroom-diary/" >
+                darkroom diary
+            </a>
+        
+    </header>
     
 
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/fotasy-35mm-lens/" rel="permalink">Darkroom Diary: Using a $35 Lens on a 10 Year Old Camera
-</a>
-      
+    <h2 class="article-title">
+        <a href="/p/darkroom-diary-35-dollar-lens/">Darkroom Diary: Using a $35 Lens on a 10 Year Old Camera</a>
     </h2>
-    
-
-  <p class="page__meta">
-    
 
     
 
     
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+    <footer class="article-time">
         
-          6 minute read
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Oct 05, 2020</time>
+            </div>
         
-      </span>
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    7 minute read
+                </time>
+            </div>
+        
+    </footer>
     
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">Photography is an expensive hobby. It’s one I love but definitely will suck as much money as you put into it. So when I see a lens that costs $35 on Amazon, ...</p>
-  </article>
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
 
-  
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/personal/" >
+                personal
+            </a>
+        
+            <a href="/categories/photography/" >
+                photography
+            </a>
+        
+            <a href="/categories/darkroom-diary/" >
+                darkroom diary
+            </a>
+        
+    </header>
     
 
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/iphone-photography/" rel="permalink">Darkroom Diary: iPhone Photography, and Finding Photography Again
-</a>
-      
+    <h2 class="article-title">
+        <a href="/p/iphone-photography/">Darkroom Diary: iPhone Photography, and Finding Photography Again</a>
     </h2>
-    
-
-  <p class="page__meta">
-    
 
     
 
     
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+    <footer class="article-time">
         
-          7 minute read
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Sep 10, 2020</time>
+            </div>
         
-      </span>
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    8 minute read
+                </time>
+            </div>
+        
+    </footer>
     
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The ca...</p>
-  </article>
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
 
-  
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/games/" >
+                games
+            </a>
+        
+    </header>
     
 
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/top-ten-games-decade/" rel="permalink">Top Ten Games of the Decade (2010-2019)
-</a>
-      
+    <h2 class="article-title">
+        <a href="/p/top-10-games-of-2010-2019/">Top Ten Games of the Decade (2010-2019)</a>
     </h2>
-    
-
-  <p class="page__meta">
-    
 
     
 
     
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+    <footer class="article-time">
         
-          17 minute read
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Jan 01, 2020</time>
+            </div>
         
-      </span>
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    17 minute read
+                </time>
+            </div>
+        
+    </footer>
     
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">It’s the end of the 2010s and I really want to reflect on my life. But I feel like I’m in a flux part of my life and with so much happening around me, I thou...</p>
-  </article>
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
 
-  
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/games/" >
+                games
+            </a>
+        
+            <a href="/categories/magic/" >
+                magic
+            </a>
+        
+            <a href="/categories/state-of-magic/" >
+                state of magic
+            </a>
+        
+    </header>
     
 
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/Oko-A-Returning-Players-Perspective/" rel="permalink">Oko: A Returning Player’s Perspective
-</a>
-      
+    <h2 class="article-title">
+        <a href="/p/state-of-magic-2019/">Oko: A Returning Player&#39;s Perspective</a>
     </h2>
-    
-
-  <p class="page__meta">
-    
 
     
 
     
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+    <footer class="article-time">
         
-          8 minute read
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Nov 27, 2019</time>
+            </div>
         
-      </span>
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    8 minute read
+                </time>
+            </div>
+        
+    </footer>
     
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say.
-
-</p>
-  </article>
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
 
-  
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/gaming/" >
+                gaming
+            </a>
+        
+            <a href="/categories/reviews/" >
+                reviews
+            </a>
+        
+    </header>
     
 
-
-
-<div class="list__item">
-  <article class="archive__item" itemscope itemtype="https://schema.org/CreativeWork">
-    
-    <h2 class="archive__item-title no_toc" itemprop="headline">
-      
-        <a href="/blog/ios-game-review-elder-scrolls-blades/" rel="permalink">iOS Game Reviews: Elder Scrolls Blades
-</a>
-      
+    <h2 class="article-title">
+        <a href="/p/ios-review-es-blades/">iOS Game Reviews: Elder Scrolls Blades</a>
     </h2>
-    
-
-  <p class="page__meta">
-    
 
     
 
     
-      
-      
-
-      <span class="page__meta-readtime">
-        <i class="far fa-clock" aria-hidden="true"></i>
+    <footer class="article-time">
         
-          11 minute read
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Apr 11, 2019</time>
+            </div>
         
-      </span>
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    12 minute read
+                </time>
+            </div>
+        
+    </footer>
     
-  </p>
-
-
-    <p class="archive__item-excerpt" itemprop="description">I want to love Elder Scrolls: Blades. I do. I really really do.
-
-</p>
-  </article>
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
 
-  
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/personal/" >
+                personal
+            </a>
+        
+            <a href="/categories/yearly-theme/" >
+                yearly theme
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="/p/2019-yearly-theme/">2019: Year of Content</a>
+    </h2>
+
+    
+
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Jan 06, 2019</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    2 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
 
-
-<nav class="pagination">
-  
-  <ul>
+    <div class="article-details">
     
-    
-    <li><a href="#" class="disabled"><span aria-hidden="true">Previous</span></a></li>
-    
-
-    
-    
-      <li><a href="#" class="disabled current">1</a></li>
-    
-
-    
-    
-
-    
-    
+    <header class="article-category">
+        
+            <a href="/categories/personal/" >
+                personal
+            </a>
+        
+    </header>
     
 
-    
+    <h2 class="article-title">
+        <a href="/p/disconnect/">Accidental Disconnect from the Internet</a>
+    </h2>
 
-    
     
 
     
-      <li><a href="/blog/page2/">2</a></li>
-    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 29, 2018</time>
+            </div>
+        
 
-    
-    
-      <li><a href="/blog/page2/">Next</a></li>
-    
-  </ul>
-</nav>
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
 
 
 
-  </div>
+                <time class="article-time--reading">
+                    4 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
 </div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/personal/" >
+                personal
+            </a>
+        
+            <a href="/categories/games/" >
+                games
+            </a>
+        
+            <a href="/categories/magic/" >
+                magic
+            </a>
+        
+            <a href="/categories/state-of-magic/" >
+                state of magic
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="/p/state-of-magic-2018/">Coming Back to Magic</a>
+    </h2>
+
+    
+
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Dec 05, 2018</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    4 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+</div>
+</header>
+</article>
+        
+            
+<article class="">
+    <header class="article-header">
+
+    <div class="article-details">
+    
+    <header class="article-category">
+        
+            <a href="/categories/politics/" >
+                politics
+            </a>
+        
+    </header>
+    
+
+    <h2 class="article-title">
+        <a href="/p/fear/">Back to Living in Fear</a>
+    </h2>
+
+    
+
+    
+    <footer class="article-time">
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-calendar-time" width="56" height="56" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11.795 21h-6.795a2 2 0 0 1 -2 -2v-12a2 2 0 0 1 2 -2h12a2 2 0 0 1 2 2v4" />
+  <circle cx="18" cy="18" r="4" />
+  <path d="M15 3v4" />
+  <path d="M7 3v4" />
+  <path d="M3 11h16" />
+  <path d="M18 16.496v1.504l1 1" />
+</svg>
+                <time class="article-time--published">Nov 23, 2018</time>
+            </div>
+        
+
+        
+            <div>
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-clock" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="12" cy="12" r="9" />
+  <polyline points="12 7 12 12 15 15" />
+</svg>
+
+
+
+                <time class="article-time--reading">
+                    3 minute read
+                </time>
+            </div>
+        
+    </footer>
+    
+</div>
+</header>
+</article>
+        
+    </section>
+    <nav class='pagination'>
+        
+        
+
+        
+            
+                <span class='page-link current'>1</span>
+                
+            
+            
+                    <a class='page-link' href='/page/2/'>2</a>
+                
+            
+    </nav>
+
+<footer class="site-footer">
+    <section class="copyright">
+        &copy; 
+        
+            2018 - 
+        
+        2021 Critical Point
+    </section>
+    
+    <section class="powerby">
+        Built with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> <br />
+        Theme <b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="3.2.0">Stack</a></b> designed by <a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>
+    </section>
+</footer>
+
+            </main>
+    
+    
+    <aside class="sidebar right-sidebar sticky">
+        
+            <form action="/search/" class="search-form widget" >
+        <p>
+            <label>Search</label>
+            <input name="keyword" required placeholder="Type something..." />
+        
+            <button title="Search">
+                <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-search" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <circle cx="10" cy="10" r="7" />
+  <line x1="21" y1="21" x2="15" y2="15" />
+</svg>
+
+
+
+            </button>
+        </p>
+    </form>
+        
+            <section class="widget archives">
+        <div class="widget-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-infinity" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M9.828 9.172a4 4 0 1 0 0 5.656 a10 10 0 0 0 2.172 -2.828a10 10 0 0 1 2.172 -2.828 a4 4 0 1 1 0 5.656a10 10 0 0 1 -2.172 -2.828a10 10 0 0 0 -2.172 -2.828" />
+</svg>
+
+
+
+        </div>
+        <h2 class="widget-title section-title">Archives</h2>
+
+        
+        
+        
+        
+        
+        <div class="widget-archive--list">
+            <div class="archives-year">
+                    <a href="/archives/#2021">
+                        
+                            <span class="year">2021</span>
+                            <span class="count">1</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2020">
+                        
+                            <span class="year">2020</span>
+                            <span class="count">3</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2019">
+                        
+                            <span class="year">2019</span>
+                            <span class="count">3</span>
+                        
+                    </a> 
+                </div>
+            <div class="archives-year">
+                    <a href="/archives/#2018">
+                        
+                            <span class="year">2018</span>
+                            <span class="count">4</span>
+                        
+                    </a> 
+                </div>
+            
+        </div>
+    </section>
+        
+            <section class="widget tagCloud">
+    <div class="widget-icon">
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon icon-tabler icon-tabler-tag" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round">
+  <path stroke="none" d="M0 0h24v24H0z"/>
+  <path d="M11 3L20 12a1.5 1.5 0 0 1 0 2L14 20a1.5 1.5 0 0 1 -2 0L3 11v-4a4 4 0 0 1 4 -4h4" />
+  <circle cx="9" cy="9" r="2" />
+</svg>
+
+
+
     </div>
+    <h2 class="widget-title section-title">Tags</h2>
 
-    
-      <div class="search-content">
-        <div class="search-content__inner-wrap"><form class="search-content__form" onkeydown="return event.key != 'Enter';">
-    <label class="sr-only" for="search">
-      Enter your search term...
-    </label>
-    <input type="search" id="search" class="search-input" tabindex="-1" placeholder="Enter your search term..." />
-  </form>
-  <div id="results" class="results"></div></div>
-
-      </div>
-    
-
-    <div id="footer" class="page__footer">
-      <footer>
-        <!-- start custom footer snippets -->
-
-<!-- end custom footer snippets -->
-        <div class="page__footer-follow">
-  <ul class="social-icons">
-    
-
-    
-      
+    <div class="tagCloud-tags">
         
-          <li><a href="https://twitter.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-twitter-square" aria-hidden="true"></i> Twitter</a></li>
-        
-      
-        
-          <li><a href="https://github.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-github" aria-hidden="true"></i> GitHub</a></li>
-        
-      
-        
-          <li><a href="https://instagram.com/zazathebassist" rel="nofollow noopener noreferrer"><i class="fab fa-fw fa-instagram" aria-hidden="true"></i> Instagram</a></li>
-        
-      
-    
-
-    <li><a href="/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a></li>
-  </ul>
-</div>
-
-<div class="page__footer-copyright">&copy; 2021 Emmanuel Medina. Powered by <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.</div>
-
-      </footer>
     </div>
-
-    
-  <script src="/assets/js/main.min.js"></script>
-
-
+</section>
+        
+    </aside>
 
 
-<script src="/assets/js/lunr/lunr.min.js"></script>
-<script src="/assets/js/lunr/lunr-store.js"></script>
-<script src="/assets/js/lunr/lunr-en.js"></script>
+        </div>
+        <script 
+                src="https://cdn.jsdelivr.net/npm/node-vibrant@3.1.5/dist/vibrant.min.js"integrity="sha256-5NovOZc4iwiAWTYIFiIM7DxKUXKWvpVEuMEPLzcm5/g="crossorigin="anonymous"
+                defer="false"
+                >
+            </script><script type="text/javascript" src="/ts/main.js" defer></script>
+<script>
+    (function () {
+        const customFont = document.createElement('link');
+        customFont.href = "https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap";
 
+        customFont.type = "text/css";
+        customFont.rel = "stylesheet";
 
+        document.head.appendChild(customFont);
+    }());
+</script>
 
-
-
-
-
-  </body>
+    </body>
 </html>

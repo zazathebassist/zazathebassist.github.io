@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project on Critical Point</title>
+    <link>https://zaza.studio/categories/project/</link>
+    <description>Recent content in project on Critical Point</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zaza.studio/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Test Blog Part 3!</title>
+      <link>https://zaza.studio/p/test-blog-part-3/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/p/test-blog-part-3/</guid>
+      <description>This is my 4th blog attempt. I am keeping this piece unedited to show my thought process back in 2018. Note I am no longer on Jekyll or using the Minimal Mistakes theme  I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr&amp;hellip; I don&amp;rsquo;t) in earnest to start. And it&amp;rsquo;s been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here).</description>
+    </item>
+    
+  </channel>
+</rss>

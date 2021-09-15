@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Critical Point</title>
+    <link>https://zaza.studio/categories/</link>
+    <description>Recent content in Categories on Critical Point</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 06 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://zaza.studio/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>personal</title>
+      <link>https://zaza.studio/categories/personal/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>yearly theme</title>
+      <link>https://zaza.studio/categories/yearly-theme/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/yearly-theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>darkroom diary</title>
+      <link>https://zaza.studio/categories/darkroom-diary/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/darkroom-diary/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://zaza.studio/categories/photography/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/photography/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>games</title>
+      <link>https://zaza.studio/categories/games/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>magic</title>
+      <link>https://zaza.studio/categories/magic/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/magic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>state of magic</title>
+      <link>https://zaza.studio/categories/state-of-magic/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/state-of-magic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gaming</title>
+      <link>https://zaza.studio/categories/gaming/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/gaming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>reviews</title>
+      <link>https://zaza.studio/categories/reviews/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/reviews/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>politics</title>
+      <link>https://zaza.studio/categories/politics/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/politics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>project</title>
+      <link>https://zaza.studio/categories/project/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>update</title>
+      <link>https://zaza.studio/categories/update/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/update/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://zaza.studio/categories/test/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/categories/test/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
