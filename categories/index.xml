@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Critical Point</title>
+    <title>Categories on critical point</title>
     <link>https://zaza.studio/categories/</link>
-    <description>Recent content in Categories on Critical Point</description>
+    <description>Recent content in Categories on critical point</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zaza.studio/categories/index.xml" rel="self" type="application/rss+xml" />
@@ -14,6 +14,7 @@
       
       <guid>https://zaza.studio/categories/yearly-theme/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -23,6 +24,7 @@
       
       <guid>https://zaza.studio/categories/music/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -32,6 +34,7 @@
       
       <guid>https://zaza.studio/categories/darkroom-diary/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -41,6 +44,7 @@
       
       <guid>https://zaza.studio/categories/photography/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -50,6 +54,7 @@
       
       <guid>https://zaza.studio/categories/games/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -59,6 +64,7 @@
       
       <guid>https://zaza.studio/categories/reviews/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -68,6 +74,7 @@
       
       <guid>https://zaza.studio/categories/magic/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -77,6 +84,7 @@
       
       <guid>https://zaza.studio/categories/state-of-magic/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -86,6 +94,7 @@
       
       <guid>https://zaza.studio/categories/gaming/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -95,6 +104,7 @@
       
       <guid>https://zaza.studio/categories/politics/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -104,6 +114,7 @@
       
       <guid>https://zaza.studio/categories/project/</guid>
       <description></description>
+      <content></content>
     </item>
     
     <item>
@@ -113,15 +124,7 @@
       
       <guid>https://zaza.studio/categories/update/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>Test</title>
-      <link>https://zaza.studio/categories/test/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://zaza.studio/categories/test/</guid>
-      <description></description>
+      <content></content>
     </item>
     
   </channel>

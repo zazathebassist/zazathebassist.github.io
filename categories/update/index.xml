@@ -1,19 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>update on Critical Point</title>
+    <title>update on critical point</title>
     <link>https://zaza.studio/categories/update/</link>
-    <description>Recent content in update on Critical Point</description>
+    <description>Recent content in update on critical point</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 21 Nov 2018 00:00:00 +0000</lastBuildDate><atom:link href="https://zaza.studio/categories/update/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Test Blog Part 3!</title>
-      <link>https://zaza.studio/p/test-blog-part-3/</link>
+      <link>https://zaza.studio/posts/test-blog-part-3/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/p/test-blog-part-3/</guid>
-      <description>This is my 4th blog attempt. I am keeping this piece unedited to show my thought process back in 2018. Note I am no longer on Jekyll or using the Minimal Mistakes theme  I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr&amp;hellip; I don&amp;rsquo;t) in earnest to start. And it&amp;rsquo;s been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here).</description>
+      <guid>https://zaza.studio/posts/test-blog-part-3/</guid>
+      <description>i&amp;rsquo;m on blog #5 now. im also a different gender from when i wrote this. it&amp;rsquo;s here as an archive, mostly for nostalgia at this point. at the insufferably up-tight loser i was i guess. everything below here is past me
+I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr&amp;hellip; I don&amp;rsquo;t) in earnest to start. And it&amp;rsquo;s been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here).</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;i&amp;rsquo;m on blog #5 now. im also a different gender from when i wrote this. it&amp;rsquo;s here as an archive, mostly for nostalgia at this point. at the insufferably up-tight loser i was i guess. &lt;br&gt;
+everything below here is past me&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr&amp;hellip; I don&amp;rsquo;t) in earnest to start. And it&amp;rsquo;s been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here). But here I am. Starting fresh with a new blog in a new place.&lt;/p&gt;
+&lt;p&gt;I guess I should maybe start with what this blog is and why I&amp;rsquo;m doing it. The blog itself is a &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; blog run off &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt; The theme is &lt;a href=&#34;https://mmistakes.github.io/minimal-mistakes/&#34;&gt;Minimal Mistakes&lt;/a&gt;. I switched to that from &lt;a href=&#34;https://github.com/iwiedenm/jekyll-theme-massively-src&#34;&gt;Massively&lt;/a&gt; because I wanted more customization and dark themes.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve previously made blogs using Wordpress, both the actual &lt;a href=&#34;https://wordpress.com&#34;&gt;blog hosting platform&lt;/a&gt; and the &lt;a href=&#34;https://wordpress.org&#34;&gt;self hosted service&lt;/a&gt;. And every time there was just some reason I couldn&amp;rsquo;t continue. Wordpress.com was just too restrictive and needed you to pay for &lt;em&gt;everything&lt;/em&gt;, whereas the self hosted one was 100% my fault cause I hosted it from my own place&amp;hellip; and DNS isn&amp;rsquo;t fun. I&amp;rsquo;ll just leave that there. Both solutions are great, but not for me.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;So here I am.&lt;/strong&gt;&lt;/em&gt; On a new service in a new place. I&amp;rsquo;ve already run into a new set of challenges. Jekyll is statically generated off of local files, so any changes to the site need to be made from a computer that has these files. And while I can share them all through GitHub, it still severely restricts where I can make changes to my site. Also, Ruby is&amp;hellip; picky. I am actually writing this post from my grandparents&amp;rsquo; house in Mexico, with no internet connection. I attempt to run the Jekyll build function, but it says I&amp;rsquo;m missing a file that&amp;rsquo;s on the PC, and the self fix tool needs internet access. So I&amp;rsquo;m completely blind to what this post will even look like when done.&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;Could not find ffi-1.9.18 in any of the sources&lt;/code&gt; This error message will haunt my dreams.&lt;/p&gt;
+&lt;p&gt;So&amp;hellip; I&amp;rsquo;ve talked about what I&amp;rsquo;m doing, and the challenges I&amp;rsquo;ve faced. But &lt;em&gt;why&lt;/em&gt;? &lt;strong&gt;Why&lt;/strong&gt; am I putting myself through this? Is it masochism? Is it some weird social experiment? Honestly&amp;hellip; I don&amp;rsquo;t know. I just know I need an outlet. I have an overactive mind. I suffer from what my friend lovingly called &lt;em&gt;creative blue balls&lt;/em&gt;. In my day job, in my life, in my band, there&amp;rsquo;s not many outlets for me to let go and publish what&amp;rsquo;s going on in my head. I need a dumping ground that isn&amp;rsquo;t my notes app(shoutout to &lt;a href=&#34;https://bear.app&#34;&gt;Bear&lt;/a&gt;). I need something public, even if no one will read it, to host my ideas. I need a sort of public journal to come back to.&lt;/p&gt;
+&lt;p&gt;I also essentially need a portfolio. I am doing what I can to shape my life and make it so I can make my way into freelancing, and I need a way to show what I&amp;rsquo;m really about. So I guess there&amp;rsquo;s that too.&lt;/p&gt;
+&lt;p&gt;Stick around I guess. I can guarantee I&amp;rsquo;ll be writing more.&lt;/p&gt;
+</content>
     </item>
     
   </channel>

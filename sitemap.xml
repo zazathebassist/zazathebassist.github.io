@@ -2,50 +2,56 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zaza.studio/about/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaza.studio/music/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zaza.studio/photography/</loc>
+    <lastmod>2023-04-04T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zaza.studio/categories/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/post/</loc>
+    <loc>https://zaza.studio/posts/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/yearly-theme/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/yearly-theme-2022/</loc>
+    <loc>https://zaza.studio/posts/yearly-theme-2022/</loc>
     <lastmod>2022-01-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/2021-retrospective/</loc>
+    <loc>https://zaza.studio/posts/yearly-theme-2021-retrospective/</loc>
     <lastmod>2021-12-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/music/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/top-songs/</loc>
+    <loc>https://zaza.studio/posts/top-songs/</loc>
     <lastmod>2021-09-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/yearly-theme-2021/</loc>
+    <loc>https://zaza.studio/posts/yearly-theme-2021/</loc>
     <lastmod>2021-02-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/darkroom-diary/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/darkroom-diary-35-dollar-lens/</loc>
+    <loc>https://zaza.studio/posts/darkroom-diary-35-dollar-lens/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/photography/</loc>
     <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/iphone-photography/</loc>
+    <loc>https://zaza.studio/posts/iphone-photography/</loc>
     <lastmod>2020-09-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/links-and-resources/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zaza.studio/page/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
+    <loc>https://zaza.studio/archive/</loc>
+    <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/games/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
@@ -53,60 +59,51 @@
     <loc>https://zaza.studio/categories/reviews/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/top-10-games-of-2010-2019/</loc>
+    <loc>https://zaza.studio/archive/top-10-games-of-2010-2019/</loc>
     <lastmod>2020-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/magic/</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/state-of-magic-2019/</loc>
+    <loc>https://zaza.studio/posts/state-of-magic-2019/</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/state-of-magic/</loc>
     <lastmod>2019-11-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zaza.studio/categories/gaming/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/ios-review-es-blades/</loc>
+    <loc>https://zaza.studio/archive/ios-review-es-blades/</loc>
     <lastmod>2019-04-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/2019-yearly-theme/</loc>
+    <loc>https://zaza.studio/posts/2019-yearly-theme/</loc>
     <lastmod>2019-01-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/disconnect/</loc>
+    <loc>https://zaza.studio/posts/disconnect/</loc>
     <lastmod>2018-12-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/state-of-magic-2018/</loc>
+    <loc>https://zaza.studio/posts/state-of-magic-2018/</loc>
     <lastmod>2018-12-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/fear/</loc>
+    <loc>https://zaza.studio/posts/fear/</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/politics/</loc>
     <lastmod>2018-11-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/about/</loc>
-    <lastmod>2021-09-14T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zaza.studio/categories/project/</loc>
     <lastmod>2018-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/p/test-blog-part-3/</loc>
+    <loc>https://zaza.studio/posts/test-blog-part-3/</loc>
     <lastmod>2018-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/categories/update/</loc>
     <lastmod>2018-11-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://zaza.studio/</loc>
-  </url><url>
-    <loc>https://zaza.studio/search/</loc>
+    <loc>https://zaza.studio/showcase/</loc>
+    <lastmod>2018-07-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://zaza.studio/tags/</loc>
-  </url><url>
-    <loc>https://zaza.studio/categories/test/</loc>
   </url>
 </urlset>

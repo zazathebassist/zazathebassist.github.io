@@ -1,18 +1,93 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>Critical Point</title>
-        <link>https://zaza.studio/</link>
-        <description>Recent content on Critical Point</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zaza.studio/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Yearly Theme 2022: Year of Creation</title>
-        <link>https://zaza.studio/p/yearly-theme-2022/</link>
-        <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/yearly-theme-2022/</guid>
-        <description>&lt;p&gt;It&amp;rsquo;s that time of year again. Yearly Theme time. And I want to coast off the success of last year&amp;rsquo;s theme. Last year I set myself on the path of the Year of Discovery. And through that, I explored more of California and of myself then I have in a long time. I am content that I marked a good path that will allow me to keep moving forward and explore myself and the world around me more. But I want to do more than just see new things. I want to create. I have this need in me not just to observe the beauty of this world, but to contribute to it.&lt;/p&gt;
+  <channel>
+    <title>critical point</title>
+    <link>https://zaza.studio/</link>
+    <description>Recent content on critical point</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zaza.studio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>about</title>
+      <link>https://zaza.studio/about/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/about/</guid>
+      <description>im emma celeste medina and this is my blog. i&amp;rsquo;m a transfemme latina musician and photographer out of the emerald city. no not that one, the one in the cascades.
+in a former life i was the bassist and even further back the drummer for Unstoppable Force. we&amp;rsquo;re on spotify and apple music and all those places. my goal is to start playing live again at some point but ¯\_(ツ)_/¯</description>
+      <content>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;im emma celeste medina and this is my blog. i&amp;rsquo;m a transfemme latina musician and photographer out of the emerald city. no not that one, the one in the cascades.&lt;/p&gt;
+&lt;p&gt;in a former life i was the bassist and even further back the drummer for &lt;a href=&#34;http://unstoppableforce.band&#34;&gt;Unstoppable Force&lt;/a&gt;. we&amp;rsquo;re on spotify and apple music and all those places. my goal is to start playing live again at some point but ¯\_(ツ)_/¯&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;social-media&#34;&gt;social media&lt;/h2&gt;
+&lt;p&gt;i exist on the internets&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/zazathebassist/&#34;&gt;Instagram&lt;/a&gt;: my dead insta&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/emmaplaysmusic&#34;&gt;Twitter&lt;/a&gt;: the bad site.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://zaza.studio&#34;&gt;Zaza.Social&lt;/a&gt;: If you really like recursion&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;blog-tech&#34;&gt;blog tech&lt;/h2&gt;
+&lt;p&gt;he blog itself is a &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; blog run off &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. the theme is &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;Terminal&lt;/a&gt;. i wanted something simple but that was me. i think ended up with generic.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;weird-hobby-shit&#34;&gt;weird hobby shit&lt;/h2&gt;
+&lt;p&gt;i&amp;rsquo;m really into film right now, and only going to become worse. i have an Olympus XA as a camera that always lives in my bag, and a Minolta x-370 that i pull out when &lt;em&gt;f&lt;/em&gt;/2.8 isnt open enough.&lt;/p&gt;
+&lt;p&gt;i have a Jackson five string bass and a Mitchell (Guitar Center house brand, think slightly worse schecter guitar) guitar with split coil humbuckers. i make weird sounds with pedals, and sometimes normal music too.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>music</title>
+      <link>https://zaza.studio/music/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/music/</guid>
+      <description>something will appear in this page eventually</description>
+      <content>&lt;p&gt;something will appear in this page eventually&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>photography</title>
+      <link>https://zaza.studio/photography/</link>
+      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/photography/</guid>
+      <description>i have at multiple times tried to get into film photography. but every time, getting the photos to the lab is where the hobby died.
+now the lab is a single bus away. im fucked and so is my wallet.
+gear fully taking this idea from a friend to use this as a list of camera stuff i have
+Olympus XA - 35mm f/2.8 this little camera looks like an ugly 80s toy but takes some incredible pictures.</description>
+      <content>&lt;p&gt;i have at multiple times tried to get into film photography. but every time, getting the photos to the lab is where the hobby died.&lt;/p&gt;
+&lt;p&gt;now the lab is a single bus away. im fucked and so is my wallet.&lt;/p&gt;
+&lt;h2 id=&#34;gear&#34;&gt;gear&lt;/h2&gt;
+&lt;p&gt;fully taking this idea from a &lt;a href=&#34;https://photography.ultraviolet.gay/visible.html&#34;&gt;friend&lt;/a&gt; to use this as a list of camera stuff i have&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Olympus XA - 35mm &lt;em&gt;f&lt;/em&gt;/2.8 this little camera looks like an ugly 80s toy but takes some incredible pictures. the lens is way sharper than it has any right being.&lt;/li&gt;
+&lt;li&gt;Minolta x-370 - minolta gang. nuff said.&lt;/li&gt;
+&lt;li&gt;Minolta MD Rokkor-x 45mm &lt;em&gt;f&lt;/em&gt;/2 - everyone needs a sharp nifty fifty&lt;/li&gt;
+&lt;li&gt;Vivitar M/MD mount 70-210mm &lt;em&gt;f&lt;/em&gt;/4.5-5.6&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;film&#34;&gt;film&lt;/h2&gt;
+&lt;p&gt;i&amp;rsquo;m still experimenting with film stock. this is mostly gonna be a consise review of the films ive shot. i&amp;rsquo;ll eventually write more about these films but just take this as one girls perspective in the perpetually rainy pacific northwest&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ilford HP5 - it&amp;rsquo;s hp5. you either shoot it almost exclusively or you hate it. its black and white. it has nice grain. it feels like film. it looks like film. this is what film should be.&lt;/li&gt;
+&lt;li&gt;Fuji Superia 400 - a film that honestly does not get enough love. yes its a drug store film. it looks like 90s family photos. thats a &lt;em&gt;good&lt;/em&gt; thing. put it in front of a sharp lens and push it a stop and this might honestly be my favorite color film. it looks like what memories should look like&lt;/li&gt;
+&lt;li&gt;Cinestill 800t - yes, its a meme photo. yes, it takes incredible shots of neon. yes i have shot Dicks (the burger joint) with every roll of Cinestill that i&amp;rsquo;ve bought. doesnt matter. this film does the thing. it has a narrow band of what it&amp;rsquo;s good at. but if you&amp;rsquo;re shooting past golden hour, in the rain, neon, or gas stations, this is your guy&lt;/li&gt;
+&lt;li&gt;Kodak Gold 200 - its color film. its fine. it&amp;rsquo;s fun, even. it looks like what color film should. but i guess it doesnt really do anything to stand out like fuji superia 400.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;more film coming. i have a roll of arista 400 and cinestill 400d in the fridge&lt;/p&gt;
+&lt;h2 id=&#34;darkroom&#34;&gt;darkroom&lt;/h2&gt;
+&lt;p&gt;i&amp;rsquo;ve been bitten by the &amp;ldquo;you dont spend enough money on this hobby, here&amp;rsquo;s a tangential hobby&amp;rdquo; bug. now i wanna make my own darkroom.&lt;/p&gt;
+&lt;p&gt;for now im slowly collecting what i need to start developing with caffenol. for your own sanity, dont look it up.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Yearly Theme 2022: Year of Creation</title>
+      <link>https://zaza.studio/posts/yearly-theme-2022/</link>
+      <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/yearly-theme-2022/</guid>
+      <description>It&amp;rsquo;s that time of year again. Yearly Theme time. And I want to coast off the success of last year&amp;rsquo;s theme. Last year I set myself on the path of the Year of Discovery. And through that, I explored more of California and of myself then I have in a long time. I am content that I marked a good path that will allow me to keep moving forward and explore myself and the world around me more.</description>
+      <content>&lt;p&gt;It&amp;rsquo;s that time of year again. Yearly Theme time. And I want to coast off the success of last year&amp;rsquo;s theme. Last year I set myself on the path of the Year of Discovery. And through that, I explored more of California and of myself then I have in a long time. I am content that I marked a good path that will allow me to keep moving forward and explore myself and the world around me more. But I want to do more than just see new things. I want to create. I have this need in me not just to observe the beauty of this world, but to contribute to it.&lt;/p&gt;
 &lt;p&gt;That is why this year I am setting off on the Year of Creation.&lt;/p&gt;
 &lt;p&gt;Creativity has been something I have struggled with regularly throughout my life. I have regularly wanted to or tried to pursue creative venues, but either because of some bad executive dysfunction, overly busy schedules, or imposter syndrome I have ended up not following through. My most creative solo venture, my TikTok page, lasted essentially 4 months before I needed to take a break. I&amp;rsquo;m not happy about that.&lt;/p&gt;
 &lt;p&gt;However, I feel like I have entered a new part of my life. One where I am able to dedicate the time and energy to create in the ways I want to, and I want a theme that will help me pursue this better. But the big thing here is what I mean by &amp;ldquo;creativity&amp;rdquo;.&lt;/p&gt;
@@ -21,18 +96,18 @@
 &lt;p&gt;The creative venues I have available to me are&amp;hellip; too many. But I would like to spend more time creating music and video content. Above all, I always come back to music and video as the two creative venues that fill me with the most joy and offset that difficulty I have in creating stuff. I don&amp;rsquo;t like setting myself goals, but I want to have music published. I have run a semi-successful video channel already, music is the one venue I have not truly been able to just make my own. It has always been tied to other people. And with my band in a &lt;em&gt;difficult spot&lt;/em&gt;, this year more than ever will be a good year for this.&lt;/p&gt;
 &lt;p&gt;So, here I go. This article is part of the Year of Creation. I got two blog posts out in a week. I don&amp;rsquo;t expect to keep this pace, but I wanna keep this energy through the year.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;The concept of yearly themes comes from the podcast &lt;a class=&#34;link&#34; href=&#34;https://www.relay.fm/cortex/79&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Cortex&lt;/a&gt; with CGP Grey and Myke Hurley. They have genuinely helped me think of my life in a way better way. You can also check them out a video that Grey made about yearly themes here &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=NVGuFdX5guE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.youtube.com/watch?v=NVGuFdX5guE&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Yearly Theme Wrap-up 2021: Year of Discovery</title>
-        <link>https://zaza.studio/p/2021-retrospective/</link>
-        <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/2021-retrospective/</guid>
-        <description>&lt;p&gt;I did not expect 2021 to be a whole second year of Covid. When I chose my yearly theme, the Vaccine had been completed and it looked like full vaccinations would happen by the end of Spring. How could I have foreseen Covid being so political that almost a year after after the vaccine started being given, we would be at 61% of the country vaccinated, and have experienced two variants and three whole waves requiring the wold to continue shutting down.&lt;/p&gt;
+&lt;p&gt;The concept of yearly themes comes from the podcast &lt;a href=&#34;https://www.relay.fm/cortex/79&#34;&gt;Cortex&lt;/a&gt; with CGP Grey and Myke Hurley. They have genuinely helped me think of my life in a way better way. You can also check them out a video that Grey made about yearly themes here &lt;a href=&#34;https://www.youtube.com/watch?v=NVGuFdX5guE&#34;&gt;https://www.youtube.com/watch?v=NVGuFdX5guE&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Yearly Theme Wrap-up 2021: Year of Discovery</title>
+      <link>https://zaza.studio/posts/yearly-theme-2021-retrospective/</link>
+      <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/yearly-theme-2021-retrospective/</guid>
+      <description>I did not expect 2021 to be a whole second year of Covid. When I chose my yearly theme, the Vaccine had been completed and it looked like full vaccinations would happen by the end of Spring. How could I have foreseen Covid being so political that almost a year after after the vaccine started being given, we would be at 61% of the country vaccinated, and have experienced two variants and three whole waves requiring the wold to continue shutting down.</description>
+      <content>&lt;p&gt;I did not expect 2021 to be a whole second year of Covid. When I chose my yearly theme, the Vaccine had been completed and it looked like full vaccinations would happen by the end of Spring. How could I have foreseen Covid being so political that almost a year after after the vaccine started being given, we would be at 61% of the country vaccinated, and have experienced two variants and three whole waves requiring the wold to continue shutting down.&lt;/p&gt;
 &lt;p&gt;But this isn&amp;rsquo;t a retrospective on a year of Covid, it&amp;rsquo;s a retrospective on my year. When I started this year, I told myself I would make it my Year of Discovery. I spent too much of 2020 stagnating. I knew there was a chance for Covid to not disappear and my Year of Discovery was &lt;em&gt;not&lt;/em&gt; predicated on Covid disappearing. I am generally happy with how I did and I&amp;rsquo;m glad at the clarity that Year of Discovery provided me. I even reconnected with some friends in a way that has done nothing but made my life better.&lt;/p&gt;
 &lt;h2 id=&#34;music&#34;&gt;Music&lt;/h2&gt;
 &lt;p&gt;Music is probably the place I progressed the least. I did play guitar and bass more than I did in 2020, but that wasn&amp;rsquo;t by much. However, I will take any progress I can. I started a pedal collection and started playing around with creating soundscapes and I discovered a new love for the creation of music. I have set myself up to create more music as time goes on and I have slowly started repairing my relationship with music. My band situation is uh &lt;em&gt;complicated&lt;/em&gt; but I have faith things will work out.&lt;/p&gt;
@@ -45,18 +120,21 @@
 &lt;h2 id=&#34;wrap-up&#34;&gt;Wrap-Up&lt;/h2&gt;
 &lt;p&gt;So where does this leave me. Oddly, both with a sense of accomplishment, but also a feeling that my journey has just started. Which, at 27 years old, is a feeling I&amp;rsquo;m starting to get tired of. I&amp;rsquo;ve discovered things about myself, and also discovered new paths for me to go down. Some of them will be dead ends, but some will lead me to becoming the best version of me that I can be. And overall, I&amp;rsquo;m happy at that. I genuinely believe this to be my most successful theme. And I hope I can keep this energy and momentum into 2022. Because I need it.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;The concept of yearly themes comes from the podcast &lt;a class=&#34;link&#34; href=&#34;https://www.relay.fm/cortex/79&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Cortex&lt;/a&gt; with CGP Grey and Myke Hurley. They have genuinely helped me think of my life in a way better way. You can also check them out a video that Grey made about yearly themes here &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=NVGuFdX5guE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;https://www.youtube.com/watch?v=NVGuFdX5guE&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>My Favorite Songs and the Impact Music has had on My Life</title>
-        <link>https://zaza.studio/p/top-songs/</link>
-        <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/top-songs/</guid>
-        <description>&lt;blockquote&gt; This was first written in May 2021 but due to a mental block I didn&#39;t get it uploaded until September 2021 &lt;/blockquote&gt;
+&lt;p&gt;The concept of yearly themes comes from the podcast &lt;a href=&#34;https://www.relay.fm/cortex/79&#34;&gt;Cortex&lt;/a&gt; with CGP Grey and Myke Hurley. They have genuinely helped me think of my life in a way better way. You can also check them out a video that Grey made about yearly themes here &lt;a href=&#34;https://www.youtube.com/watch?v=NVGuFdX5guE&#34;&gt;https://www.youtube.com/watch?v=NVGuFdX5guE&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>My Favorite Songs and the Impact Music has had on My Life</title>
+      <link>https://zaza.studio/posts/top-songs/</link>
+      <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/top-songs/</guid>
+      <description>This was first written in May 2021 but due to a mental block I didn&amp;rsquo;t get it uploaded until September 2021
+Music has been a massive part of my life for about as long as I remember. Just now, a friend was asking her friends about their favorite songs. That sent me down a spiral about what my favorite music is. Before, I held the position that it was impossible for me to hold a &amp;ldquo;favorite song&amp;rdquo; but now, that&amp;rsquo;s changed.</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;This was first written in May 2021 but due to a mental block I didn&amp;rsquo;t get it uploaded until September 2021&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;Music has been a massive part of my life for about as long as I remember. Just now, a friend was asking her friends about their favorite songs. That sent me down a spiral about what my favorite music is. Before, I held the position that it was impossible for me to hold a &amp;ldquo;favorite song&amp;rdquo; but now, that&amp;rsquo;s changed. I came up with a short list of songs that truly impacted me and honestly made me who I am today. That may sound melodramatic, but I genuinely can&amp;rsquo;t think of any other way to put how these songs impacted me.&lt;/p&gt;
 &lt;p&gt;The songs are in no particular order. Its literally the order I came up with them at 10:30 on a Monday in May.&lt;/p&gt;
 &lt;h4 id=&#34;parabolparabola---tool&#34;&gt;Parabol/Parabola - Tool&lt;/h4&gt;
@@ -75,8 +153,7 @@
 &lt;h4 id=&#34;i-appear-missing---queens-of-the-stone-age&#34;&gt;I Appear Missing - Queens of the Stone Age&lt;/h4&gt;
 &lt;p&gt;Okay. 6 minutes, better, thats almost a normal song length. I Appear Missing came out at such a pivotal point in my life. It was when I was graduating high school and going to college. The songs is just beautiful, but the theme of feeling like you have lost a part of yourself is just so powerful. At many points in this time period, and in my life as a while, I have felt like I was a stranger staring into the life of someone else. That feeling of being forgotten, discarded, useless, its just so powerful and such a recurring theme in my life.&lt;/p&gt;
 &lt;h4 id=&#34;like-a-stone---audioslave&#34;&gt;Like a Stone - Audioslave&lt;/h4&gt;
-&lt;p&gt;I can&amp;rsquo;t do this song justice. There&amp;rsquo;s been so much written and talked about it already. If you want to know what makes this song the masterpiece it is, I cannot recommend &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=8b5ENjZwpS8&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;12Tone&amp;rsquo;s Video&lt;/a&gt; enough.&lt;/p&gt;
+&lt;p&gt;I can&amp;rsquo;t do this song justice. There&amp;rsquo;s been so much written and talked about it already. If you want to know what makes this song the masterpiece it is, I cannot recommend &lt;a href=&#34;https://www.youtube.com/watch?v=8b5ENjZwpS8&#34;&gt;12Tone&amp;rsquo;s Video&lt;/a&gt; enough.&lt;/p&gt;
 &lt;p&gt;For me, Like a Stone is a constant reminder of the journey I&amp;rsquo;m on. I have spent many nights awake, thinking about my death, about what I have accomplished in life, what I will never accomplish, about the afterlife, and just spent some time in really dark places. The song itself has a kind of sparse feeling, there is plenty of space left&lt;/p&gt;
 &lt;p&gt;I honestly can&amp;rsquo;t say anything about this song that Chris Cornell didn&amp;rsquo;t already put masterfully into the lyrics of the song itself. Chris Cornell&amp;rsquo;s death impacted me greatly and I cannot think of this song without thinking of him, and vise versa.&lt;/p&gt;
 &lt;h4 id=&#34;everything-i-wanted---billie-eilish&#34;&gt;everything i wanted - Billie Eilish&lt;/h4&gt;
@@ -91,15 +168,18 @@
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Emma Medina&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Emma Medina is a musician, gamer, and Magic player from Southern California.&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Yearly Theme 2021: Year of Discovery</title>
-        <link>https://zaza.studio/p/yearly-theme-2021/</link>
-        <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/yearly-theme-2021/</guid>
-        <description>&lt;p&gt;So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don&amp;rsquo;t think I need to go into why &lt;del&gt;covid&lt;/del&gt; but it&amp;rsquo;s time to get back on the train.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Yearly Theme 2021: Year of Discovery</title>
+      <link>https://zaza.studio/posts/yearly-theme-2021/</link>
+      <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/yearly-theme-2021/</guid>
+      <description>So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don&amp;rsquo;t think I need to go into why covid but it&amp;rsquo;s time to get back on the train.
+So for 2021, I am doing a 180 from the life I led in 2020. Last year might as well have been &amp;ldquo;the Year of Lockdown&amp;rdquo;.</description>
+      <content>&lt;p&gt;So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don&amp;rsquo;t think I need to go into why &lt;del&gt;covid&lt;/del&gt; but it&amp;rsquo;s time to get back on the train.&lt;/p&gt;
 &lt;p&gt;So for 2021, I am doing a 180 from the life I led in 2020. Last year might as well have been &amp;ldquo;the Year of Lockdown&amp;rdquo;. So to get back out there and open my horizons, I am making 2021 my &amp;ldquo;Year of Discovery&amp;rdquo;.&lt;/p&gt;
 &lt;p&gt;What do I mean by Discovery. There&amp;rsquo;s so much to this world that you can&amp;rsquo;t experience inside the same 4 walls. And there&amp;rsquo;s so much you can do inside those 4 walls that isn&amp;rsquo;t just binging Netflix and doomscrolling Twitter. So I am going to focus on expanding my horizons and taking advantage of what the world has to offer.&lt;/p&gt;
 &lt;p&gt;In the start of the year, this is gonna be a re-focus on my hobbies. I&amp;rsquo;ve set up my guitar and bass rig for the first time since Covid shut my band down. I&amp;rsquo;m exploring new ways to play either instrument that I hadn&amp;rsquo;t done before. On guitar, I&amp;rsquo;m learning how to play math rock style tapping guitar. And on bass, my band is going down to A so I&amp;rsquo;m learning how to play in A standard. Both are providing me with a new challenge and allowing me to explore a new way of playing music that I never have before.&lt;/p&gt;
@@ -107,422 +187,128 @@
 &lt;p&gt;Besides that, I&amp;rsquo;m just not letting the pandemic keep me locked up anymore. I&amp;rsquo;ve started going out hiking. I&amp;rsquo;m planning on meeting up with my band soon to actually play music.&lt;/p&gt;
 &lt;p&gt;All in all, I miss life. And my yearly theme is just a way for me to start living again.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;The concept of yearly themes comes from the podcast &lt;a class=&#34;link&#34; href=&#34;https://www.relay.fm/cortex/79&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Cortex&lt;/a&gt; with CGP Grey and Myke Hurley. You can also check them out a video that Grey made about yearly themes &lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=NVGuFdX5guE&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;here&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Darkroom Diary: Using a $35 Lens on a 10 Year Old Camera</title>
-        <link>https://zaza.studio/p/darkroom-diary-35-dollar-lens/</link>
-        <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/darkroom-diary-35-dollar-lens/</guid>
-        <description>&lt;p&gt;Photography is an expensive hobby. It&amp;rsquo;s one I love but definitely will suck as much money as you put into it. So when I see a lens that costs $35 on Amazon, I know I need to get it immediately.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 108; 
-			flex-basis: 259px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/fotasy-lens.jpg&#34; data-size=&#34;2633x2433&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/fotasy-lens.jpg&#34;
-			width=&#34;2633&#34;
-			height=&#34;2433&#34;
-			srcset=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/fotasy-lens_huede6262eb72e9152cf30a216c4ae9142_1189940_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/darkroom-diary-35-dollar-lens/fotasy-lens_huede6262eb72e9152cf30a216c4ae9142_1189940_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Fotasy Lens&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Fotasy Lens&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;Taken with iPhone 11&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;The concept of yearly themes comes from the podcast &lt;a href=&#34;https://www.relay.fm/cortex/79&#34;&gt;Cortex&lt;/a&gt; with CGP Grey and Myke Hurley. You can also check them out a video that Grey made about yearly themes &lt;a href=&#34;https://www.youtube.com/watch?v=NVGuFdX5guE&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Darkroom Diary: Using a $35 Lens on a 10 Year Old Camera</title>
+      <link>https://zaza.studio/posts/darkroom-diary-35-dollar-lens/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/darkroom-diary-35-dollar-lens/</guid>
+      <description>Photography is an expensive hobby. It&amp;rsquo;s one I love but definitely will suck as much money as you put into it. So when I see a lens that costs $35 on Amazon, I know I need to get it immediately.
+Taken with iPhone 11
+Fotasy 35mm f/1.6 Micro 4/3 Lens The lens I picked up is the Fotasy 35mm f/1.6 lens. It&amp;rsquo;s Micro 4/3 lens so it&amp;rsquo;s a 70mm equivalent. That&amp;rsquo;s a bit tight for pure street photography but I should be able to make it work.</description>
+      <content>&lt;p&gt;Photography is an expensive hobby. It&amp;rsquo;s one I love but definitely will suck as much money as you put into it. So when I see a lens that costs $35 on Amazon, I know I need to get it immediately.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fotasy-lens.jpg&#34; alt=&#34;Fotasy Lens&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;Taken with iPhone 11&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;h2 id=&#34;fotasy-35mm-f16-micro-43-lens&#34;&gt;Fotasy 35mm &lt;em&gt;f&lt;/em&gt;/1.6 Micro 4/3 Lens&lt;/h2&gt;
 &lt;p&gt;The lens I picked up is the Fotasy 35mm &lt;em&gt;f&lt;/em&gt;/1.6 lens. It&amp;rsquo;s Micro 4/3 lens so it&amp;rsquo;s a 70mm equivalent. That&amp;rsquo;s a bit tight for pure street photography but I should be able to make it work. And it should be great for portraits. &amp;ldquo;Should&amp;rdquo;. More on that in a bit.&lt;/p&gt;
 &lt;p&gt;The lens itself feels solid. It is made of metal, which I definitely didn&amp;rsquo;t expect for a lens that cost $35. The lens felt pretty damn sharp on my camera&amp;rsquo;s screen, but when I reviewed the images I got a different story. It&amp;rsquo;s definitely a lot sharper than you&amp;rsquo;d expect out of a $35 lens. It&amp;rsquo;s not a Holga, but it is a far cry from more expensive lenses. I was expecting something like a toy camera lens but this is almost useable.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 133; 
-			flex-basis: 320px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/bokeh.jpeg&#34; data-size=&#34;4032x3024&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/bokeh.jpeg&#34;
-			width=&#34;4032&#34;
-			height=&#34;3024&#34;
-			srcset=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/bokeh_hu44a9b1225caeb1c6f868e352d616a7ff_4662142_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/darkroom-diary-35-dollar-lens/bokeh_hu44a9b1225caeb1c6f868e352d616a7ff_4662142_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;BOKEH&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;BOKEH&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;This lens does have some killer Bokeh&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bokeh.jpeg&#34; alt=&#34;BOKEH&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;This lens does have some killer Bokeh&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;The interesting thing about the lens is that the aperture is stepless. There&amp;rsquo;s no clicks at any &lt;em&gt;f&lt;/em&gt;-stop,m. There&amp;rsquo;s definitely a freedom to this. If I want to open the aperture &lt;em&gt;slightly&lt;/em&gt; more than &lt;em&gt;f&lt;/em&gt;/8 without going all the way to &lt;em&gt;f&lt;/em&gt;/5.6, I easily can. It makes you think a lot more about your shots. I believe this kind of aperture is more common on video lenses. However, the softness of the lens doesn&amp;rsquo;t seem to lend itself to video.&lt;/p&gt;
 &lt;p&gt;There are trade-offs of course. The lens is fully manual. There&amp;rsquo;s no electronics in it whatsoever. There is no autofocus. If you&amp;rsquo;re trying to shoot sports, animals, or children this is not the lens for you. But if you&amp;rsquo;re able to take a second to frame and focus your shot this lens might be what you&amp;rsquo;re looking for.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 133; 
-			flex-basis: 320px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/bike.jpeg&#34; data-size=&#34;4032x3024&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/bike.jpeg&#34;
-			width=&#34;4032&#34;
-			height=&#34;3024&#34;
-			srcset=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/bike_hu44a9b1225caeb1c6f868e352d616a7ff_2816802_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/darkroom-diary-35-dollar-lens/bike_hu44a9b1225caeb1c6f868e352d616a7ff_2816802_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Bike&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Bike&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;It took me a while to get used to a 70mm equivalent lens. Can you tell I normally shoot wide?&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;bike.jpeg&#34; alt=&#34;Bike&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;It took me a while to get used to a 70mm equivalent lens. Can you tell I normally shoot wide?&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;However, it is still a $35 lens. Mine came with what could be a design choice or a defect. Most likely defect. The focus ring turns about an 1/8 of a turn past infinity. So if you&amp;rsquo;re shooting from the hip that might lead to lost shots. I &lt;em&gt;cannot trust&lt;/em&gt; this lens to zone focus. I don&amp;rsquo;t know if this is an issue with my lens specifically or with this lens in general but it is something to talk about. There&amp;rsquo;s also slight resistance and grating in the focus ring around infinity. Not major, but something you feel.&lt;/p&gt;
 &lt;h2 id=&#34;image-quality-and-experience&#34;&gt;Image Quality and Experience&lt;/h2&gt;
 &lt;p&gt;I ended up rewriting this whole section once I viewed my images on my computer. On my cameras tiny screen, the pictures looked sharp and in focus and I thought I was getting great shots.&lt;/p&gt;
 &lt;p&gt;The image quality on this lens is &lt;em&gt;not&lt;/em&gt; great. It has a very soft feel, even when focused at &lt;em&gt;f&lt;/em&gt;/16. The image quality reminds me of a mediocre film point and shoot. And that I might not be a bad thing if that&amp;rsquo;s what you&amp;rsquo;re looking for. The lens has some pretty bad vignetting, and in some images it actually ruins the shot. I could see taking shots with this, running it through some VSCO filters and getting a really nice film feel. But this should not be your main lens.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 133; 
-			flex-basis: 320px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/missed-shot.jpeg&#34; data-size=&#34;3627x2719&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/missed-shot.jpeg&#34;
-			width=&#34;3627&#34;
-			height=&#34;2719&#34;
-			srcset=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/missed-shot_hu44a9b1225caeb1c6f868e352d616a7ff_1908154_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/darkroom-diary-35-dollar-lens/missed-shot_hu44a9b1225caeb1c6f868e352d616a7ff_1908154_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Missed Shot&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Missed Shot&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;I focused to infinity for this shot. But since the lens is defective and goes past infinity, the shot was missed. This isn&amp;rsquo;t the only shot I missed, and I&amp;rsquo;m not proud of it, but something anyone considering this lens should think about.&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;missed-shot.jpeg&#34; alt=&#34;Missed Shot&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;I focused to infinity for this shot. But since the lens is defective and goes past infinity, the shot was missed. This isn&amp;rsquo;t the only shot I missed, and I&amp;rsquo;m not proud of it, but something anyone considering this lens should think about.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;What I did like about this lens is how tiny it is. Like, it&amp;rsquo;s small. It&amp;rsquo;s not quite a pancake lens but it&amp;rsquo;s almost there. It&amp;rsquo;s about 3/4 the size of the kit lens when the kit lens is closed, and less than 1/2 the size of the fully extended kit lens. And for me, that&amp;rsquo;s a completely new experience. The majority of my experience with cameras comes from a Nikon d3300 and its lenses. And I can&amp;rsquo;t help but think of the tele on that and comparing it to this tiny thing.&lt;/p&gt;
 &lt;p&gt;As for the focal length, I am shooting on Micro 4/3, which means this 35mm lens acts more like a 70mm. This is a change for me because I normally like shooting a lot wider. My last post was literally gushing over the iPhone 11&amp;rsquo;s 13mm equivalent lens. So it was a full 180 for me. But it gives me another perspective.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 133; 
-			flex-basis: 320px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/portrait.jpeg&#34; data-size=&#34;4032x3024&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/portrait.jpeg&#34;
-			width=&#34;4032&#34;
-			height=&#34;3024&#34;
-			srcset=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/portrait_hu44a9b1225caeb1c6f868e352d616a7ff_4891007_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/darkroom-diary-35-dollar-lens/portrait_hu44a9b1225caeb1c6f868e352d616a7ff_4891007_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Portrait&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Portrait&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;Probably my favorite shot with this lens. However, this lens is too soft to take real portraits with.&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;portrait.jpeg&#34; alt=&#34;Portrait&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;Probably my favorite shot with this lens. However, this lens is too soft to take real portraits with.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;The lens ends up acting a bit like a portrait lens on my camera. And that kind of makes the softness of the lens hurt a bit more. 70mm is such a good portrait lens and the way subjects look is honestly incredible, but I won&amp;rsquo;t really be able to use it for that if my subjects won&amp;rsquo;t come out sharp.&lt;/p&gt;
 &lt;h2 id=&#34;using-a-10-year-old-mirrorless&#34;&gt;Using a 10 Year Old Mirrorless&lt;/h2&gt;
 &lt;p&gt;So this has been the most surprising part of the whole experience to be quite honest. I&amp;rsquo;m using an Olympus PEN E-PL1. This is a camera that came out 10 years ago in 2010. In the world of digital, to use even a year old camera isn&amp;rsquo;t seen well, let alone a camera from the previous decade.&lt;/p&gt;
 &lt;p&gt;But it&amp;rsquo;s been great. The camera accepted the lens immediately and I was able to shoot right after mounting it. This was actually a big concern for me since I saw so many reviews about needing to dig through settings to allow cameras to accept a fully manual lens. But no, it worked right away.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 133; 
-			flex-basis: 320px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/pipes.jpeg&#34; data-size=&#34;4032x3024&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/pipes.jpeg&#34;
-			width=&#34;4032&#34;
-			height=&#34;3024&#34;
-			srcset=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/pipes_hu44a9b1225caeb1c6f868e352d616a7ff_5851772_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/darkroom-diary-35-dollar-lens/pipes_hu44a9b1225caeb1c6f868e352d616a7ff_5851772_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Pipes&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Pipes&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;My camera metered the light perfectly every time. I just wish this lens didn&amp;rsquo;t suck. You don&amp;rsquo;t see sharpness at any point of this shot.&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;pipes.jpeg&#34; alt=&#34;Pipes&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;My camera metered the light perfectly every time. I just wish this lens didn&amp;rsquo;t suck. You don&amp;rsquo;t see sharpness at any point of this shot.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Of course autofocus and camera controlled aperture don&amp;rsquo;t work. It &lt;em&gt;is&lt;/em&gt; a manual lens. But with the camera on P, it does a pretty phenomenal job of metering the light and choosing the right ISO and shutter speed for the shot. In terms of light metering, I haven&amp;rsquo;t had a miss.&lt;/p&gt;
 &lt;p&gt;There are definitely features I wish I had. The E-PL1 has no focus peaking. So focus has to either be intuition or zooming in with the screen on the back. And I&amp;rsquo;ve definitely missed shots like that. But that&amp;rsquo;s part of the fun of a manual lens. If I wanted shots to be perfectly focused every time I&amp;rsquo;d just use my kit lens at &lt;em&gt;f&lt;/em&gt;16.&lt;/p&gt;
 &lt;p&gt;And of course a 12MP 10 year old sensor isn&amp;rsquo;t exactly cutting edge right now. The ISO is useable only down to about 800. ISO 1600 is pushing it and ISO 3200 is a noisy mess. This is especially challenging to work with on a lens that&amp;rsquo;s already pretty soft.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;I hadn&amp;rsquo;t been able to put this lens down. And I think that&amp;rsquo;s the most important thing. Since I got this lens it&amp;rsquo;s just lived on my camera. It&amp;rsquo;s fun, it&amp;rsquo;s interesting, it&amp;rsquo;s kinda odd and unique and finicky and sometimes bad. Often bad. It&amp;rsquo;s imperfect. In my first draft of this article I praised that imperfection. After seeing my shots I think that praise was a bit early.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 133; 
-			flex-basis: 320px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/kiah.jpeg&#34; data-size=&#34;4032x3024&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/kiah.jpeg&#34;
-			width=&#34;4032&#34;
-			height=&#34;3024&#34;
-			srcset=&#34;https://zaza.studio/p/darkroom-diary-35-dollar-lens/kiah_hu44a9b1225caeb1c6f868e352d616a7ff_4739620_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/darkroom-diary-35-dollar-lens/kiah_hu44a9b1225caeb1c6f868e352d616a7ff_4739620_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Kiah&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Kiah&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;I had to include a picture of dog.&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kiah.jpeg&#34; alt=&#34;Kiah&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;I had to include a picture of dog.&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;But I wanted a lens that helped me shoot more. I could have saved for months and spent $1000 on a wonderful prime. But $35 and two days of shipping and I&amp;rsquo;m shooting now.&lt;/p&gt;
 &lt;p&gt;But, buy a $35 lens, expect $35 lens quality.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Darkroom Diary: iPhone Photography, and Finding Photography Again</title>
-        <link>https://zaza.studio/p/iphone-photography/</link>
-        <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/iphone-photography/</guid>
-        <description>&lt;p&gt;I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The camera was too heavy to bring, I wasn&amp;rsquo;t good enough, and I had some personal reasons. So I kinda stopped photography. The DSLR was sold off. My film camera is in a box somewhere. It all just&amp;hellip; stopped.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Darkroom Diary: iPhone Photography, and Finding Photography Again</title>
+      <link>https://zaza.studio/posts/iphone-photography/</link>
+      <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/iphone-photography/</guid>
+      <description>editors note: lol. lmao. this is cute past emma. where you&amp;rsquo;re going, you dont need pixels.
+I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The camera was too heavy to bring, I wasn&amp;rsquo;t good enough, and I had some personal reasons. So I kinda stopped photography. The DSLR was sold off. My film camera is in a box somewhere.</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;editors note: lol. lmao. this is cute past emma. where you&amp;rsquo;re going, you dont need pixels.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The camera was too heavy to bring, I wasn&amp;rsquo;t good enough, and I had some personal reasons. So I kinda stopped photography. The DSLR was sold off. My film camera is in a box somewhere. It all just&amp;hellip; stopped.&lt;/p&gt;
 &lt;p&gt;That changed when I got my iPhone 11.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 133; 
-			flex-basis: 320px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/ranchfire.jpg&#34; data-size=&#34;1280x960&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/ranchfire.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;960&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/ranchfire_hu5604447bc66ee3ed1ddbeb311bc5cd86_135031_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/ranchfire_hu5604447bc66ee3ed1ddbeb311bc5cd86_135031_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Ranch Fire&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Ranch Fire&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;Ranch Fire in Socal 2020&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;ranchfire.jpg&#34; alt=&#34;Ranch Fire&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;Ranch Fire in Socal 2020&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Swapping to this phone, it genuinely feels like I can just pull my phone out and get the shot I want. My phone feels like a standalone camera while in the camera app. AND I HAVE A WIDE ANGLE LENS. Sure your 300mm lens is cool, a nifty 50mm is a delight to shoot with, but give me something under 24mm any day. And the wide angle is a 13mm equivalent. &lt;em&gt;Yes. Please.&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;Lemme go over the specs real quick before I get into why I&amp;rsquo;m going back to shooting.&lt;/p&gt;
 &lt;h2 id=&#34;camera-specs&#34;&gt;Camera Specs&lt;/h2&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 149; 
-			flex-basis: 359px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/cameras.jpg&#34; data-size=&#34;1280x854&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/cameras.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;854&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/cameras_hua42686ae8722f22aa14693a9e1c8c237_96366_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/cameras_hua42686ae8722f22aa14693a9e1c8c237_96366_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;iPhone Camera&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;iPhone Camera&lt;/figcaption&gt;
-	
-&lt;/figure&gt;
-&lt;sub&gt;Taken with iPhone 10&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;cameras.jpg&#34; alt=&#34;iPhone Camera&#34;&gt;
+&lt;!-- raw HTML omitted --&gt;Taken with iPhone 10&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;The iPhone 11 has two cameras in it. The 11 Pro has three. The regular camera is a 12MP 26mm equivalent, the wide angle is a 13mm equivalent, and the telephoto in the Pro is a 52mm equivalent. All with built in optical stabilization.&lt;/p&gt;
 &lt;p&gt;But specs are just specs. My DSLR from a few years ago had a higher pixel count, better autofocus, and was APS-C so I didn&amp;rsquo;t have to rely on software tricks to get things like Bokeh or shallow depth of field. It was a better camera spec wise. But there&amp;rsquo;s a reason I&amp;rsquo;m taking more pictures with my phone now than I did with my DSLR back then.&lt;/p&gt;
 &lt;h2 id=&#34;shoot-with-the-camera-you-have&#34;&gt;Shoot with the Camera you Have&lt;/h2&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/fence.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/fence.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/fence_hu82ae2e7a6665784449f1f44744cecab3_212194_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/fence_hu82ae2e7a6665784449f1f44744cecab3_212194_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Chain Link Fence&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Chain Link Fence&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;fence.jpg&#34; alt=&#34;Chain Link Fence&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This is the first advice you will receive as a photographer. The best camera in the world is the one you have with you. It doesn&amp;rsquo;t matter if you own multi-thousand dollar cameras and lenses, if your camera is stuck at home and you miss shots, that gear might as well not exist. This obviously is a particularly strong pro to the iPhone, since basically no one leaves their home without their phone anymore. And this isn&amp;rsquo;t just a plus for the iPhone, &lt;em&gt;almost any&lt;/em&gt; phone camera is able to take phenomenal photos&lt;/p&gt;
 &lt;p&gt;But beyond that, the iPhone 11 allowing me to have essentially two different lenses to get different shots allows me to take pictures I otherwise wouldn&amp;rsquo;t. There&amp;rsquo;s no need to think &amp;ldquo;do I need to bring my 12mm and my 35mm&amp;rdquo; if I have both right in my pocket. And in general, no matter where I go I don&amp;rsquo;t need to feel bad about leaving my big camera at home if I have something in my pocket for almost any situation.&lt;/p&gt;
 &lt;h2 id=&#34;does-it-bring-joy&#34;&gt;Does it Bring Joy&lt;/h2&gt;
 &lt;p&gt;The thing is, most of that last section could apply to my iPhone 7. Why didn&amp;rsquo;t I shoot on my 7 and why did my 11 get me to shoot.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 150; 
-			flex-basis: 360px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/chilling.jpg&#34; data-size=&#34;1280x853&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/chilling.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;853&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/chilling_hu5604447bc66ee3ed1ddbeb311bc5cd86_302561_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/chilling_hu5604447bc66ee3ed1ddbeb311bc5cd86_302561_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Chilling&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Chilling&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;chilling.jpg&#34; alt=&#34;Chilling&#34;&gt;&lt;/p&gt;
 &lt;p&gt;It goes back to another topic that comes up time and again with cameras. Is it a joy to shoot? The reason people shoot film, or spend thousands on lenses, or buy point and shoots when their big cameras would shoot better, is because they like shooting with that gear. If you enjoy taking pictures, you&amp;rsquo;ll take more picture.&lt;/p&gt;
 &lt;p&gt;The iPhone 7 was not a joy to shoot on. At one point is was a great camera. But that phone is now 4 years old. The processor is showing its age and it wasn&amp;rsquo;t seamless to take pictures. The screen wasn&amp;rsquo;t anything to write home about. There were some shots that came out great, but the limitations of the camera made it so I felt like I missed more shots than I took. Tracking pictures felt like a chore.&lt;/p&gt;
 &lt;p&gt;But now I got the iPhone 11. And it&amp;rsquo;s a hell of a difference. The camera is a joy to shoot. Having the extra wide angle lens opens so many shots up to me. And I feel like I&amp;rsquo;m working with the strengths of the camera, not against its limitations.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/construction.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/construction.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/construction_hu5604447bc66ee3ed1ddbeb311bc5cd86_171759_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/construction_hu5604447bc66ee3ed1ddbeb311bc5cd86_171759_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Construction&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Construction&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;construction.jpg&#34; alt=&#34;Construction&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Part of the joy of taking pictures for me is the edit process, believe it or not. Going through photos, finding the great shots in between all the trash, and making them shine just fills me so much. But on the iPhone 7, the screen was small enough and my eyes bad enough that I never wanted to edit on there. And by the time I was on my desktop or laptop, the photos never made their way into Lightroom and never got done.&lt;/p&gt;
 &lt;p&gt;Two things have changed that for me. One being the new nicer screen. The other being finding Darkroom, a phenomenal Lightroom alternative that works with iCloud. It&amp;rsquo;s nice to be able to walk around, take pictures, and edit the pictures while stopping for coffee. The immediacy of taking a picture, and being able to edit it on phone to show its true potential is so huge for me.&lt;/p&gt;
 &lt;h2 id=&#34;a-strange-turn-in-life&#34;&gt;A Strange Turn in Life&lt;/h2&gt;
 &lt;p&gt;Of course, gear isn&amp;rsquo;t the only thing that matters. I could have gotten any piece of camera gear that could have revived my love for photos right now. And if I would have gotten this phone six months ago, I doubt I&amp;rsquo;d have gotten back into photography. So what changed?&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t know. A lot and nothing at all? It&amp;rsquo;s hard to say.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/emptyroad.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/emptyroad.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/emptyroad_hu5604447bc66ee3ed1ddbeb311bc5cd86_247539_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/emptyroad_hu5604447bc66ee3ed1ddbeb311bc5cd86_247539_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Empty Road&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Empty Road&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;emptyroad.jpg&#34; alt=&#34;Empty Road&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I mean, it&amp;rsquo;s hard to talk about anything happening in 2020 without talking about the pandemic. I loved going out and discovering new things. Odds are if you&amp;rsquo;re reading this and know me you know I have a band. My band was playing gigs essentially monthly. I had a full life and was starting to be happy. Then &lt;em&gt;pandemic&lt;/em&gt;. And after 6+ months locked up, I&amp;rsquo;ve gotten to appreciating my experiences, and now have a deep need to document it all because I now know how fragile the whole thing really was.&lt;/p&gt;
 &lt;p&gt;On top of that, I played &amp;ldquo;Life is Strange&amp;rdquo; and it brought me back to when I considered myself a photographer, when I most cared. It was my freshmen year of college, I was in dorms alone for the first time in my life and I didn&amp;rsquo;t have a direction that I was certain in. And I remembered that feeling of looking through a viewfinder and in a way finding myself every time, how that helped me then. And how I really need that help now.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/kiah.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/kiah.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/kiah_hu5604447bc66ee3ed1ddbeb311bc5cd86_139280_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/kiah_hu5604447bc66ee3ed1ddbeb311bc5cd86_139280_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Kiah&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Kiah&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;kiah.jpg&#34; alt=&#34;Kiah&#34;&gt;&lt;/p&gt;
 &lt;p&gt;And I have a supportive partner. The most supportive partner when it comes to hobbies. And that opened my eyes to why I quit before. When I was last taking pictures, I honestly had no one to share the hobby with. I had one person who also liked photography, but they ended up believing their way of shooting was the &amp;ldquo;right&amp;rdquo; way and would belittle my photos to the point where I genuinely started having anxiety using my camera around them. But this person is in the past, and I&amp;rsquo;m working to make sure they don&amp;rsquo;t affect me.&lt;/p&gt;
 &lt;p&gt;And honestly, having someone believe in what you&amp;rsquo;re doing matters a lot. Being an artist can get lonely. It&amp;rsquo;s hard to talk about your hobbies when people don&amp;rsquo;t see things the way you do. Everyone has a phone in their pockets with a good camera. But most people don&amp;rsquo;t think of their shots past putting the subject in the middle of the frame. People aren&amp;rsquo;t into photography like they&amp;rsquo;re into music, they won&amp;rsquo;t talk about their favorite photog like they will their favorite artist, even though most people nowadays take pics daily. Forget things like lenses and &lt;em&gt;f&lt;/em&gt;-stops and lenses. Peoples eyes glaze over the moment that comes up. That gap can make being a photographer hard. Having someone you can share your photos with ends up completely opening up the he world of photography.&lt;/p&gt;
 &lt;h2 id=&#34;going-out-to-shoot&#34;&gt;Going out to Shoot&lt;/h2&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 149; 
-			flex-basis: 359px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/trespass.jpg&#34; data-size=&#34;1280x854&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/trespass.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;854&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/trespass_hu82ae2e7a6665784449f1f44744cecab3_309139_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/trespass_hu82ae2e7a6665784449f1f44744cecab3_309139_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;No Trespassing&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;No Trespassing&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;trespass.jpg&#34; alt=&#34;No Trespassing&#34;&gt;&lt;/p&gt;
 &lt;p&gt;So what now. I wrote a ton of words about liking taking pictures. But anyone can write words on the internet. Some people even make money through writing words on the internet. For the first time in like 5 years, I went out just to shoot. But one shoot doesn&amp;rsquo;t make me a photographer.&lt;/p&gt;
 &lt;p&gt;Every picture in this blog post was shot on my iPhone 11 and edited in Darkroom (except the pics of the iPhone 11, taken on an iPhone 10). And I am setting myself a goal to photograph and post something interesting once a week. I don&amp;rsquo;t know how much I&amp;rsquo;ll be able to &lt;em&gt;because pandemic&lt;/em&gt; but it&amp;rsquo;s a start.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 66; 
-			flex-basis: 160px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/iphone-photography/walkaway.jpg&#34; data-size=&#34;854x1280&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/iphone-photography/walkaway.jpg&#34;
-			width=&#34;854&#34;
-			height=&#34;1280&#34;
-			srcset=&#34;https://zaza.studio/p/iphone-photography/walkaway_hu82ae2e7a6665784449f1f44744cecab3_163428_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/iphone-photography/walkaway_hu82ae2e7a6665784449f1f44744cecab3_163428_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Moving On&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Moving On&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;walkaway.jpg&#34; alt=&#34;Moving On&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m also planning on digging up my Yashica Electro 35 film camera and my Olympus Micro 4/3 camera. As much as I love shooting on my phone, having a dedicated camera is a different experience and one I love. I want to develop film and explore aspects of photography I never got to. I never took portraits. I never just walked around an urban area to do pure street photography. I never sat and took a proper landscapes. I have so much room to explore in photography.&lt;/p&gt;
 &lt;p&gt;I found that sense of adventure again. And I&amp;rsquo;m going to do my best to never lose it again.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Top Ten Games of the Decade (2010-2019)</title>
-        <link>https://zaza.studio/p/top-10-games-of-2010-2019/</link>
-        <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/top-10-games-of-2010-2019/</guid>
-        <description>&lt;p&gt;It&amp;rsquo;s the end of the 2010s and I really want to reflect on my life. But I feel like I&amp;rsquo;m in a flux part of my life and with so much happening around me, I thought it&amp;rsquo;d be easier to just do games of the decade.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Top Ten Games of the Decade (2010-2019)</title>
+      <link>https://zaza.studio/archive/top-10-games-of-2010-2019/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/archive/top-10-games-of-2010-2019/</guid>
+      <description>It&amp;rsquo;s the end of the 2010s and I really want to reflect on my life. But I feel like I&amp;rsquo;m in a flux part of my life and with so much happening around me, I thought it&amp;rsquo;d be easier to just do games of the decade.
+A bit about me, I am a gamer but a hobbyist one at best. This is my personal list for games that impacted me the most.</description>
+      <content>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;It&amp;rsquo;s the end of the 2010s and I really want to reflect on my life. But I feel like I&amp;rsquo;m in a flux part of my life and with so much happening around me, I thought it&amp;rsquo;d be easier to just do games of the decade.&lt;/p&gt;
 &lt;p&gt;A bit about me, I am a gamer but a hobbyist one at best. This is my personal list for games that impacted me the most. It is not commentary of the &amp;ldquo;best&amp;rdquo; games, there are games I played that were objectively great that didn&amp;rsquo;t make my list because they didn&amp;rsquo;t have as much of an impact on me.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;honorable-mentions&#34;&gt;Honorable Mentions&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/MarioOdyssey.jpeg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/MarioOdyssey.jpeg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/MarioOdyssey_huffb7c6f4d9b47a29c1cb2a3a2991f1af_289091_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/MarioOdyssey_huffb7c6f4d9b47a29c1cb2a3a2991f1af_289091_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Mario Odyssey&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Mario Odyssey&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of IGDB&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;MarioOdyssey.jpeg&#34; alt=&#34;Mario Odyssey&#34; title=&#34;This game was so close to being in my top 10&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of IGDB&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;These are all games that I loved, but didn&amp;rsquo;t make my list for some reason. A different me on a different day might have put any of these on the list, but today they fall just short. Here they are in no particular order.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Wolf Among Us&lt;/strong&gt; – Great story, fantastic game. But it felt short and I want so much more.&lt;br&gt;
 &lt;strong&gt;Rogue Legacy&lt;/strong&gt; – This is probably the game I come back to the most. It took the horribly unaproachable roguelike genre and made it fun, easy to digest, quick, and fun.&lt;br&gt;
@@ -534,26 +320,8 @@
 &lt;strong&gt;Overwatch&lt;/strong&gt; - I loved Overwatch. I did. It was my favorite multiplayer FPS when it came out. I grew up on CS and TF2 and for a non-Valve game to take that spot was amazing. But over time the game has changed and I enjoy It less. I don&amp;rsquo;t want to give any specific reasons, but Overwatch feels less like a wonderland compared to when it came out, and that&amp;rsquo;s okay. It still fills a roll in my life, just less so.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;10-ios-games&#34;&gt;10. iOS Games&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 216; 
-			flex-basis: 519px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/MiniMotor.png&#34; data-size=&#34;2436x1125&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/MiniMotor.png&#34;
-			width=&#34;2436&#34;
-			height=&#34;1125&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/MiniMotor_hue98804961bb582fa7d2293be633cbc40_3011510_480x0_resize_box_3.png 480w, https://zaza.studio/p/top-10-games-of-2010-2019/MiniMotor_hue98804961bb582fa7d2293be633cbc40_3011510_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Mini Motorways&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Mini Motorways&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of Peyton Hable&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;MiniMotor.png&#34; alt=&#34;Mini Motorways&#34; title=&#34;So close to Disaster&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of Peyton Hable&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;I couldn&amp;rsquo;t choose just one game to represent iOS, so I gave it a whole category. In the decade, smartphones really became commonplace and with that, a new way to play games. And smartphone games have been &lt;em&gt;divisive&lt;/em&gt; to say the least. Mobile games went from creative to piles of microtransactions. Currently, mobile games have a rep for being basic, full of timers, and full of ways to accidentally spend a substantial amount of money on digital gems, but a few games really stood out to me.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Holedown&lt;/strong&gt; – It&amp;rsquo;s a very simple concept. An endless Breakout-style game, but digging down instead of going up. But the game is so smooth and such a pleasure to play that I just fell in love with it.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Mini Metro and Mini Motorways&lt;/strong&gt; - I know Mini Metro is on other consoles but it feels at home on a phone. And the sequel took so much of what made Mini Metro great and just built on it.&lt;/p&gt;
@@ -561,145 +329,36 @@
 &lt;p&gt;&lt;strong&gt;Apple Arcade&lt;/strong&gt; – Recently, Apple launched a subscription service with access to more than 100 games. It would take too long to explain all of them, so here is a shortlist of games to try: Sayonara Wildhearts, Mini Motorways (I like it that much I&amp;rsquo;m mentioning it twice, deal with it), Card of Darkness (made by Pendleton Ward, creator of Adventure Time), Outsiders, What the Golf, Assemble with Care, Exit the Gungeon, Oceanhorn 2, there&amp;rsquo;s too many good games to list.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;9-mario-maker-2&#34;&gt;9. Mario Maker 2&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 175; 
-			flex-basis: 420px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/mariomakerpanga.jpeg&#34; data-size=&#34;656x374&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/mariomakerpanga.jpeg&#34;
-			width=&#34;656&#34;
-			height=&#34;374&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/mariomakerpanga_hu1cb26c867cc62a25a3e8ff6e525a78f6_46413_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/mariomakerpanga_hu1cb26c867cc62a25a3e8ff6e525a78f6_46413_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Mario Maker 2&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Mario Maker 2&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of US Gamer&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mariomakerpanga.jpeg&#34; alt=&#34;Mario Maker 2&#34; title=&#34;If you want to torture yourself on an easy Panga level, ID: 837-YQY-91H&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of US Gamer&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;This game was everything I wanted in a 2D Mario game. It had a good campaign, it played great, the mechanics were all there. And there were endless levels that did wild things. I didn&amp;rsquo;t get to play much of the original since it was on a Wii U and no one bought the Wii U, and the 3DS version wasn&amp;rsquo;t a full version.&lt;/p&gt;
 &lt;p&gt;But Mario Maker 2 is something else. The creativity coming out of level creators is amazing. Just watching some good MM2 streamers like Poo, Barb, Dode, Spacekat, etc., and you can see how wild a Mario game can get when you apply a bit of creativity, and more skill than I&amp;rsquo;ll ever have.&lt;/p&gt;
 &lt;p&gt;The only reason this isn&amp;rsquo;t higher is because I haven&amp;rsquo;t been able to put enough time into this, and don&amp;rsquo;t have the skill to play the harder levels. I just want to beat a Panga level once in my life.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;8-magic-arena&#34;&gt;8. Magic Arena&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Image3_Izzet.jpg&#34; data-size=&#34;480x270&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Image3_Izzet.jpg&#34;
-			width=&#34;480&#34;
-			height=&#34;270&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Image3_Izzet_hu1784b1e77c043ec7780104b26591560f_48308_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/Image3_Izzet_hu1784b1e77c043ec7780104b26591560f_48308_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;MTGA_Gameplay&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;MTGA_Gameplay&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of Wizards of the Coast&lt;/sub&gt;&lt;/p&gt;
-&lt;p&gt;The game that &lt;a class=&#34;link&#34; href=&#34;http://zaza.studio/blog/coming-back-to-magic/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;brought me back into Magic&lt;/a&gt;. I was &lt;del&gt;am&lt;/del&gt; obsessed with Magic and it was really a huge loss for me when I drifted away from playing paper Magic. I have no LGS right now and nowhere to play FNM. I tried Magic Online but I can only handle playing DOS games for so long. Magic Arena is &lt;em&gt;something else&lt;/em&gt;. It is a truly modern Magic game. It plays fantastically. There are bugs but they&amp;rsquo;re minor, at least compared to MTGO. The economic model mostly makes sense and I don&amp;rsquo;t get the feeling of being drained for all the money I have compared to other online TCGs. The game is super playable casually and provides the competitive experience I need. Overall, the only reason this isn&amp;rsquo;t higher is cause of Oko. This is a near perfect game, and I hope as Magic goes on Wizards keeps giving MTGA more love, and crafts Magic to take advantage of such a stellar client.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Image3_Izzet.jpg&#34; alt=&#34;MTGA_Gameplay&#34; title=&#34;Yes I&#39;m reusing this image. Deal with it.&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of Wizards of the Coast&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;The game that &lt;a href=&#34;http://zaza.studio/blog/coming-back-to-magic/&#34;&gt;brought me back into Magic&lt;/a&gt;. I was &lt;del&gt;am&lt;/del&gt; obsessed with Magic and it was really a huge loss for me when I drifted away from playing paper Magic. I have no LGS right now and nowhere to play FNM. I tried Magic Online but I can only handle playing DOS games for so long. Magic Arena is &lt;em&gt;something else&lt;/em&gt;. It is a truly modern Magic game. It plays fantastically. There are bugs but they&amp;rsquo;re minor, at least compared to MTGO. The economic model mostly makes sense and I don&amp;rsquo;t get the feeling of being drained for all the money I have compared to other online TCGs. The game is super playable casually and provides the competitive experience I need. Overall, the only reason this isn&amp;rsquo;t higher is cause of Oko. This is a near perfect game, and I hope as Magic goes on Wizards keeps giving MTGA more love, and crafts Magic to take advantage of such a stellar client.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;7-destiny-2&#34;&gt;7. Destiny 2&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Destiny2.jpeg&#34; data-size=&#34;1920x1080&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Destiny2.jpeg&#34;
-			width=&#34;1920&#34;
-			height=&#34;1080&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Destiny2_huca6fa43c11805863fdbf05ea1ed86770_630382_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/Destiny2_huca6fa43c11805863fdbf05ea1ed86770_630382_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Destiny 2&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Destiny 2&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of IGDB&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Destiny2.jpeg&#34; alt=&#34;Destiny 2&#34; title=&#34;Moon&#39;s Haunted&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of IGDB&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;This is the game I wanted as a kid. I grew up playing Goldeneye as a small kid, and my very first online experience was Star Wars Battlefront. I also got into Runescape and eventually fell into a pit of Free to Play MMOs. And this whole time, I wanted a game that delivered the kind of consistent world, progression, player bases, and exploration that MMOs had, but as an FPS. Planetside 2 existed, but it wasn&amp;rsquo;t great and it was more a Proto-Battle Royale than a true MMO. Then came Destiny, for the PS3 and Xbox. I didn&amp;rsquo;t have those systems. I watched hungrily at Destiny, wanting to play them, almost buying a PS3 just for it.&lt;/p&gt;
 &lt;p&gt;Then Destiny 2 was announced for PC. Oh I needed this game. And having played it consistently for over a year, this is everything I wanted. I only wish MMOFPSs were more common, since I feel like there&amp;rsquo;s still so much to explore in this genre. But for me, Destiny 2 (specifically post-Forsaken), was my dream game. And still is. I still play it weekly. Occasionally I binge it hard. This is a game I waited for and dreamed about for over a decade.&lt;/p&gt;
 &lt;p&gt;And I kind of built a whole relationship with my girlfriend over this game. So maybe that goes into this being on my list, but it&amp;rsquo;s my list and that&amp;rsquo;s my choice.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;6-pokemon-swordshield&#34;&gt;6. Pokemon Sword/Shield&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon1.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon1.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon1_hu85839e0a6a0c4778c32ac09d9c5f18c7_133069_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon1_hu85839e0a6a0c4778c32ac09d9c5f18c7_133069_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Pokemon 1&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Pokemon 1&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of Peyton Hable&lt;/sub&gt;&lt;/p&gt;
-&lt;p&gt;This game got me back into &lt;del&gt;Magic&lt;/del&gt; Pokemon. I played obsessively from Gen 2 through 4, went back and played Gen 1. I knew every Pokemon up through Gen 4, knew type differences, was getting into IVs and EVs. Then life happened. I never got my hands on a Gen 5 game other than a week borrowing my sis&#39;, and before I knew it Gen 5, 6, and 7 all passed me by. Holy shit I missed out on almost half the Pokemon games made.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Pokemon1.jpg&#34; alt=&#34;Pokemon 1&#34; title=&#34;About to make a big&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of Peyton Hable&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;This game got me back into &lt;del&gt;Magic&lt;/del&gt; Pokemon. I played obsessively from Gen 2 through 4, went back and played Gen 1. I knew every Pokemon up through Gen 4, knew type differences, was getting into IVs and EVs. Then life happened. I never got my hands on a Gen 5 game other than a week borrowing my sis&amp;rsquo;, and before I knew it Gen 5, 6, and 7 all passed me by. Holy shit I missed out on almost half the Pokemon games made.&lt;/p&gt;
 &lt;p&gt;So when I got Sword, I was nervous. The snippets I played of Gens 5-7 weren&amp;rsquo;t fantastic. I felt like parts of the game I loved were taken out or simplified. And starting Sword, I felt that too. But then I started seeing Sword for what it is. A game designed for a modern player. I wasn&amp;rsquo;t 12 anymore. I didn&amp;rsquo;t have 4 hours after school to just ride my bike around Victory Road leveling my Pokemon individually. All the things &amp;ldquo;making the game easier&amp;rdquo; were quality of life changes that kept me playing. I could tweak my team at any point. I didn&amp;rsquo;t have to spend hours leveling my team, I instead can spend that time playing the story.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon2.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon2.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon2_hu506ef6b6606a227c900c50299d6b06e4_124813_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/Pokemon2_hu506ef6b6606a227c900c50299d6b06e4_124813_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Pokemon 2&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Pokemon 2&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of Peyton Hable&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Pokemon2.jpg&#34; alt=&#34;Pokemon 2&#34; title=&#34;is big&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of Peyton Hable&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;And to balance the Quality of Life changes, they added challenge to so many other parts. The Gyms are so creative, and the Gym leaders are tough. The Wild Area is the Safari Zone perfected. The fact that you can face a level 50 Pokemon coming out of your first town really makes the Pokemon world feel like a world. It was no longer a fully linear game. This feels like a world people and Pokemon live in. And the whole game has not only made me fall in love with Pokemon all over again, and provide me a game I can play while working full-time and feel fully fulfilled, but it also provided a gateway for my partner, who has never played a Pokemon game, to come in and understand the wild complex world of Pokemon and fall in love with it too.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;5-the-elder-scrolls-v-skyrim&#34;&gt;5. The Elder Scrolls V: Skyrim&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Skyrim.png&#34; data-size=&#34;1920x1080&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Skyrim.png&#34;
-			width=&#34;1920&#34;
-			height=&#34;1080&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Skyrim_hu74501086c9e345a36d954b4558a0178a_2697635_480x0_resize_box_3.png 480w, https://zaza.studio/p/top-10-games-of-2010-2019/Skyrim_hu74501086c9e345a36d954b4558a0178a_2697635_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Skyrim&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Skyrim&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of IGDB&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Skyrim.png&#34; alt=&#34;Skyrim&#34; title=&#34;I don&#39;t know how many times I&#39;m gonna end up giving Bethesda money for this fucking game&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of IGDB&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;What can I say about Skyrim that hasn&amp;rsquo;t already been said before. This game changed Western RPGs. It took a recipe that was introduced in Morrowind, and improved in Oblivion, and perfected it. By perfect I mean this is still a pile of bugs, but a nice one.&lt;/p&gt;
 &lt;p&gt;Skyrim succeeded where Oblivion failed I think mostly cause it&amp;rsquo;s pretty. It&amp;rsquo;s hard to convince someone to play a game that looks odd. Skyrim succeeded in creating a game that gamers were immediately attracted to. And once gamers started playing, it opened up an entire world that you could put 300+ hours into it (without Mods) and still not discover everything. It created a world of memes (Arrow Knee lol) and it exposed a lot of gamers who were used to linear games to a truly open world game. You could put 150 hours into the game and not touch the main story. Or you can complete the main story in 20 hours. The game gives you the freedom to completely ignore the main story and fully enjoy everything.&lt;/p&gt;
 &lt;p&gt;And every Western RPG, along with a few JRPGs (I&amp;rsquo;ll get to that) have been heavily inspired by Skyrim, taken lessons from it, and it&amp;rsquo;s really expanded on the genre. The Witcher Series is definitely one that benefit from Skyrim existing. And Skyrim is a game I come back and play often. I played it around the time it came out. And over the years I&amp;rsquo;ve probably played it a half a dozen times as different saves, doing completely different things, exploring different worlds, and never having a real repeated experience.&lt;/p&gt;
@@ -707,162 +366,36 @@
 &lt;p&gt;The only reason Skyrim isn&amp;rsquo;t higher is cause, well, it&amp;rsquo;s a buggy mess. Even with years of patches, tons of unofficial patches, DLC, everything, it is still full of bugs. And Skyrim has that weird way of having endearing bugs. Most other games, bugs are horrible and run the game. In Skyrim, they&amp;rsquo;re still bugs, but they have a kind of fun around them most games don’t. Most people who were heavily on the internet in 2011-2013ish knows those videos where you see a horse climbing a vertical wall on a mountain, or taking one step and dying, or clipping, or having characters be where they never should be. And while it made it fun, it can be tedious when autosave puts you in an impossible place and you&amp;rsquo;re stuck dying cause of some weird bug.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;4-virtual-reality&#34;&gt;4. Virtual Reality&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 235; 
-			flex-basis: 565px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/WillVR.jpg&#34; data-size=&#34;970x412&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/WillVR.jpg&#34;
-			width=&#34;970&#34;
-			height=&#34;412&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/WillVR_hu17305735e247ef388f148c164442f69d_124615_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/WillVR_hu17305735e247ef388f148c164442f69d_124615_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Virtual Reality&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Virtual Reality&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of Will Smith (not that one)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;WillVR.jpg&#34; alt=&#34;Virtual Reality&#34; title=&#34;I had to include this pic&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of Will Smith (not that one)&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Another category, not so much cause I can&amp;rsquo;t pick a game, but because I haven&amp;rsquo;t had much time to play VR. In this decade, VR came back from the dead, from a curiosity you&amp;rsquo;d find in a Disney World arcade, to something that anyone &lt;em&gt;could&lt;/em&gt; have in their homes. The first time I tried VR, it changed my life. I&amp;rsquo;ve only been able to use it a handful of times, but each time has cemented in me how important VR is. But if I had to pick a game.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/beatsaber.png&#34; data-size=&#34;2560x1440&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/beatsaber.png&#34;
-			width=&#34;2560&#34;
-			height=&#34;1440&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/beatsaber_hu6d4857200f04ac176d12f007c6670963_6198457_480x0_resize_box_3.png 480w, https://zaza.studio/p/top-10-games-of-2010-2019/beatsaber_hu6d4857200f04ac176d12f007c6670963_6198457_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Destiny 2&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Destiny 2&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of IGDB&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;beatsaber.png&#34; alt=&#34;Destiny 2&#34; title=&#34;Don&#39;t play Hard on your first go. Just... dont.&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of IGDB&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Beat Saber – Enough has been written about this. Honestly, the best description of &amp;ldquo;Guitar Hero with Lightsabers&amp;rdquo; will never be enough. Watch gameplays, or find &lt;em&gt;anywhere&lt;/em&gt; that does VR demos and try it. It&amp;rsquo;s worth it.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;3-celeste&#34;&gt;3. Celeste&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Celeste.png&#34; data-size=&#34;1920x1080&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Celeste.png&#34;
-			width=&#34;1920&#34;
-			height=&#34;1080&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Celeste_hu037630e2660e79863061c316a4c8f0b6_127726_480x0_resize_box_3.png 480w, https://zaza.studio/p/top-10-games-of-2010-2019/Celeste_hu037630e2660e79863061c316a4c8f0b6_127726_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Celeste&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Celeste&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of IGDB&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Celeste.png&#34; alt=&#34;Celeste&#34; title=&#34;This section is honestly scary&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of IGDB&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;This game had everything I loved. Tricky platforming. A lot of skill. Rewarding gameplay. A killer soundtrack. And a story that hit me just the right way. When Celeste came out, I was a bit lost. A lot had happened in my life, and here comes such a perfect game about overcoming obstacles, and finding yourself along the way. I do not want to give away any more of the story, but for a game I maybe put 20 hours into, I think about it constantly. It gave me hope. It inspired me. It challenged me. And as someone who is &lt;em&gt;terrible&lt;/em&gt; at completing games, I completed this one multiple times. Just gameplay alone this deserves to be in my top 10, add in the story and it&amp;rsquo;s honestly very close to being my number 1.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;2-portal-2&#34;&gt;2. Portal 2&lt;/h3&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Portal2.jpeg&#34; data-size=&#34;1920x1080&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Portal2.jpeg&#34;
-			width=&#34;1920&#34;
-			height=&#34;1080&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/Portal2_hucf0f8319af8a93f525bbe4112d9bc670_433293_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/Portal2_hucf0f8319af8a93f525bbe4112d9bc670_433293_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Portal 2&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Portal 2&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of IGDB&lt;/sub&gt;&lt;/p&gt;
-&lt;p&gt;Portal was the first game that really got me to say &amp;ldquo;wait, you can do that with a game?&amp;rdquo; It was a nearly perfect game, and honestly the reason I got into PC gaming. A few months before Portal 2 was released, Portal 1 was made free and I ended up getting a graphics card for my parents&#39; desktop just to be able to play it. Then Portal 2 came out and I put &lt;em&gt;way to many hours into it&lt;/em&gt;. This game took everything that made Portal great, took out and changed the few pain points that existed, and crafted a beautiful story in the universe they already created.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Portal2.jpeg&#34; alt=&#34;Portal 2&#34; title=&#34;it me&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of IGDB&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Portal was the first game that really got me to say &amp;ldquo;wait, you can do that with a game?&amp;rdquo; It was a nearly perfect game, and honestly the reason I got into PC gaming. A few months before Portal 2 was released, Portal 1 was made free and I ended up getting a graphics card for my parents&amp;rsquo; desktop just to be able to play it. Then Portal 2 came out and I put &lt;em&gt;way to many hours into it&lt;/em&gt;. This game took everything that made Portal great, took out and changed the few pain points that existed, and crafted a beautiful story in the universe they already created.&lt;/p&gt;
 &lt;p&gt;Portal 2&amp;rsquo;s story was so great. It expanded this &amp;ldquo;Science lab&amp;rdquo; into this massive pseudo-government operation run by essentially a very angry J.K. Simmons, and created a truly human story with very non-human creatures. You felt for GLaDOS. She wasn&amp;rsquo;t just some crazy machine anymore. She was a tragic character. You feel for Wheatley and his quest, you fall in love with the story between &lt;del&gt;J. Jonah Jameson&lt;/del&gt; Cave Johnson and GLaDOS. The game&amp;rsquo;s story is told in such an unorthodox way, and at times it feels like you&amp;rsquo;re along for the ride in someone else&amp;rsquo;s story. But even then, Portal doesn&amp;rsquo;t stop delivering magic.&lt;/p&gt;
 &lt;p&gt;The Co-op campaign is completely separate from the main game and could have been its own game. While the storyline is more simple, the way the puzzles are designed to be played by two players without each player being bored is amazing. And this is the best test for Communication in a relationship let me tell you that.&lt;/p&gt;
 &lt;hr&gt;
 &lt;h3 id=&#34;1-the-legend-of-zelda-breath-of-the-wild&#34;&gt;1. The Legend of Zelda: Breath of the Wild&lt;/h3&gt;
 &lt;p&gt;This game got me back into &lt;del&gt;Magic&lt;/del&gt; &lt;del&gt;Pokemon&lt;/del&gt; Zelda. Oh my god there&amp;rsquo;s a trend.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW3.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW3.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW3_hu362ec732da959e99bf33865c1b63a3d4_327381_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/BotW3_hu362ec732da959e99bf33865c1b63a3d4_327381_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Zelda 1&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Zelda 1&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;br&gt;
-&lt;sub&gt;Image Courtesy of me :)&lt;/sub&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;BotW3.jpg&#34; alt=&#34;Zelda 1&#34; title=&#34;WHEEEEEEEEE&#34;&gt;&lt;br&gt;
+&lt;!-- raw HTML omitted --&gt;Image Courtesy of me :)&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
 &lt;p&gt;Breath of the Wild is what happens when you have 20+ years to polish the Legend of Zelda formula, 10 years to polish the Skyrim formula, and combine them absolutely perfectly. BotW might as well be a sequel to Skyrim, it borrows so much from it. You&amp;rsquo;re given a short tutorial, and then essentially faced with an open world with essentially a &amp;ldquo;you can go this way if you want, but I&amp;rsquo;m not the boss of you&amp;rdquo;. If you wanted to leave the starting area and immediately go fight Ganon, you can. If you want to collect every single Korok Seed, you can. If you just wanna sled down the tallest mountain and get sicccc air, you can. The game gives you absolute freedom. The world is the Zelda world. All the monsters you love are there.&lt;/p&gt;
-&lt;p&gt;All the gameplay from the 3D Zeldas&#39; have been refined to where the combat feels great. The game, instead of punishing you from diverting from the main story, rewards you for exploring. The main plot of the game is always there, and you don&amp;rsquo;t lose your way how you would with Skyrim. And the word I keep coming back to, polish, is everywhere. While Skyrim is a Boogeyman of bugs that somehow learned to walk, Zelda is truly a Nintendo game. The seams are always never visible. The game has a reason for almost everything.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW1.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW1.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW1_hu0bbbaef273fffd0c707cae956d165462_135511_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/BotW1_hu0bbbaef273fffd0c707cae956d165462_135511_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Zelda 1&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Zelda 1&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;All the gameplay from the 3D Zeldas&amp;rsquo; have been refined to where the combat feels great. The game, instead of punishing you from diverting from the main story, rewards you for exploring. The main plot of the game is always there, and you don&amp;rsquo;t lose your way how you would with Skyrim. And the word I keep coming back to, polish, is everywhere. While Skyrim is a Boogeyman of bugs that somehow learned to walk, Zelda is truly a Nintendo game. The seams are always never visible. The game has a reason for almost everything.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;BotW1.jpg&#34; alt=&#34;Zelda 1&#34; title=&#34;Looking out, every point that looks interesting has a reason to explore.&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I got this game in a time of my life where I had almost no time for games. And somehow I put hours upon hours into it. The game never felt dull. There was always something to do, somewhere to explore. You&amp;rsquo;d find somewhere on the map that you think the game devs would ignore cause &lt;em&gt;who would go there&lt;/em&gt; and there&amp;rsquo;s a physics challenge there. Or there&amp;rsquo;s a powerful enemy. Or a shrine. Or a Korok. Every single corner of this game was lovingly crafted in a way to provide the best gameplay experience I&amp;rsquo;ve ever had. I come back to this game not with guilt or shame that I&amp;rsquo;ve been away or not finished the story, but with joy and excitement to explore. Dungeons I thought were impossible I&amp;rsquo;m coming back to. I&amp;rsquo;m going to areas I wrote off a year ago. This game has so much in it.&lt;/p&gt;
 &lt;p&gt;And that&amp;rsquo;s without factoring in the DLC. Nintendo has done a fantastic job of creating DLC that expands the game without taking away what makes the game magical. The DLC doesn&amp;rsquo;t feel forced, it doesn&amp;rsquo;t feel like a cash grab. And it doesn&amp;rsquo;t feel like Nintendo is charging extra for the full experience. It is a nice addition to the game that make the game better.&lt;/p&gt;
 &lt;p&gt;The only pause I have for BotW is the lack of Overworld/Dungeon and the slight repetitiveness of shrines. One of my favorite parts of old Zelda games was clearing dungeons and solving puzzles. And this game didn&amp;rsquo;t really have much of that, other than the Divine Beasts. But the game more than made up for it with it&amp;rsquo;s expansive Overworld, easily the best overworld of any Zelda game.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW2.jpg&#34; data-size=&#34;1280x720&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW2.jpg&#34;
-			width=&#34;1280&#34;
-			height=&#34;720&#34;
-			srcset=&#34;https://zaza.studio/p/top-10-games-of-2010-2019/BotW2_hufdf92048f65d0cda28eb15779534eacc_88169_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/top-10-games-of-2010-2019/BotW2_hufdf92048f65d0cda28eb15779534eacc_88169_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Zelda 1&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Zelda 1&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;BotW2.jpg&#34; alt=&#34;Zelda 1&#34; title=&#34;Running around, maybe you see a giant Shadow of the Colossus monster&#34;&gt;&lt;/p&gt;
 &lt;p&gt;This game honestly helped me love games again. At a time I was jaded at games and Triple A games in general, and Breath of the Wild gave me hope that people are still crafting games with love. Breath of the Wild is my game of the decade, and honestly the best game I have ever played.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Footnote: Before anyone complains about me not talking about [insert game here], this list is all games that I have played. It&amp;rsquo;s not a definitive list and definitely not meant to be &amp;ldquo;the best games ever&amp;rdquo;. Just the games that impacted me.&lt;/p&gt;
@@ -884,42 +417,27 @@ That one game you&amp;rsquo;re mad about.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;&lt;strong&gt;Emmanuel Medina&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Emmanuel Medina is a musician, gamer, and Magic player from Southern California.&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Oko: A Returning Player&#39;s Perspective</title>
-        <link>https://zaza.studio/p/state-of-magic-2019/</link>
-        <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/state-of-magic-2019/</guid>
-        <description>&lt;p&gt;Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Oko: A Returning Player&#39;s Perspective</title>
+      <link>https://zaza.studio/posts/state-of-magic-2019/</link>
+      <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/state-of-magic-2019/</guid>
+      <description>Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say.
+So I was a very into Magic a few years ago. I came into the game at the end of the Return to Ravnica block, my first event and one of the first times playing was an event called a &amp;ldquo;Magic Celebration&amp;rdquo; in 2013 where they handed out free decks and packs.</description>
+      <content>&lt;p&gt;Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say.&lt;/p&gt;
 &lt;p&gt;So I was a &lt;em&gt;very&lt;/em&gt; into Magic a few years ago. I came into the game at the end of the Return to Ravnica block, my first event and one of the first times playing was an event called a &amp;ldquo;Magic Celebration&amp;rdquo; in 2013 where they handed out free decks and packs. And I was hooked. I was a paper player first, quickly grew tired of Mono-Black Devotion Standard hell and moved into Modern, and played Modern essentially twice a week at my LGS for two-ish years. I ended up having a lot of lifechanging events in 2016ish and I couldn&amp;rsquo;t keep playing.&lt;/p&gt;
 &lt;p&gt;I tried Magic Online and even built a Pauper deck, but the UI was just atrocious.&lt;/p&gt;
 &lt;p&gt;Then came Magic Arena. I got on it while the beta was going, wow a year ago now. And I&amp;rsquo;ve been hopping in and out every few months. My life shaped up recently in a way I could play a lot more Magic, and since rotation had just happened it would be less difficult for me to get back into Standard.&lt;/p&gt;
 &lt;h2 id=&#34;oko-bane-of-standard&#34;&gt;Oko, Bane of Standard&lt;/h2&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 71; 
-			flex-basis: 171px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/state-of-magic-2019/oko.jpg&#34; data-size=&#34;265x370&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/state-of-magic-2019/oko.jpg&#34;
-			width=&#34;265&#34;
-			height=&#34;370&#34;
-			srcset=&#34;https://zaza.studio/p/state-of-magic-2019/oko_hu450cea036fb473a2dea00439e3ca6ada_188076_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/state-of-magic-2019/oko_hu450cea036fb473a2dea00439e3ca6ada_188076_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Oko&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Oko&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;oko.jpg&#34; alt=&#34;Oko&#34; title=&#34;Oko, Thief of Crowns&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Then came Oko. Oh Oko. Wonderful, terrible Oko. How I hate you.&lt;/p&gt;
 &lt;p&gt;Well I should say the first boogeyman I faced was Field of the Dead but that was banned quickly, but I&amp;rsquo;ll get back to that.&lt;/p&gt;
 &lt;p&gt;Dear dear Oko. I guess I should explain what Oko is and why it&amp;rsquo;s a problem first. Oko is a 3 mana Blue Green planeswalker. That&amp;rsquo;s already fairly powerful, creating a permanent that has to be dealt with on turn 3, or turn 2 if you ramp (this is green they&amp;rsquo;re playing). It comes in at 4 loyalty, and has two plus abilities. +2 you create a Food Token (essentially an Artifact that can be sacrificed to gain life). Or +1 and you can turn any artifact or creature into a Vanilla 3/3 Elk. And that&amp;rsquo;s where it gets powerful. On turn 3, or turn 2 if you/your opponent is lucky, you create a threat that has to be dealt with. At the very least, it is a 6 Loyalty Planeswalker that created an artifact, worst case you&amp;rsquo;re dealing with a 3/3 creature and a 5 Loyalty Planeswalker. That already is powerful enough. But Eldraine has a lot of support for Food decks, so getting artifacts to turn into 3/3s is trivial.&lt;/p&gt;
-&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Nice! 69% of the &lt;a href=&#34;https://twitter.com/hashtag/MythicChampionshipVI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MythicChampionshipVI&lt;/a&gt; field registered Oko, Thief of Crowns. &lt;br&gt;&lt;br&gt;Check out our full Standard Metagame breakdown by &lt;a href=&#34;https://twitter.com/karsten_frank?ref_src=twsrc%5Etfw&#34;&gt;@karsten_frank&lt;/a&gt;  here:  &lt;a href=&#34;https://t.co/L6XUR6WoGk&#34;&gt;https://t.co/L6XUR6WoGk&lt;/a&gt;&lt;br&gt;&lt;br&gt;Tune into &lt;a href=&#34;https://t.co/we35sjOtfe&#34;&gt;https://t.co/we35sjOtfe&lt;/a&gt; to watch LIVE! &lt;a href=&#34;https://t.co/BaiAGi9F0y&#34;&gt;pic.twitter.com/BaiAGi9F0y&lt;/a&gt;&lt;/p&gt;&amp;mdash; Magic Esports (@MagicEsports) &lt;a href=&#34;https://twitter.com/MagicEsports/status/1192896435638984708?ref_src=twsrc%5Etfw&#34;&gt;November 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;blockquote class=&#34;twitter-tweet&#34;&gt;&lt;p lang=&#34;en&#34; dir=&#34;ltr&#34;&gt;Nice! 69% of the &lt;a href=&#34;https://twitter.com/hashtag/MythicChampionshipVI?src=hash&amp;amp;ref_src=twsrc%5Etfw&#34;&gt;#MythicChampionshipVI&lt;/a&gt; field registered Oko, Thief of Crowns. &lt;br&gt;&lt;br&gt;Check out our full Standard Metagame breakdown by &lt;a href=&#34;https://twitter.com/karsten_frank?ref_src=twsrc%5Etfw&#34;&gt;@karsten_frank&lt;/a&gt;  here:  &lt;a href=&#34;https://t.co/L6XUR6WoGk&#34;&gt;https://t.co/L6XUR6WoGk&lt;/a&gt;&lt;br&gt;&lt;br&gt;Tune into &lt;a href=&#34;https://t.co/we35sjOtfe&#34;&gt;https://t.co/we35sjOtfe&lt;/a&gt; to watch LIVE! &lt;a href=&#34;https://t.co/BaiAGi9F0y&#34;&gt;pic.twitter.com/BaiAGi9F0y&lt;/a&gt;&lt;/p&gt;&amp;mdash; PlayMTG (@PlayMTG) &lt;a href=&#34;https://twitter.com/PlayMTG/status/1192896435638984708?ref_src=twsrc%5Etfw&#34;&gt;November 8, 2019&lt;/a&gt;&lt;/blockquote&gt;
 &lt;script async src=&#34;https://platform.twitter.com/widgets.js&#34; charset=&#34;utf-8&#34;&gt;&lt;/script&gt;
 
 &lt;p&gt;The deck is so powerful, it completely dominated the standard &lt;del&gt;Pro Tour&lt;/del&gt; Mythic Championship. About 69% &lt;del&gt;nice&lt;/del&gt; of decks in the tournament used Oko. The three most popular deck types were Sultai Food, Simic Food, and Bant Food. All of them essentially the same deck but with slightly different utility cards. And the Magic community is &lt;em&gt;not happy&lt;/em&gt;.&lt;/p&gt;
@@ -927,167 +445,61 @@ That one game you&amp;rsquo;re mad about.&lt;/p&gt;
 &lt;p&gt;But it&amp;rsquo;s frustrating for a returning player for different reasons. Magic boogeymen have kept me from playing Magic, and this is the worst example in a LONG train of mistakes Wizards has made.&lt;/p&gt;
 &lt;h2 id=&#34;magics-former-boogeymen&#34;&gt;Magic&amp;rsquo;s Former Boogeymen&lt;/h2&gt;
 &lt;p&gt;As I mentioned above, in the short time period that I was playing MTG, I encountered my fair share of boogeymen. None of them as oppressive as Oko but perhaps worse because of how long lived they were. The first rotation I went through, Mono-Black Devotion was an oppressive force. Mono-Black Devotion was so powerful that essentially the entire Theros standard, the entire Standard year, it was THE tier 1 deck to play. Three other sets came out and the deck went essentially unchanged. Next standard came the wonderfully terrible Siege Rhino and the Delve mechanic. Siege Rhino is a card so powerful that the moment it came out it started being played in Modern so much a deck reformed around it, and it even got fringe Legacy play. And the Delve mechanic was so powerful that two cards, Treasure Cruise (aka Ancestral Recall 3.0) and Dig Through Time were eventually banned in Modern and Legacy, and restricted in Vintage. For a new card to get not only banned in so many formats but to have TWO cards restricted in Vintage was a HUGE oversight in power level. And the worst part is that Delve, a mechanic that reduces the cost of a card depending on what you have in your graveyard, was printed in the same set that Fetchlands were. Wizards has been printing mistakes for a long time.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 71; 
-			flex-basis: 171px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/state-of-magic-2019/treasurecruise.jpg&#34; data-size=&#34;265x370&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/state-of-magic-2019/treasurecruise.jpg&#34;
-			width=&#34;265&#34;
-			height=&#34;370&#34;
-			srcset=&#34;https://zaza.studio/p/state-of-magic-2019/treasurecruise_hu0e32acc3d7141cbebf4ae4b6ea4a9f2e_156932_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/state-of-magic-2019/treasurecruise_hu0e32acc3d7141cbebf4ae4b6ea4a9f2e_156932_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Treasure Cruise&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Treasure Cruise&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;treasurecruise.jpg&#34; alt=&#34;Treasure Cruise&#34; title=&#34;Treasure Cruise&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The biggest issue back then is that Wizards didn&amp;rsquo;t do Standard bannings. All these problems were just left to exist in Standard, with the expectation that players would discover a way to play around these cards, or that a new set will push the problem cards out. When oppressive cards went unchecked, Wizards eventually shrugged their shoulders and said &amp;ldquo;these cards will rotate eventually.&amp;rdquo; This was obviously a terrible mentality. And thankfully Wizards has turned around and will actually ban in Standard. But we shouldn&amp;rsquo;t be at the point where there&amp;rsquo;s multiple Standard bannings a year.&lt;/p&gt;
 &lt;h2 id=&#34;whats-the-solution&#34;&gt;What&amp;rsquo;s the solution?&lt;/h2&gt;
 &lt;p&gt;I don&amp;rsquo;t know. But to a player who is returning, it feels like I&amp;rsquo;m coming back into a game that pushed me out, only to have it push me out again. In late 2013, played maybe 4 or 5 Standard FNMs before I gave up on Standard. As a new player with no collection and no money, I preferred playing garbage modern decks and losing literally every match to facing the same 3 decks, and facing Mono-Black Devotion every week. And when I come back in, I come back in to face only Oko.&lt;/p&gt;
 &lt;p&gt;This whole situation to me shows that Wizards has not learned their lesson and needs to change how they balance Standard. Because this has continued to be an issue. Eldrazi were oppressive during Battle for Zendikar. An Infinite combo as powerful as Splinter Twin just &lt;em&gt;happened&lt;/em&gt; to slip past Wizards during Kaladesh. The Field of the Dead combo was banned weeks after it started being played. And now, a month after Eldraine came out, they banned Oko. This does not breed confidence into players. For new players it can be scary because they are learning that their favorite decks and cards can get banned out of nowhere. But for a returning player, it shows me that in the time I was gone Wizards is still repeating their same mistakes, they just change how they deal with the fallout.&lt;/p&gt;
 &lt;p&gt;Wizards supposedly created Play Design specifically to fight this. They were supposed to catch horribly broken cards like these. However, instead it seems like more broken stuff has come out since Play Design has come to be. It almost makes you wonder, or at least makes me wonder, if Wizards R&amp;amp;D actually puts less effort into balance, relying on Play Design to catch their mistakes. And it&amp;rsquo;s not Play Design that&amp;rsquo;s catching their mistakes. It&amp;rsquo;s Team ChannelFireball. Or Team SCG or  It&amp;rsquo;s the Pro players. Their mistakes are caught after the cards were printed, years after the design of the set was finalized.&lt;/p&gt;
-&lt;p&gt;I don&amp;rsquo;t have a solution. Wizards recently released an &lt;a class=&#34;link&#34; href=&#34;https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;article&lt;/a&gt; stating that they&amp;rsquo;re aware there&amp;rsquo;s a problem with the Play Design team. For now Oko is banned and I can play Magic again. I can echo other people and say that this is why there should be an emphasis on having more formats in MTGA, that Brawl should be daily or that Pioneer cards being added to MTGA is a priority because of Standard environments like this one where players get burned out. But my voice will be lost in the larger chatter of Magic. Everyone else is saying other formats need more support. People have been yelling about formats other than Standard getting more love since Standard was called Type 2. So that beating a dead horse. But I will say that Magic is my favorite game of all time. I can confidently say that now, having quit, having gone from playing GPs to nothing and come back, Magic is my favorite game of all time. And I do not want to have to fight Wizards every step of the way due to broken cards getting printed. I love powerful cards as much as the next player. But what brings me back to Magic is the diversity. The feeling like every game is brand new, every game is a challenge. The feeling like there&amp;rsquo;s endless things to learn. That, even when you&amp;rsquo;ve been playing 5 years, you can still learn something new, and someone new can come out of nowhere and have an impact. And all that goes away when every single game is a mirror match, and all the games play out the same. There&amp;rsquo;s room for that. But Magic is not the game for that.&lt;/p&gt;
-&lt;p&gt;&lt;sub&gt;Image Courtesy of Wizards of the Coast&lt;/sub&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;p&gt;&lt;strong&gt;Emmanuel Medina&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Emmanuel Medina is a musician and Magic player from Southern California. He&amp;rsquo;s been playing on and off since the Return to Ravnica block and is starting to write Magic content to help players get into the game and help share his love of Magic&lt;/em&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>iOS Game Reviews: Elder Scrolls Blades</title>
-        <link>https://zaza.studio/p/ios-review-es-blades/</link>
-        <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/ios-review-es-blades/</guid>
-        <description>&lt;p&gt;I want to love Elder Scrolls: Blades. I do. I really really do.&lt;/p&gt;
-&lt;!-- &lt;img style=&#39;height: 100%; width: 100%; object-fit: contain&#39; src=&#34;{{ &#34;es-title.png&#34; | absolute_url }}&#34; alt=&#34;Title Screen - I wish it lived up to the hype of seeing this page&#34; /&gt; --&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/ios-review-es-blades/es-title.png&#34; data-size=&#34;1334x750&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/ios-review-es-blades/es-title.png&#34;
-			width=&#34;1334&#34;
-			height=&#34;750&#34;
-			srcset=&#34;https://zaza.studio/p/ios-review-es-blades/es-title_hu7d7fabf605143649375ad7de5b8e148f_3895760_480x0_resize_box_3.png 480w, https://zaza.studio/p/ios-review-es-blades/es-title_hu7d7fabf605143649375ad7de5b8e148f_3895760_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Title Screen - I wish it lived up to the hype of seeing this page&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Title Screen - I wish it lived up to the hype of seeing this page&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t have a solution. Wizards recently released an &lt;a href=&#34;https://magic.wizards.com/en/articles/archive/feature/play-design-lessons-learned-2019-11-18&#34;&gt;article&lt;/a&gt; stating that they&amp;rsquo;re aware there&amp;rsquo;s a problem with the Play Design team. For now Oko is banned and I can play Magic again. I can echo other people and say that this is why there should be an emphasis on having more formats in MTGA, that Brawl should be daily or that Pioneer cards being added to MTGA is a priority because of Standard environments like this one where players get burned out. But my voice will be lost in the larger chatter of Magic. Everyone else is saying other formats need more support. People have been yelling about formats other than Standard getting more love since Standard was called Type 2. So that beating a dead horse. But I will say that Magic is my favorite game of all time. I can confidently say that now, having quit, having gone from playing GPs to nothing and come back, Magic is my favorite game of all time. And I do not want to have to fight Wizards every step of the way due to broken cards getting printed. I love powerful cards as much as the next player. But what brings me back to Magic is the diversity. The feeling like every game is brand new, every game is a challenge. The feeling like there&amp;rsquo;s endless things to learn. That, even when you&amp;rsquo;ve been playing 5 years, you can still learn something new, and someone new can come out of nowhere and have an impact. And all that goes away when every single game is a mirror match, and all the games play out the same. There&amp;rsquo;s room for that. But Magic is not the game for that.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Image Courtesy of Wizards of the Coast&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>iOS Game Reviews: Elder Scrolls Blades</title>
+      <link>https://zaza.studio/archive/ios-review-es-blades/</link>
+      <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/archive/ios-review-es-blades/</guid>
+      <description>I want to love Elder Scrolls: Blades. I do. I really really do.
+I&amp;rsquo;m starting this off by saying that I am a huge fan of the Elder Scrolls series. I have put more hours than I can count into Oblivion and almost as many into Skyrim. Elder Scrolls Online is in my top 5 MMOs. So I wanted, so desperately, for a mobile game to capture the feeling of Elder Scrolls.</description>
+      <content>&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;I want to love Elder Scrolls: Blades. I do. I really really do.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;es-title.png&#34; alt=&#34;Title Screen - I wish it lived up to the hype of seeing this page&#34;&gt;&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m starting this off by saying that I am a huge fan of the Elder Scrolls series. I have put more hours than I can count into Oblivion and almost as many into Skyrim. Elder Scrolls Online is in my top 5 MMOs. So I wanted, so desperately, for a mobile game to capture the feeling of Elder Scrolls. The massive world, the progression, the sense of exploration, the feeling of almost endless depth (even if that depth is almost irrelevant to the actual game).&lt;/p&gt;
 &lt;p&gt;This game. Does not. Do that.&lt;/p&gt;
 &lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
 &lt;p&gt;Lets start with what the game is. It is a mobile RPG for iOS and Android. You come back from being exiled as a member of the Blades to find your hometown destroyed. There are three game modes, Town, Abyss, and Arena. The gameplay is similar in all of them. It is a 3D First Person RPG, like Skyrim, ESO, and the Elder Scrolls games in the past. You move by tapping the ground to the location you&amp;rsquo;ll be walking towards. If you go into combat, it focuses in on the enemy and you tap and hold to attack, or click icons to use Magic or Ranged attacks. You can collect items in dungeons by tapping them, or talk to people, again, by tapping on them. A huge aspect of the game is rebuilding a city that was destroyed, in true ES fashion by Magic, by collecting in game currency and resources. Before we even get to the story, or the freemium aspects of Blades, or the game modes, I have to talk about the controls.&lt;/p&gt;
 &lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
-&lt;!-- &lt;img style=&#39;height: 100%; width: 100%; object-fit: contain&#39; src=&#34;{{ &#34;/images/es-blades/Movement.gif&#34; | absolute_url }}&#34; alt=&#34;Yes, people turn exactly like that irl&#34; /&gt; --&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 150; 
-			flex-basis: 360px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/ios-review-es-blades/Movement.gif&#34; data-size=&#34;360x240&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/ios-review-es-blades/Movement.gif&#34;
-			width=&#34;360&#34;
-			height=&#34;240&#34;
-			srcset=&#34;https://zaza.studio/p/ios-review-es-blades/Movement_hue3686a6f3d13376e09aa14139611c9f6_1004799_480x0_resize_box.gif 480w, https://zaza.studio/p/ios-review-es-blades/Movement_hue3686a6f3d13376e09aa14139611c9f6_1004799_1024x0_resize_box.gif 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Yes, people turn exactly like that irl&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Yes, people turn exactly like that irl&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;Movement.gif&#34; alt=&#34;Yes, people turn exactly like that irl&#34;&gt;&lt;/p&gt;
 &lt;p&gt;While this game in many points feels like it was built from the ground up to be a mobile game, it feels like it was built by people who have never played a mobile game. The game can be played both vertically and horizontally. Vertically, swiping on the screen will allow you to look around. Tapping on the ground will move your character. Horizontally this still works, but swiping on what feels like the bottom left 1/8th of the screen will allow you to walk like an analog stick, and swiping on the bottom right 1/8th will move the screen like a right analog stick. This isn&amp;rsquo;t &lt;em&gt;bad&lt;/em&gt; per se, but it leads to awkwardness.
 The movement with tapping feels far worse than with the virtual analog stick. When tapping on the ground to move, the game will automatically take control of the camera, sometimes hilariously badly. Walking up stairs, the actual view you have is terrible, looking up about 45 degrees, and when you reach the top of the stairs your view stays in that position. If you click something around a corner, the character will strafe in a very unusual way around the corner. It &lt;em&gt;is&lt;/em&gt; something you can get used to, but definitely annoying. It&amp;rsquo;s definitely more of a “get used to” issue, but still feels like an oversight by the game devs.&lt;/p&gt;
 &lt;p&gt;However, in landscape, the game plays very well. The movement is smooth when using the virtual joysticks. Your character feels like he’s actually moving. The camera moves a tad slow but it feels a lot more natural horizontally than vertically. It kind of gives this game a feeling like the vertical mode/one hand mode was added way later in development, and the devs didn’t quite know what to do with a mobile game. Movement can be a bit awkward but is something you can get used to. What I couldn&amp;rsquo;t get used to was the combat.&lt;/p&gt;
 &lt;h3 id=&#34;combat&#34;&gt;Combat&lt;/h3&gt;
-&lt;!-- &lt;img style=&#39;height: 100%; width: 100%; object-fit: contain&#39; src=&#34;{{ &#34;/images/es-blades/Combat.gif&#34; | absolute_url }}&#34; alt=&#34;Pop the bubble&#34; /&gt; --&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 150; 
-			flex-basis: 360px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/ios-review-es-blades/Combat.gif&#34; data-size=&#34;360x240&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/ios-review-es-blades/Combat.gif&#34;
-			width=&#34;360&#34;
-			height=&#34;240&#34;
-			srcset=&#34;https://zaza.studio/p/ios-review-es-blades/Combat_hu9558511f49764c3651c52aeaaa73a2c7_4981898_480x0_resize_box.gif 480w, https://zaza.studio/p/ios-review-es-blades/Combat_hu9558511f49764c3651c52aeaaa73a2c7_4981898_1024x0_resize_box.gif 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Pop the bubble&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Pop the bubble&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;Combat.gif&#34; alt=&#34;Pop the bubble&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Combat is where this game fully stops feeling like an Elder Scrolls game. You tap and hold to charge an attack, and let go to release it. If you release &lt;em&gt;just&lt;/em&gt; when the charging circle gets to its ready indicator, you get a critical hit. You also get buttons on the screen for using abilities and Magic. However, it is a far cry from an actual Elder Scrolls game, where you move, run, use abilities, attack, block, and (in Skyrim) using Shouts. Most fights usually end up being “can you tap correctly” and “are you stronger than the enemy” and that’s it. Any depth is lost in the lack of responsiveness.&lt;/p&gt;
 &lt;h2 id=&#34;story&#34;&gt;Story&lt;/h2&gt;
-&lt;!--&lt;img style=&#39;height: 100%; width: 100%; object-fit: contain&#39; src=&#34;{{ &#34;/images/es-blades/story.jpeg&#34; | absolute_url }}&#34; alt=&#34;Nothing to see Here&#34; /&gt; --&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/ios-review-es-blades/story.jpeg&#34; data-size=&#34;1334x750&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/ios-review-es-blades/story.jpeg&#34;
-			width=&#34;1334&#34;
-			height=&#34;750&#34;
-			srcset=&#34;https://zaza.studio/p/ios-review-es-blades/story_hu1c460e273c629c084728ab2f7eb8fa25_254605_480x0_resize_q75_box.jpeg 480w, https://zaza.studio/p/ios-review-es-blades/story_hu1c460e273c629c084728ab2f7eb8fa25_254605_1024x0_resize_q75_box.jpeg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Nothing to see here&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Nothing to see here&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;story.jpeg&#34; alt=&#34;Nothing to see here&#34;&gt;&lt;/p&gt;
 &lt;p&gt;When you launch the game, you get a quick instance where your character is introduced. In traditional Elder Scrolls fashion, &lt;em&gt;something&lt;/em&gt; happened and you’re starting life from scratch. Unlike riding a cart to your death, or waking up in a prison, you’re heading home because you were a member of the “Blades” a kind of Secret Service in Tamriel that got disbanded.&lt;/p&gt;
 &lt;p&gt;You defeat a few mercenaries and make your way to town. &lt;em&gt;Because Elder Scrolls&lt;/em&gt; and there having to be some supernatural disaster, the town is destroyed. Then the actual game starts.&lt;/p&gt;
 &lt;p&gt;Besides this, there are quest missions that further your personal story, discovering who you were and with backstory on what happened to the Blades, as well as insight into the town and the magic beneath it.&lt;/p&gt;
 &lt;h2 id=&#34;town&#34;&gt;Town&lt;/h2&gt;
-&lt;!-- &lt;img style=&#39;height: 100%; width: 100%; object-fit: contain&#39; src=&#34;{{ &#34;/images/es-blades/es-town.png&#34; | absolute_url }}&#34; alt=&#34;Fix me please&#34; /&gt; --&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/ios-review-es-blades/es-town.png&#34; data-size=&#34;1334x750&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/ios-review-es-blades/es-town.png&#34;
-			width=&#34;1334&#34;
-			height=&#34;750&#34;
-			srcset=&#34;https://zaza.studio/p/ios-review-es-blades/es-town_hua727fe2ca5b01c40545b843172fb259b_3277485_480x0_resize_box_3.png 480w, https://zaza.studio/p/ios-review-es-blades/es-town_hua727fe2ca5b01c40545b843172fb259b_3277485_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;Fix me please&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;Fix me please&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;es-town.png&#34; alt=&#34;Fix me please&#34;&gt;&lt;/p&gt;
 &lt;p&gt;The Town is the Main game mode in ES: Blades. You will go on Quests to rescue town members, or to do tasks that those town members need done (Kill Goblins, Collect Resources, etc.), and get gold and resources that will then help you rebuild the Town. There is a lot to do in the town. You are tasked with rebuilding important buildings like the Blacksmith or Alchemist, which will unlock shops and new weapons/items. And, because this is a mobile Freemium game, the first few buildings are fairly cheap to build, and the price goes up fairly quickly from there, requiring way more time and resources to rebuild. There is also a “Jobs” board that has quests on them, including a Daily and Weekly Quest that has better rewards. These jobs will also drop you into a dungeon instance, just like the quests from town members.&lt;/p&gt;
 &lt;p&gt;The actual instances are where I feel the game really falling apart.&lt;/p&gt;
 &lt;h2 id=&#34;dungeons&#34;&gt;Dungeons&lt;/h2&gt;
 &lt;p&gt;I have so much to say about the dungeons, but I’ll start with this.&lt;/p&gt;
-&lt;blockquote&gt; Doom had better level design. &lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;Okay that’s a low blow. I’ll be nicer.&lt;/p&gt;
-&lt;blockquote&gt;*Temple Run has never looked better* &lt;/blockquote&gt;
+&lt;!-- raw HTML omitted --&gt;
 &lt;p&gt;The dungeons are all more or less the same. They are a set of twisting hallways and rectangular rooms. The dungeons are mostly linear, you walk through the dungeon, kill the NPCs, break some breakables(usually pots), find a few chests, get to the end, rinse, repeat. And this is where I feel the game starts falling apart and you see it for what it is, not an Elder Scrolls game, but just another mobile Freemium game. There is no interesting dungeon design. There are no puzzles. There’s no feeling like you’re in a natural environment. Caves don’t feel like caves, hideouts don’t feel like hideouts. It all feels like randomly twisting passages into random rooms. Besides occasional staircases, the map is more or less flat. While you can say this is a consideration for being a mobile game, there’s plenty of unexplored space on how you can make an interesting dungeon fit for mobile games, instead of just boiling down the formula used on main ES games into its most basic elements, then creating a map that doesn’t even approach a game from 1993s in terms of being interesting.&lt;/p&gt;
 &lt;p&gt;You get a certain amount of decent quests a day so even dungeoneering kinda has a limited lifespan. You go through the dungeon, endure clunky combat, and get rewards.&lt;/p&gt;
 &lt;h2 id=&#34;abyss&#34;&gt;Abyss&lt;/h2&gt;
@@ -1102,26 +514,8 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 &lt;p&gt;The fact that the game is instanced, while it is definitely necessary for a mobile game, pulls you out of the game itself. And when part of the selling point of every Elder Scrolls game before this &lt;em&gt;was&lt;/em&gt; immersion, I feel like this is a big step back.&lt;/p&gt;
 &lt;h2 id=&#34;looking-forward&#34;&gt;Looking Forward&lt;/h2&gt;
 &lt;p&gt;It looks like Bethesda is listening though. Between when I started writing this review and right before it went out, I got this push notificaiton.&lt;/p&gt;
-&lt;!-- &lt;img style=&#39;height: 50%; width: 50%; object-fit: contain&#39; src=&#34;{{ &#34;/images/es-blades/notification.png&#34; | absolute_url }}&#34; alt=&#34;I thought I had notifications turned off&#34; /&gt; --&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 86; 
-			flex-basis: 208px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/ios-review-es-blades/notification.png&#34; data-size=&#34;750x863&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/ios-review-es-blades/notification.png&#34;
-			width=&#34;750&#34;
-			height=&#34;863&#34;
-			srcset=&#34;https://zaza.studio/p/ios-review-es-blades/notification_hu15f8d500b818e6fc8cbea6a0c462a8b8_1794403_480x0_resize_box_3.png 480w, https://zaza.studio/p/ios-review-es-blades/notification_hu15f8d500b818e6fc8cbea6a0c462a8b8_1794403_1024x0_resize_box_3.png 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;I thought I had notifications turned off&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;I thought I had notifications turned off&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;img src=&#34;notification.png&#34; alt=&#34;I thought I had notifications turned off&#34;&gt;&lt;/p&gt;
 &lt;p&gt;They are actively trying to do things to make it feel less freemium. This is something I would never expect from a company like(and I hate to pick on them cause they make good games) Supercell. They&amp;rsquo;ve also added confirmation screens for spending any large amount of gems(over 11 says their patch notes) and changed percentages on chest drops. This is good news that Bethesda is listening and this game is more than the cash grab it felt like at the beginning.&lt;/p&gt;
 &lt;p&gt;There is also the Arena coming soon. Where ES: Blades players can fight against each other. The Arena may be a very good reason for more competitive players. I&amp;rsquo;m personally not too keen on PvP on mobile, mostly cause the chances I get for mobile games are maybe a few minutes on the toilet at work, But the option is there, and combat between players I would expect to both feel more natural and actually be more engaging than combat with NPCs.&lt;/p&gt;
 &lt;h2 id=&#34;final-thoughts&#34;&gt;Final Thoughts&lt;/h2&gt;
@@ -1148,126 +542,203 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
 &lt;/ul&gt;
 &lt;hr&gt;
 &lt;p&gt;Review by Emmanuel Medina&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>2019: Year of Content</title>
-        <link>https://zaza.studio/p/2019-yearly-theme/</link>
-        <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/2019-yearly-theme/</guid>
-        <description>&lt;p&gt;I&amp;rsquo;ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>2019: Year of Content</title>
+      <link>https://zaza.studio/posts/2019-yearly-theme/</link>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/2019-yearly-theme/</guid>
+      <description>I&amp;rsquo;ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.
+Part of the reason I started this blog is to chronicle my yearly themes. I&amp;rsquo;ll probably repost my old themes but no promises.</description>
+      <content>&lt;p&gt;I&amp;rsquo;ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.&lt;/p&gt;
 &lt;p&gt;Part of the reason I started this blog is to chronicle my yearly themes. I&amp;rsquo;ll probably repost my old themes &lt;del&gt;but no promises&lt;/del&gt;.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been thinking about a more realistic yearly theme for a while. And thinking about what I want to do in my life going forward. And I realized no matter what, I want to be producing something. I want to be making some kind of content. Be it podcasts, videos, watercolors, making pens, or just keeping this blog up. I&amp;rsquo;m happiest when I&amp;rsquo;m making something. It&amp;rsquo;s just a really nice feeling making something appear out of nothing. And so, for 2019, I&amp;rsquo;m focusing on content.&lt;/p&gt;
 &lt;p&gt;In 2018 I&amp;rsquo;ve done a few things sporadically. I made a Youtube review video(might have been late 2017 but I think it was this year), started podcasts/podcast editing, and got a bit back into painting. But it was so disjointed, and I kept just&amp;hellip; doing other things when I had small amounts of time. But making sure I keep myself accountable to this is a big part of the year&amp;rsquo;s Theme.&lt;/p&gt;
-&lt;p&gt;For people who may not know, yearly themes is a topic that kind of came to be, or was at least first brought to my attention, by the &lt;a class=&#34;link&#34; href=&#34;https://www.relay.fm/cortex/79&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Cortex&lt;/a&gt; podcast. Myke and Grey have been doing yearly themes for a few years. And the whole idea is that you don&amp;rsquo;t have a set goal, because goals fail. You set a theme to help guide decisions. It just helps guide your ideas and thought process, and keeps the theme an active part of your mind that you can focus on, instead of wishful thinking.&lt;/p&gt;
+&lt;p&gt;For people who may not know, yearly themes is a topic that kind of came to be, or was at least first brought to my attention, by the &lt;a href=&#34;https://www.relay.fm/cortex/79&#34;&gt;Cortex&lt;/a&gt; podcast. Myke and Grey have been doing yearly themes for a few years. And the whole idea is that you don&amp;rsquo;t have a set goal, because goals fail. You set a theme to help guide decisions. It just helps guide your ideas and thought process, and keeps the theme an active part of your mind that you can focus on, instead of wishful thinking.&lt;/p&gt;
 &lt;p&gt;And I need that because it is really easy for me to lose focus. The last few months of my life I&amp;rsquo;ve mostly lost direction and kinda been meandering through work and responsibilities and I needed better focus on my life going forward.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Accidental Disconnect from the Internet</title>
-        <link>https://zaza.studio/p/disconnect/</link>
-        <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/disconnect/</guid>
-        <description>&lt;p&gt;It&amp;rsquo;s been an odd month or two for me. For the first time in as long as I can remember, I&amp;rsquo;ve been mostly disconnected from the internet.&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Accidental Disconnect from the Internet</title>
+      <link>https://zaza.studio/posts/disconnect/</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/disconnect/</guid>
+      <description>It&amp;rsquo;s been an odd month or two for me. For the first time in as long as I can remember, I&amp;rsquo;ve been mostly disconnected from the internet.
+This wasn&amp;rsquo;t really any kind of planned event. I had recently become more active on the Do By Friday discord, was fairly active with my bands social media, rediscovered Twitter a third time, and was actually enjoying Instagram. Then, shortly before I took my trip to Mexico, my use basically plummited.</description>
+      <content>&lt;p&gt;It&amp;rsquo;s been an odd month or two for me. For the first time in as long as I can remember, I&amp;rsquo;ve been mostly disconnected from the internet.&lt;/p&gt;
 &lt;p&gt;This wasn&amp;rsquo;t really any kind of planned event. I had recently become more active on the Do By Friday discord, was fairly active with my bands social media, rediscovered Twitter a third time, and was actually enjoying Instagram. Then, shortly before I took my trip to Mexico, my use basically plummited. Mexico certainly helped, I ran out of data shortly after my plane arrived and I had basically nothing but simple texting for a week. But even after that, my usage of almost all social media went down to near zero.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;ve been thinking about my internet usage for a while. It definitely was something on my mind since I took a trip to Yosemite in April because, turns out, there&amp;rsquo;s almost no cell signals, and I felt &lt;em&gt;fine&lt;/em&gt;. I didn&amp;rsquo;t feel like I was missing out in anything, or like I would fall apart if something happened online and I didn&amp;rsquo;t come across it. But the moment I got back into society, I went back on my phone. I got a new laptop, went to WWDC, got involved in multiple online communities, hell met my SO online. But I had this feeling that I needed to get away from it all.&lt;/p&gt;
 &lt;p&gt;This was not made easier by CGP Grey releasing a lot of content relating to his sabbatical from the internet. It framed the internet as a bad thing that is affecting his focus, and it kind of made me uncomfortable how it brought into focus my relationship with the internet. But I was in denial. Grey is dumb, it&amp;rsquo;s not the internet&amp;rsquo;s fault, it&amp;rsquo;s how his brain works, or it&amp;rsquo;s actually x or y, or he remembers the past wrong and was always like this.&lt;/p&gt;
-&lt;blockquote&gt; Then, I kinda just disconnected from the internet... and he was right. And I felt like a slightly better person while doing it. &lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Then, I kinda just disconnected from the internet&amp;hellip; and he was right. And I felt like a slightly better person while doing it.&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;It gave me a good chance to reflect on what the Internet was really doing to me. I don&amp;rsquo;t believe that it is affecting my attention like other do, that comes from elsewhere. But it definitely was affecting my sanity, because right before my disconnect, were the 2018 Midterm Elections. Elections whose news stories I tracked, whose stats I watched, whose follow up I kept such a close eye on to see which races flipped where at what points due to mail in ballots or issues with voting or otherwise.&lt;/p&gt;
 &lt;p&gt;And I went from that, to a period where I had almost no political news. Almost no news whatsoever actually. I felt &lt;em&gt;free&lt;/em&gt;. But the terrible part is that I felt free &lt;em&gt;after&lt;/em&gt; I realized and started reconnecting. &lt;em&gt;After&lt;/em&gt; I started refollowing tech sites, political sites, started getting back on Reddit and Twitter, I realized how much those sites impacted me. How sad and stressed they truly made me.&lt;/p&gt;
-&lt;p&gt;So I&amp;rsquo;m left with a dilemma. What am I to do. What could I possibly do to take care of myself. The solution I think I landed on is, sadly, &amp;ldquo;more technology.&amp;rdquo; I have picked up a calendar and task manager app(I&amp;rsquo;ll write about those later) to help me focus on what I &lt;em&gt;have&lt;/em&gt; to do instead of what I &lt;em&gt;want to&lt;/em&gt; or &lt;em&gt;shouldn&amp;rsquo;t&lt;/em&gt; do online. I&amp;rsquo;ve started just browsing news sites on my PC but saving interesting articles to &lt;a class=&#34;link&#34; href=&#34;https://www.instapaper.com/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Instapaper&lt;/a&gt; so I could read the actual articles in a well designed, clutter free location so I can only focus on one thing. I am thinking about something like an Apple Watch so I can segment notifications into things I need to see on the Watch and things I can ignore on the phone. I&amp;rsquo;ve turned off basically every notification on my phone minus calls, texts, and Omnifocus(this included getting rid of email notifications, that 30,000+ red bubble). I&amp;rsquo;m considering an iPad for purely writing and reading web articles.&lt;/p&gt;
+&lt;p&gt;So I&amp;rsquo;m left with a dilemma. What am I to do. What could I possibly do to take care of myself. The solution I think I landed on is, sadly, &amp;ldquo;more technology.&amp;rdquo; I have picked up a calendar and task manager app(I&amp;rsquo;ll write about those later) to help me focus on what I &lt;em&gt;have&lt;/em&gt; to do instead of what I &lt;em&gt;want to&lt;/em&gt; or &lt;em&gt;shouldn&amp;rsquo;t&lt;/em&gt; do online. I&amp;rsquo;ve started just browsing news sites on my PC but saving interesting articles to &lt;a href=&#34;https://www.instapaper.com/&#34;&gt;Instapaper&lt;/a&gt; so I could read the actual articles in a well designed, clutter free location so I can only focus on one thing. I am thinking about something like an Apple Watch so I can segment notifications into things I need to see on the Watch and things I can ignore on the phone. I&amp;rsquo;ve turned off basically every notification on my phone minus calls, texts, and Omnifocus(this included getting rid of email notifications, that 30,000+ red bubble). I&amp;rsquo;m considering an iPad for purely writing and reading web articles.&lt;/p&gt;
 &lt;p&gt;I have a lot to think about. I have some travel in Mid-January that will force another short disconnect from the internet. So I&amp;rsquo;m going to see how much that affects me. But I&amp;rsquo;m sure that I&amp;rsquo;ll be back.&lt;/p&gt;
 &lt;p&gt;I mean&amp;hellip; I just started a blog that I&amp;rsquo;m actually keeping up kinda sorta just a bit.&lt;/p&gt;
 &lt;p&gt;This isn&amp;rsquo;t the end of my experiment. But I will definitely be something I think about a LOT in the coming year.&lt;/p&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.youtube.com/watch?v=wf2VxeIm1no&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;CGP Grey&amp;rsquo;s Disconnect YouTube Video&lt;/a&gt;
-&lt;a class=&#34;link&#34; href=&#34;https://www.relay.fm/cortex/74&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Disconnect Discussion on Cortex&lt;/a&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Coming Back to Magic</title>
-        <link>https://zaza.studio/p/state-of-magic-2018/</link>
-        <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/state-of-magic-2018/</guid>
-        <description>&lt;p&gt;I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=wf2VxeIm1no&#34;&gt;CGP Grey&amp;rsquo;s Disconnect YouTube Video&lt;/a&gt;
+&lt;a href=&#34;https://www.relay.fm/cortex/74&#34;&gt;Disconnect Discussion on Cortex&lt;/a&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Coming Back to Magic</title>
+      <link>https://zaza.studio/posts/state-of-magic-2018/</link>
+      <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/state-of-magic-2018/</guid>
+      <description>editors note: two things have changed in this time. i&amp;rsquo;ve quit and come back to magic two more times. and a mac client for Magic Arena has been released. ^.^
+I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack
+OH NO
+You don&amp;rsquo;t just leave Magic.
+And I&amp;rsquo;m so glad I&amp;rsquo;m back.</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;editors note: two things have changed in this time. i&amp;rsquo;ve quit and come back to magic two more times. and a mac client for Magic Arena has been released. ^.^&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack&lt;/p&gt;
 &lt;p&gt;OH NO&lt;/p&gt;
 &lt;p&gt;You &lt;em&gt;don&amp;rsquo;t&lt;/em&gt; just leave Magic.&lt;/p&gt;
 &lt;p&gt;And I&amp;rsquo;m &lt;em&gt;&lt;strong&gt;so glad&lt;/strong&gt;&lt;/em&gt; I&amp;rsquo;m back.&lt;/p&gt;
 &lt;p&gt;Backstory. I stopped playing Magic about two years ago mostly due to money and time. I couldn&amp;rsquo;t justify the entry fee, or the time commitment every Friday. So I stopped going. I still kept up with some news, but without playing, that slowed down too. I couldn&amp;rsquo;t play Magic Online, because that is a steaming pile of garbage(more on that later) and Magic stopped being a part of my life. And when I finally wanted to get back into it, my LGS shut down.&lt;/p&gt;
 &lt;p&gt;I was deep into Magic. Like&amp;hellip; deep in the competitive circle. My LGS was one of the most competitive stores in all SoCal. And with it shutting down, I felt like even if I wanted to start again, I couldn&amp;rsquo;t. Most other LGSs in my area(which were still 30 minute drive from me) were really casual, and none of the people I had become friends with went to them. And the nearest &amp;ldquo;competitive&amp;rdquo; store, where most of the players moved to, was an hours drive away. I did not have a chance to get back into Magic even if I wanted to. A local GP passed and I didn&amp;rsquo;t go. I would go to every major event in SoCal beforehand.&lt;/p&gt;
 &lt;p&gt;Then came Magic Arena.&lt;/p&gt;
-&lt;p&gt;&lt;figure 
-	
-		class=&#34;gallery-image&#34; 
-		style=&#34;
-			flex-grow: 177; 
-			flex-basis: 426px&#34;
-	&gt;
-	&lt;a href=&#34;https://zaza.studio/p/state-of-magic-2018/Image3_Izzet.jpg&#34; data-size=&#34;480x270&#34;&gt;
-		&lt;img src=&#34;https://zaza.studio/p/state-of-magic-2018/Image3_Izzet.jpg&#34;
-			width=&#34;480&#34;
-			height=&#34;270&#34;
-			srcset=&#34;https://zaza.studio/p/state-of-magic-2018/Image3_Izzet_hu1784b1e77c043ec7780104b26591560f_48308_480x0_resize_q75_box.jpg 480w, https://zaza.studio/p/state-of-magic-2018/Image3_Izzet_hu1784b1e77c043ec7780104b26591560f_48308_1024x0_resize_q75_box.jpg 1024w&#34;
-			loading=&#34;lazy&#34;
-			alt=&#34;MTGA_Gameplay&#34;&gt;
-	&lt;/a&gt;
-	
-	&lt;figcaption&gt;MTGA_Gameplay&lt;/figcaption&gt;
-	
-&lt;/figure&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;Image3_Izzet.jpg&#34; alt=&#34;MTGA_Gameplay&#34; title=&#34;Magic Arena is Beautiful&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Magic Arena is a brand new client designed by Wizards of the Coast to play Magic online. Magic Arena is also currently in Open Beta, but I&amp;rsquo;ve been playing since the closed beta. And it has revived in me a love of Magic I thought I lost a while ago. The other online offerings were bad. So I touched no online way to play Magic until Arena. And Arena is something else. I was skeptical at first, because the last attempt was really bad(people are still crying about MTGO v4). But boy was I wrong. The experience is smooth, the gameplay exceptional, it has a very Apple-like sense of &lt;em&gt;Discoverability&lt;/em&gt; where features you don&amp;rsquo;t need will be barely hidden, but when you finally need it they&amp;rsquo;ll be out in the open. It is &lt;em&gt;full Magic&lt;/em&gt; with all the insane rule complexities of Magic, but with a design and interface that is stellar for both new players and veterans.&lt;/p&gt;
 &lt;p&gt;But all this is just praising the client itself, what I really am here to do is talk about how it helped me rediscover a love I thought I lost. I had tried, in the time I was away from Magic, to fill that void. I played Hearthstone religiously for a few months. But it lacked a depth that Magic had. I tried MTGO, but the economy is a direct mirror of paper MTG for absolutely no reason and the actual program looks like it&amp;rsquo;s written for Windows 95, and has stability to match. But here was a version of Magic that captured everything that made paper Magic so wonderful.&lt;/p&gt;
 &lt;p&gt;Magic is a game I will praise until the end of time. It is so well designed, and the R&amp;amp;D Team at Wizards really does their best to make sure it is still relevant. In the 25 years it has been around, the power creep has been so well managed that eternal decks will still play cards printed 20+ years ago, along with cards made today. And you can feel it. Magic is a game you can teach any kid old enough to logic and you can have a casual game with, but is also deep enough to evoke 20+ years of game theory on, and still have emerging thoughts even today. No other game, at least that I&amp;rsquo;ve found, has that. It is a game that massive communities have built around, a game that continues to gain fans. And Arena is the first time a program has captured this.&lt;/p&gt;
 &lt;p&gt;It is still early on. It is a Beta after all. Simple things like friends lists are still being worked on, and actual tournaments seem a ways away. &lt;del&gt;Plus no Mac client yet grumble grumble&lt;/del&gt;. But I just wanted to sing praises to the game that got me back into Magic.&lt;/p&gt;
-&lt;p&gt;&lt;sub&gt;Image Courtesy of Wizards of the Coast&lt;/sub&gt;&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Back to Living in Fear</title>
-        <link>https://zaza.studio/p/fear/</link>
-        <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/fear/</guid>
-        <description>&lt;p&gt;When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;m a child of immigrants. I wont go into it too much, but I&amp;rsquo;ll just say both my parents are citizens now. They weren&amp;rsquo;t then. I would get bouts of anxiety if my dad took too long to get home. Did they finally pull him over? Did he run into an immigration checkpoint(they were common in California). Is tonight the night I lose my dad? This was a time before cell phones were common, so I was doubly paranoid. But time passes. Those checkpoints became less common, and my parents went through the process to naturalize.&lt;/p&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;Image Courtesy of Wizards of the Coast&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Back to Living in Fear</title>
+      <link>https://zaza.studio/posts/fear/</link>
+      <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/fear/</guid>
+      <description>When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.
+I&amp;rsquo;m a child of immigrants. I wont go into it too much, but I&amp;rsquo;ll just say both my parents are citizens now. They weren&amp;rsquo;t then.</description>
+      <content>&lt;p&gt;When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m a child of immigrants. I wont go into it too much, but I&amp;rsquo;ll just say both my parents are citizens now. They weren&amp;rsquo;t then. I would get bouts of anxiety if my dad took too long to get home. Did they finally pull him over? Did he run into an immigration checkpoint (they were common in California). Is tonight the night I lose my dad? This was a time before cell phones were common, so I was doubly paranoid. But time passes. Those checkpoints became less common, and my parents went through the process to naturalize.&lt;/p&gt;
 &lt;p&gt;So why am I writing about this now. Why am I talking about a childhood fear? Because today, on Thanksgiving day when I&amp;rsquo;m writing this, that fear came back. That fear that started lingering in the back of my mind since November 2016 came back full force. But this time, it&amp;rsquo;s me, and I&amp;rsquo;m scared if I&amp;rsquo;ll ever make it home.&lt;/p&gt;
 &lt;p&gt;Today, writing this, on Thanksgiving Day 2018, Donald Trump, in a fit of imbecilic rage, announced that he is authorizing the use of force on the Mexican border, and is considering outright closing it. Also, today on Thanksgiving Day, I am in Mexico, on the other side of the Mexican border, with plane tickets to go back in a few days.&lt;/p&gt;
-&lt;blockquote&gt; &#34;Earlier on Thursday, U.S. President Donald Trump said he had authorized the use of lethal force on the border and warned that the United States could close the whole frontier.&#34; - &lt;a href=&#34;https://www.reuters.com/article/us-usa-immigration-caravan/tensions-rise-at-u-s-mexico-border-as-migrants-holiday-travelers-wait-to-cross-idUSKCN1NS01A&#34;&gt;Reuters&lt;/a&gt; &lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Earlier on Thursday, U.S. President Donald Trump said he had authorized the use of lethal force on the border and warned that the United States could close the whole frontier.&amp;rdquo; - &lt;!-- raw HTML omitted --&gt;Reuters&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;This is everything I feared. It is the reality of so many people, that our President, someone elected who &lt;em&gt;lost the popular vote&lt;/em&gt; could make one decision and ruin so many lives. But worse, it pulls me back to that kid, home from school, worried that his dad won&amp;rsquo;t come home tonight. Or who sees flashing police lights up ahead and wonders if it will be my last day in the US.&lt;/p&gt;
 &lt;p&gt;I don&amp;rsquo;t know why I&amp;rsquo;m writing this. I don&amp;rsquo;t have a point. Trump is in office for two more years. If they truly close the border there&amp;rsquo;s other legal ways for American Citizens to enter the country. I would be thrown into a financial hole if that happens, but life would go on.&lt;/p&gt;
 &lt;p&gt;But I needed this off my chest. I needed to vent. To scream. To &lt;em&gt;&lt;strong&gt;FUCKING SCREAM&lt;/strong&gt;&lt;/em&gt;. Because today, I saw my life disappear. In one rash string of tweets, on the day where Americans are supposed to be celebrating the hospitality the natives showed what was ostensively a group of immigrants, one statement threw me into a panic attack. One statement made me cry. And I&amp;rsquo;m filled with pure hopelessness, because I know it won&amp;rsquo;t be the last time.&lt;/p&gt;
-</description>
-        </item>
-        <item>
-        <title>Test Blog Part 3!</title>
-        <link>https://zaza.studio/p/test-blog-part-3/</link>
-        <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
-        
-        <guid>https://zaza.studio/p/test-blog-part-3/</guid>
-        <description>&lt;blockquote&gt; This is my 4th blog attempt. I am keeping this piece unedited to show my thought process back in 2018. Note I am no longer on Jekyll or using the Minimal Mistakes theme &lt;/blockquote&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>Test Blog Part 3!</title>
+      <link>https://zaza.studio/posts/test-blog-part-3/</link>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/posts/test-blog-part-3/</guid>
+      <description>i&amp;rsquo;m on blog #5 now. im also a different gender from when i wrote this. it&amp;rsquo;s here as an archive, mostly for nostalgia at this point. at the insufferably up-tight loser i was i guess. everything below here is past me
+I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr&amp;hellip; I don&amp;rsquo;t) in earnest to start. And it&amp;rsquo;s been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here).</description>
+      <content>&lt;blockquote&gt;
+&lt;p&gt;i&amp;rsquo;m on blog #5 now. im also a different gender from when i wrote this. it&amp;rsquo;s here as an archive, mostly for nostalgia at this point. at the insufferably up-tight loser i was i guess. &lt;br&gt;
+everything below here is past me&lt;/p&gt;
+&lt;/blockquote&gt;
 &lt;p&gt;I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr&amp;hellip; I don&amp;rsquo;t) in earnest to start. And it&amp;rsquo;s been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here). But here I am. Starting fresh with a new blog in a new place.&lt;/p&gt;
-&lt;p&gt;I guess I should maybe start with what this blog is and why I&amp;rsquo;m doing it. The blog itself is a &lt;a class=&#34;link&#34; href=&#34;https://jekyllrb.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Jekyll&lt;/a&gt; blog run off &lt;a class=&#34;link&#34; href=&#34;https://pages.github.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Github Pages&lt;/a&gt;. &lt;!--The theme is [Massively](https://github.com/iwiedenm/jekyll-theme-massively-src), which I have modified some of the HTML and CSS for to make my own. ~~I&#39;ll be probably copy pasting that whole thing to the about page for future reference~~ --&gt; The theme is &lt;a class=&#34;link&#34; href=&#34;https://mmistakes.github.io/minimal-mistakes/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Minimal Mistakes&lt;/a&gt;. I switched to that from &lt;a class=&#34;link&#34; href=&#34;https://github.com/iwiedenm/jekyll-theme-massively-src&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Massively&lt;/a&gt; because I wanted more customization and dark themes.&lt;/p&gt;
-&lt;p&gt;I&amp;rsquo;ve previously made blogs using Wordpress, both the actual &lt;a class=&#34;link&#34; href=&#34;https://wordpress.com&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;blog hosting platform&lt;/a&gt; and the &lt;a class=&#34;link&#34; href=&#34;https://wordpress.org&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;self hosted service&lt;/a&gt;. And every time there was just some reason I couldn&amp;rsquo;t continue. Wordpress.com was just too restrictive and needed you to pay for &lt;em&gt;everything&lt;/em&gt;, whereas the self hosted one was 100% my fault cause I hosted it from my own place&amp;hellip; and DNS isn&amp;rsquo;t fun. I&amp;rsquo;ll just leave that there. Both solutions are great, but not for me.&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;&lt;strong&gt;So here I am.&lt;/strong&gt;&lt;/em&gt; On a new service in a new place. I&amp;rsquo;ve already run into a new set of challenges. Jekyll is statically generated off of local files, so any changes to the site need to be made from a computer that has these files. And while I can share them all through GitHub, it still severely restricts where I can make changes to my site. Also, Ruby is&amp;hellip; picky. I am actually writing this post from my grandparents&#39; house in Mexico, with no internet connection. I attempt to run the Jekyll build function, but it says I&amp;rsquo;m missing a file that&amp;rsquo;s on the PC, and the self fix tool needs internet access. So I&amp;rsquo;m completely blind to what this post will even look like when done.&lt;/p&gt;
+&lt;p&gt;I guess I should maybe start with what this blog is and why I&amp;rsquo;m doing it. The blog itself is a &lt;a href=&#34;https://jekyllrb.com&#34;&gt;Jekyll&lt;/a&gt; blog run off &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. &lt;!-- raw HTML omitted --&gt; The theme is &lt;a href=&#34;https://mmistakes.github.io/minimal-mistakes/&#34;&gt;Minimal Mistakes&lt;/a&gt;. I switched to that from &lt;a href=&#34;https://github.com/iwiedenm/jekyll-theme-massively-src&#34;&gt;Massively&lt;/a&gt; because I wanted more customization and dark themes.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ve previously made blogs using Wordpress, both the actual &lt;a href=&#34;https://wordpress.com&#34;&gt;blog hosting platform&lt;/a&gt; and the &lt;a href=&#34;https://wordpress.org&#34;&gt;self hosted service&lt;/a&gt;. And every time there was just some reason I couldn&amp;rsquo;t continue. Wordpress.com was just too restrictive and needed you to pay for &lt;em&gt;everything&lt;/em&gt;, whereas the self hosted one was 100% my fault cause I hosted it from my own place&amp;hellip; and DNS isn&amp;rsquo;t fun. I&amp;rsquo;ll just leave that there. Both solutions are great, but not for me.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;So here I am.&lt;/strong&gt;&lt;/em&gt; On a new service in a new place. I&amp;rsquo;ve already run into a new set of challenges. Jekyll is statically generated off of local files, so any changes to the site need to be made from a computer that has these files. And while I can share them all through GitHub, it still severely restricts where I can make changes to my site. Also, Ruby is&amp;hellip; picky. I am actually writing this post from my grandparents&amp;rsquo; house in Mexico, with no internet connection. I attempt to run the Jekyll build function, but it says I&amp;rsquo;m missing a file that&amp;rsquo;s on the PC, and the self fix tool needs internet access. So I&amp;rsquo;m completely blind to what this post will even look like when done.&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;Could not find ffi-1.9.18 in any of the sources&lt;/code&gt; This error message will haunt my dreams.&lt;/p&gt;
-&lt;p&gt;So&amp;hellip; I&amp;rsquo;ve talked about what I&amp;rsquo;m doing, and the challenges I&amp;rsquo;ve faced. But &lt;em&gt;why&lt;/em&gt;? &lt;strong&gt;Why&lt;/strong&gt; am I putting myself through this? Is it masochism? Is it some weird social experiment? Honestly&amp;hellip; I don&amp;rsquo;t know. I just know I need an outlet. I have an overactive mind. I suffer from what my friend lovingly called &lt;em&gt;creative blue balls&lt;/em&gt;. In my day job, in my life, in my band, there&amp;rsquo;s not many outlets for me to let go and publish what&amp;rsquo;s going on in my head. I need a dumping ground that isn&amp;rsquo;t my notes app(shoutout to &lt;a class=&#34;link&#34; href=&#34;https://bear.app&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;Bear&lt;/a&gt;). I need something public, even if no one will read it, to host my ideas. I need a sort of public journal to come back to.&lt;/p&gt;
+&lt;p&gt;So&amp;hellip; I&amp;rsquo;ve talked about what I&amp;rsquo;m doing, and the challenges I&amp;rsquo;ve faced. But &lt;em&gt;why&lt;/em&gt;? &lt;strong&gt;Why&lt;/strong&gt; am I putting myself through this? Is it masochism? Is it some weird social experiment? Honestly&amp;hellip; I don&amp;rsquo;t know. I just know I need an outlet. I have an overactive mind. I suffer from what my friend lovingly called &lt;em&gt;creative blue balls&lt;/em&gt;. In my day job, in my life, in my band, there&amp;rsquo;s not many outlets for me to let go and publish what&amp;rsquo;s going on in my head. I need a dumping ground that isn&amp;rsquo;t my notes app(shoutout to &lt;a href=&#34;https://bear.app&#34;&gt;Bear&lt;/a&gt;). I need something public, even if no one will read it, to host my ideas. I need a sort of public journal to come back to.&lt;/p&gt;
 &lt;p&gt;I also essentially need a portfolio. I am doing what I can to shape my life and make it so I can make my way into freelancing, and I need a way to show what I&amp;rsquo;m really about. So I guess there&amp;rsquo;s that too.&lt;/p&gt;
 &lt;p&gt;Stick around I guess. I can guarantee I&amp;rsquo;ll be writing more.&lt;/p&gt;
-</description>
-        </item>
-        
-    </channel>
+</content>
+    </item>
+    
+    <item>
+      <title>Theme Showcase</title>
+      <link>https://zaza.studio/showcase/</link>
+      <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://zaza.studio/showcase/</guid>
+      <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
+      <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Fusce pharetra suscipit orci nec tempor. Quisque vitae sem sit amet sem mollis consequat. Sed at imperdiet lorem. Vestibulum pharetra faucibus odio, ac feugiat tellus sollicitudin at. Pellentesque varius tristique mi imperdiet dapibus. Duis orci odio, sodales lacinia venenatis sit amet, feugiat et diam.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h3 id=&#34;header-3&#34;&gt;Header 3&lt;/h3&gt;
+&lt;p&gt;Nulla libero turpis, lacinia vitae cursus ut, auctor dictum nisl. Fusce varius felis nec sem ullamcorper, at convallis nisi vestibulum. Duis risus odio, porta sit amet placerat mollis, tincidunt non mauris. Suspendisse fringilla, &lt;code&gt;odio a dignissim pharetra&lt;/code&gt;, est urna sollicitudin urna, eu scelerisque magna ex vitae tellus.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;/* PostCSS code */&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;pre&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#1a1a1d&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;20&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;border-radius&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;8&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;px&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;1&lt;/span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;rem&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#66d9ef&#34;&gt;overflow&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;auto&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;@media&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;(--phone)&lt;/span&gt; &lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;white-space&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;pre-wrap&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;word-wrap&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;break-word&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#f92672&#34;&gt;code&lt;/span&gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;background&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;none&lt;/span&gt; &lt;span style=&#34;color:#75715e&#34;&gt;!important&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;color&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;#ccc&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;padding&lt;/span&gt;: &lt;span style=&#34;color:#ae81ff&#34;&gt;0&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    &lt;span style=&#34;color:#66d9ef&#34;&gt;font-size&lt;/span&gt;: &lt;span style=&#34;color:#66d9ef&#34;&gt;inherit&lt;/span&gt;;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  }
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#960050;background-color:#1e0010&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-js&#34; data-lang=&#34;js&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;// JS code
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu-trigger&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; document.&lt;span style=&#34;color:#a6e22e&#34;&gt;querySelector&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;.menu&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;getComputedStyle&lt;/span&gt;(document.&lt;span style=&#34;color:#a6e22e&#34;&gt;body&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;getPropertyValue&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;--phoneWidth&amp;#39;&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; window.&lt;span style=&#34;color:#a6e22e&#34;&gt;matchMedia&lt;/span&gt;(&lt;span style=&#34;color:#a6e22e&#34;&gt;mobileQuery&lt;/span&gt;).&lt;span style=&#34;color:#a6e22e&#34;&gt;matches&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#66d9ef&#34;&gt;const&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt; &lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt; () =&amp;gt; {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#f92672&#34;&gt;!&lt;/span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobile&lt;/span&gt;())
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;()
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#a6e22e&#34;&gt;menuTrigger&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;click&amp;#39;&lt;/span&gt;, () =&amp;gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;menu&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;classList&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;toggle&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;hidden&amp;#39;&lt;/span&gt;))
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;window.&lt;span style=&#34;color:#a6e22e&#34;&gt;addEventListener&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#39;resize&amp;#39;&lt;/span&gt;, &lt;span style=&#34;color:#a6e22e&#34;&gt;isMobileMenu&lt;/span&gt;)
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!-- HTML code --&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;main&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;   &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;id&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;title&amp;#34;&lt;/span&gt;&amp;gt;{{ .Title }}&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;h1&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ range .Pages }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;      {{ .Render &amp;#34;summary&amp;#34;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;    {{ end }}
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;div&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;section&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;header-4&#34;&gt;Header 4&lt;/h4&gt;
+&lt;p&gt;Curabitur scelerisque felis viverra varius scelerisque. Ut enim libero, molestie gravida blandit at, mollis ornare tellus. Cras arcu mi, ultrices vel pulvinar vel, volutpat eu tortor. Nullam nec eros quis massa ultrices iaculis sed in metus. Praesent sollicitudin sem sit amet orci tempor gravida.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Maecenas elementum vitae nibh vitae porttitor.&lt;/li&gt;
+&lt;li&gt;Aenean consequat, risus ut cursus placerat, arcu nulla sodales risus, ut molestie tellus tellus et dui.&lt;/li&gt;
+&lt;li&gt;Integer imperdiet turpis vitae lacus imperdiet, ut ornare ligula auctor. Integer in mi eu velit vehicula suscipit eget vulputate nulla.&lt;/li&gt;
+&lt;li&gt;Etiam vitae enim quis velit lobortis placerat a ut sem.
+&lt;ul&gt;
+&lt;li&gt;Curabitur lobortis ante sit amet orci pulvinar, sollicitudin viverra nunc accumsan.&lt;/li&gt;
+&lt;li&gt;Praesent fermentum orci quis leo facilisis posuere.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Aliquam erat volutpat. In hac habitasse platea dictumst. Nunc ut tincidunt mauris. Sed at gravida risus, id semper magna. Nullam vitae enim mattis, sodales neque non, pharetra elit. Cras sit amet sagittis augue, et finibus turpis. Ut tempus tincidunt diam vel pharetra. Nulla porttitor odio sit amet nulla scelerisque, quis aliquam mi imperdiet. Sed tincidunt dui vel tellus vestibulum rhoncus. Donec tempus ultrices velit.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
 </rss>
