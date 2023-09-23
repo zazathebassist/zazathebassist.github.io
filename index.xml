@@ -2,28 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>critical point</title>
-    <link>https://zaza.studio/</link>
+    <link>https://emmaceleste.gay/</link>
     <description>Recent content on critical point</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://zaza.studio/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 10 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://emmaceleste.gay/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>photography</title>
+      <link>https://emmaceleste.gay/photography/</link>
+      <pubDate>Fri, 22 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://emmaceleste.gay/photography/</guid>
+      <description>i have at multiple times tried to get into film photography. but every time, getting the photos to the lab is where the hobby died. now i&amp;rsquo;ve set up a ridiculous developing and scanning setup in my apartment (blog post eventually) and film photography has finally stuck.
+honestly, it also helps to have a small community of photographers around me that i can share my work with and who i can grow with.</description>
+      <content>&lt;p&gt;i have at multiple times tried to get into film photography. but every time, getting the photos to the lab is where the hobby died. now i&amp;rsquo;ve set up a ridiculous developing and scanning setup in my apartment (blog post eventually) and film photography has finally stuck.&lt;/p&gt;
+&lt;p&gt;honestly, it also helps to have a small community of photographers around me that i can share my work with and who i can grow with. that definitely helps me keep shooting.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;gear&#34;&gt;gear&lt;/h2&gt;
+&lt;p&gt;fully taking this idea from a &lt;a href=&#34;https://photography.ultraviolet.gay/visible.html&#34;&gt;good friend&lt;/a&gt; to use this as a list of camera stuff i have&lt;/p&gt;
+&lt;h4 id=&#34;cameras&#34;&gt;cameras&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Olympus XA - 35mm &lt;em&gt;f&lt;/em&gt;/2.8 this little camera looks like an ugly 80s toy but takes some incredible pictures. the lens is way sharper than it has any right being.&lt;/li&gt;
+&lt;li&gt;Minolta x-370 - honestly everything that i could want out of an SLR. it&amp;rsquo;s brilliant, its works with my brain, and i&amp;rsquo;ve gotten some absolutely incredible shots with it.&lt;/li&gt;
+&lt;li&gt;Kodak Junior Six-20 - a medium format film camera from the &lt;em&gt;1930s&lt;/em&gt;. this camera takes the now discontinued 620 film format, which is essentially 120 but made proprietary. (full blog post soon)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;lenses&#34;&gt;lenses&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Minolta MD Rokkor-x 45mm &lt;em&gt;f&lt;/em&gt;/2 - everyone needs a sharp nifty fifty&lt;/li&gt;
+&lt;li&gt;Vivitar M/MD mount 70-210mm &lt;em&gt;f&lt;/em&gt;/4.5-5.6&lt;/li&gt;
+&lt;li&gt;Minolta MC Macro &lt;em&gt;f&lt;/em&gt;/3.5 50mm&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;film&#34;&gt;film&lt;/h2&gt;
+&lt;p&gt;i&amp;rsquo;m still experimenting with film stock. turns out there&amp;rsquo;s a LOT of different films out there, even after they got discontinued. i mostly shoot Ilford HP5 in black and white. i did mostly shoot Fuji Superia 400 for color, but sourcing that has gotten a bit weird so i &lt;em&gt;think&lt;/em&gt; my default color might move to either Kodak Gold 200 or Ultramax 400. tbd. most of my shooting is in the beautiful but forever rainy Pacific Northwest. so ya know, that does influence me a lot.&lt;/p&gt;
+&lt;p&gt;(film comparison page coming eventually)&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;darkroomscanning&#34;&gt;darkroom/scanning&lt;/h2&gt;
+&lt;p&gt;i&amp;rsquo;ve been bitten by the &amp;ldquo;you dont spend enough money on this hobby, here&amp;rsquo;s a tangential hobby&amp;rdquo; bug. now i wanna make my own darkroom.&lt;/p&gt;
+&lt;p&gt;all black and white film i develop using a process called Stand Developing, using a ridiculous chemical called Rodinal which was invented in the late 1800s. color film is developed either by Panda Lab in Queen Anne or by Taco Bell Labs in Capitol Hill.&lt;/p&gt;
+&lt;p&gt;before i get the whole crazy setup, i do have a scanning setup. i will eventually write about it when it reaches and end state. it is a homemade dslr scanning setup. i made my own copy stand, i&amp;rsquo;m using a cheap amazon light table and a little lomography film holder, and a camera mount. im essentially taking digital pictures of the analogue film, and scanning them, so i can post on insta and on my blog.&lt;/p&gt;
+&lt;p&gt;because what good is taking a bunch of photos if no one else will ever see them.&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>about</title>
-      <link>https://zaza.studio/about/</link>
+      <link>https://emmaceleste.gay/about/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/about/</guid>
-      <description>im emma celeste medina and this is my blog. i&amp;rsquo;m a transfemme latina musician and photographer out of the emerald city. no not that one, the one in the cascades.
+      <guid>https://emmaceleste.gay/about/</guid>
+      <description>im emma celeste abitia and this is my blog. i&amp;rsquo;m a transfemme latina musician and photographer out of the emerald city. no not that one, the one in the cascades.
 in a former life i was the bassist and even further back the drummer for Unstoppable Force. we&amp;rsquo;re on spotify and apple music and all those places. my goal is to start playing live again at some point but ¯\_(ツ)_/¯</description>
       <content>&lt;!-- raw HTML omitted --&gt;
-&lt;p&gt;im emma celeste medina and this is my blog. i&amp;rsquo;m a transfemme latina musician and photographer out of the emerald city. no not that one, the one in the cascades.&lt;/p&gt;
+&lt;p&gt;im emma celeste abitia and this is my blog. i&amp;rsquo;m a transfemme latina musician and photographer out of the emerald city. no not that one, the one in the cascades.&lt;/p&gt;
 &lt;p&gt;in a former life i was the bassist and even further back the drummer for &lt;a href=&#34;http://unstoppableforce.band&#34;&gt;Unstoppable Force&lt;/a&gt;. we&amp;rsquo;re on spotify and apple music and all those places. my goal is to start playing live again at some point but ¯\_(ツ)_/¯&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;social-media&#34;&gt;social media&lt;/h2&gt;
 &lt;p&gt;i exist on the internets&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.instagram.com/zazathebassist/&#34;&gt;Instagram&lt;/a&gt;: my dead insta&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;https://twitter.com/emmaplaysmusic&#34;&gt;Twitter&lt;/a&gt;: the bad site.&lt;/p&gt;
-&lt;p&gt;&lt;a href=&#34;http://zaza.studio&#34;&gt;Zaza.Social&lt;/a&gt;: If you really like recursion&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;&lt;a href=&#34;https://twitter.com/emmaplaysmusic&#34;&gt;Twitter&lt;/a&gt;: the hellsite.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;http://emmaceleste.gay&#34;&gt;emmaceleste.gay&lt;/a&gt;: If you really like recursion&lt;/p&gt;
 &lt;hr&gt;
 &lt;h2 id=&#34;blog-tech&#34;&gt;blog tech&lt;/h2&gt;
 &lt;p&gt;he blog itself is a &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; blog run off &lt;a href=&#34;https://pages.github.com&#34;&gt;Github Pages&lt;/a&gt;. the theme is &lt;a href=&#34;https://github.com/panr/hugo-theme-terminal&#34;&gt;Terminal&lt;/a&gt;. i wanted something simple but that was me. i think ended up with generic.&lt;/p&gt;
@@ -36,56 +75,21 @@ in a former life i was the bassist and even further back the drummer for Unstopp
     
     <item>
       <title>music</title>
-      <link>https://zaza.studio/music/</link>
+      <link>https://emmaceleste.gay/music/</link>
       <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/music/</guid>
+      <guid>https://emmaceleste.gay/music/</guid>
       <description>something will appear in this page eventually</description>
       <content>&lt;p&gt;something will appear in this page eventually&lt;/p&gt;
 </content>
     </item>
     
     <item>
-      <title>photography</title>
-      <link>https://zaza.studio/photography/</link>
-      <pubDate>Tue, 04 Apr 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://zaza.studio/photography/</guid>
-      <description>i have at multiple times tried to get into film photography. but every time, getting the photos to the lab is where the hobby died.
-now the lab is a single bus away. im fucked and so is my wallet.
-gear fully taking this idea from a friend to use this as a list of camera stuff i have
-Olympus XA - 35mm f/2.8 this little camera looks like an ugly 80s toy but takes some incredible pictures.</description>
-      <content>&lt;p&gt;i have at multiple times tried to get into film photography. but every time, getting the photos to the lab is where the hobby died.&lt;/p&gt;
-&lt;p&gt;now the lab is a single bus away. im fucked and so is my wallet.&lt;/p&gt;
-&lt;h2 id=&#34;gear&#34;&gt;gear&lt;/h2&gt;
-&lt;p&gt;fully taking this idea from a &lt;a href=&#34;https://photography.ultraviolet.gay/visible.html&#34;&gt;friend&lt;/a&gt; to use this as a list of camera stuff i have&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Olympus XA - 35mm &lt;em&gt;f&lt;/em&gt;/2.8 this little camera looks like an ugly 80s toy but takes some incredible pictures. the lens is way sharper than it has any right being.&lt;/li&gt;
-&lt;li&gt;Minolta x-370 - minolta gang. nuff said.&lt;/li&gt;
-&lt;li&gt;Minolta MD Rokkor-x 45mm &lt;em&gt;f&lt;/em&gt;/2 - everyone needs a sharp nifty fifty&lt;/li&gt;
-&lt;li&gt;Vivitar M/MD mount 70-210mm &lt;em&gt;f&lt;/em&gt;/4.5-5.6&lt;/li&gt;
-&lt;/ul&gt;
-&lt;h2 id=&#34;film&#34;&gt;film&lt;/h2&gt;
-&lt;p&gt;i&amp;rsquo;m still experimenting with film stock. this is mostly gonna be a consise review of the films ive shot. i&amp;rsquo;ll eventually write more about these films but just take this as one girls perspective in the perpetually rainy pacific northwest&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;Ilford HP5 - it&amp;rsquo;s hp5. you either shoot it almost exclusively or you hate it. its black and white. it has nice grain. it feels like film. it looks like film. this is what film should be.&lt;/li&gt;
-&lt;li&gt;Fuji Superia 400 - a film that honestly does not get enough love. yes its a drug store film. it looks like 90s family photos. thats a &lt;em&gt;good&lt;/em&gt; thing. put it in front of a sharp lens and push it a stop and this might honestly be my favorite color film. it looks like what memories should look like&lt;/li&gt;
-&lt;li&gt;Cinestill 800t - yes, its a meme photo. yes, it takes incredible shots of neon. yes i have shot Dicks (the burger joint) with every roll of Cinestill that i&amp;rsquo;ve bought. doesnt matter. this film does the thing. it has a narrow band of what it&amp;rsquo;s good at. but if you&amp;rsquo;re shooting past golden hour, in the rain, neon, or gas stations, this is your guy&lt;/li&gt;
-&lt;li&gt;Kodak Gold 200 - its color film. its fine. it&amp;rsquo;s fun, even. it looks like what color film should. but i guess it doesnt really do anything to stand out like fuji superia 400.&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;more film coming. i have a roll of arista 400 and cinestill 400d in the fridge&lt;/p&gt;
-&lt;h2 id=&#34;darkroom&#34;&gt;darkroom&lt;/h2&gt;
-&lt;p&gt;i&amp;rsquo;ve been bitten by the &amp;ldquo;you dont spend enough money on this hobby, here&amp;rsquo;s a tangential hobby&amp;rdquo; bug. now i wanna make my own darkroom.&lt;/p&gt;
-&lt;p&gt;for now im slowly collecting what i need to start developing with caffenol. for your own sanity, dont look it up.&lt;/p&gt;
-</content>
-    </item>
-    
-    <item>
       <title>Yearly Theme 2022: Year of Creation</title>
-      <link>https://zaza.studio/posts/yearly-theme-2022/</link>
+      <link>https://emmaceleste.gay/posts/yearly-theme-2022/</link>
       <pubDate>Mon, 10 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/yearly-theme-2022/</guid>
+      <guid>https://emmaceleste.gay/posts/yearly-theme-2022/</guid>
       <description>It&amp;rsquo;s that time of year again. Yearly Theme time. And I want to coast off the success of last year&amp;rsquo;s theme. Last year I set myself on the path of the Year of Discovery. And through that, I explored more of California and of myself then I have in a long time. I am content that I marked a good path that will allow me to keep moving forward and explore myself and the world around me more.</description>
       <content>&lt;p&gt;It&amp;rsquo;s that time of year again. Yearly Theme time. And I want to coast off the success of last year&amp;rsquo;s theme. Last year I set myself on the path of the Year of Discovery. And through that, I explored more of California and of myself then I have in a long time. I am content that I marked a good path that will allow me to keep moving forward and explore myself and the world around me more. But I want to do more than just see new things. I want to create. I have this need in me not just to observe the beauty of this world, but to contribute to it.&lt;/p&gt;
 &lt;p&gt;That is why this year I am setting off on the Year of Creation.&lt;/p&gt;
@@ -102,10 +106,10 @@ Olympus XA - 35mm f/2.8 this little camera looks like an ugly 80s toy but takes 
     
     <item>
       <title>Yearly Theme Wrap-up 2021: Year of Discovery</title>
-      <link>https://zaza.studio/posts/yearly-theme-2021-retrospective/</link>
+      <link>https://emmaceleste.gay/posts/yearly-theme-2021-retrospective/</link>
       <pubDate>Wed, 29 Dec 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/yearly-theme-2021-retrospective/</guid>
+      <guid>https://emmaceleste.gay/posts/yearly-theme-2021-retrospective/</guid>
       <description>I did not expect 2021 to be a whole second year of Covid. When I chose my yearly theme, the Vaccine had been completed and it looked like full vaccinations would happen by the end of Spring. How could I have foreseen Covid being so political that almost a year after after the vaccine started being given, we would be at 61% of the country vaccinated, and have experienced two variants and three whole waves requiring the wold to continue shutting down.</description>
       <content>&lt;p&gt;I did not expect 2021 to be a whole second year of Covid. When I chose my yearly theme, the Vaccine had been completed and it looked like full vaccinations would happen by the end of Spring. How could I have foreseen Covid being so political that almost a year after after the vaccine started being given, we would be at 61% of the country vaccinated, and have experienced two variants and three whole waves requiring the wold to continue shutting down.&lt;/p&gt;
 &lt;p&gt;But this isn&amp;rsquo;t a retrospective on a year of Covid, it&amp;rsquo;s a retrospective on my year. When I started this year, I told myself I would make it my Year of Discovery. I spent too much of 2020 stagnating. I knew there was a chance for Covid to not disappear and my Year of Discovery was &lt;em&gt;not&lt;/em&gt; predicated on Covid disappearing. I am generally happy with how I did and I&amp;rsquo;m glad at the clarity that Year of Discovery provided me. I even reconnected with some friends in a way that has done nothing but made my life better.&lt;/p&gt;
@@ -126,10 +130,10 @@ Olympus XA - 35mm f/2.8 this little camera looks like an ugly 80s toy but takes 
     
     <item>
       <title>My Favorite Songs and the Impact Music has had on My Life</title>
-      <link>https://zaza.studio/posts/top-songs/</link>
+      <link>https://emmaceleste.gay/posts/top-songs/</link>
       <pubDate>Tue, 14 Sep 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/top-songs/</guid>
+      <guid>https://emmaceleste.gay/posts/top-songs/</guid>
       <description>This was first written in May 2021 but due to a mental block I didn&amp;rsquo;t get it uploaded until September 2021
 Music has been a massive part of my life for about as long as I remember. Just now, a friend was asking her friends about their favorite songs. That sent me down a spiral about what my favorite music is. Before, I held the position that it was impossible for me to hold a &amp;ldquo;favorite song&amp;rdquo; but now, that&amp;rsquo;s changed.</description>
       <content>&lt;blockquote&gt;
@@ -173,10 +177,10 @@ Music has been a massive part of my life for about as long as I remember. Just n
     
     <item>
       <title>Yearly Theme 2021: Year of Discovery</title>
-      <link>https://zaza.studio/posts/yearly-theme-2021/</link>
+      <link>https://emmaceleste.gay/posts/yearly-theme-2021/</link>
       <pubDate>Sat, 06 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/yearly-theme-2021/</guid>
+      <guid>https://emmaceleste.gay/posts/yearly-theme-2021/</guid>
       <description>So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don&amp;rsquo;t think I need to go into why covid but it&amp;rsquo;s time to get back on the train.
 So for 2021, I am doing a 180 from the life I led in 2020. Last year might as well have been &amp;ldquo;the Year of Lockdown&amp;rdquo;.</description>
       <content>&lt;p&gt;So, 2020 sucked. I have been doing yearly themes since I believe 2015 and 2020 is the only year where I completely lost track of my theme. I don&amp;rsquo;t think I need to go into why &lt;del&gt;covid&lt;/del&gt; but it&amp;rsquo;s time to get back on the train.&lt;/p&gt;
@@ -193,10 +197,10 @@ So for 2021, I am doing a 180 from the life I led in 2020. Last year might as we
     
     <item>
       <title>Darkroom Diary: Using a $35 Lens on a 10 Year Old Camera</title>
-      <link>https://zaza.studio/posts/darkroom-diary-35-dollar-lens/</link>
+      <link>https://emmaceleste.gay/posts/darkroom-diary-35-dollar-lens/</link>
       <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/darkroom-diary-35-dollar-lens/</guid>
+      <guid>https://emmaceleste.gay/posts/darkroom-diary-35-dollar-lens/</guid>
       <description>Photography is an expensive hobby. It&amp;rsquo;s one I love but definitely will suck as much money as you put into it. So when I see a lens that costs $35 on Amazon, I know I need to get it immediately.
 Taken with iPhone 11
 Fotasy 35mm f/1.6 Micro 4/3 Lens The lens I picked up is the Fotasy 35mm f/1.6 lens. It&amp;rsquo;s Micro 4/3 lens so it&amp;rsquo;s a 70mm equivalent. That&amp;rsquo;s a bit tight for pure street photography but I should be able to make it work.</description>
@@ -242,10 +246,10 @@ Fotasy 35mm f/1.6 Micro 4/3 Lens The lens I picked up is the Fotasy 35mm f/1.6 l
     
     <item>
       <title>Darkroom Diary: iPhone Photography, and Finding Photography Again</title>
-      <link>https://zaza.studio/posts/iphone-photography/</link>
+      <link>https://emmaceleste.gay/posts/iphone-photography/</link>
       <pubDate>Thu, 10 Sep 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/iphone-photography/</guid>
+      <guid>https://emmaceleste.gay/posts/iphone-photography/</guid>
       <description>editors note: lol. lmao. this is cute past emma. where you&amp;rsquo;re going, you dont need pixels.
 I was very into photography a few years ago. Decent DSLR, lenses, accessories, the whole deal. But for various reasons my love of photography left me. The camera was too heavy to bring, I wasn&amp;rsquo;t good enough, and I had some personal reasons. So I kinda stopped photography. The DSLR was sold off. My film camera is in a box somewhere.</description>
       <content>&lt;blockquote&gt;
@@ -296,10 +300,10 @@ I was very into photography a few years ago. Decent DSLR, lenses, accessories, t
     
     <item>
       <title>Top Ten Games of the Decade (2010-2019)</title>
-      <link>https://zaza.studio/archive/top-10-games-of-2010-2019/</link>
+      <link>https://emmaceleste.gay/archive/top-10-games-of-2010-2019/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/archive/top-10-games-of-2010-2019/</guid>
+      <guid>https://emmaceleste.gay/archive/top-10-games-of-2010-2019/</guid>
       <description>It&amp;rsquo;s the end of the 2010s and I really want to reflect on my life. But I feel like I&amp;rsquo;m in a flux part of my life and with so much happening around me, I thought it&amp;rsquo;d be easier to just do games of the decade.
 A bit about me, I am a gamer but a hobbyist one at best. This is my personal list for games that impacted me the most.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -422,10 +426,10 @@ That one game you&amp;rsquo;re mad about.&lt;/p&gt;
     
     <item>
       <title>Oko: A Returning Player&#39;s Perspective</title>
-      <link>https://zaza.studio/posts/state-of-magic-2019/</link>
+      <link>https://emmaceleste.gay/posts/state-of-magic-2019/</link>
       <pubDate>Wed, 27 Nov 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/state-of-magic-2019/</guid>
+      <guid>https://emmaceleste.gay/posts/state-of-magic-2019/</guid>
       <description>Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say.
 So I was a very into Magic a few years ago. I came into the game at the end of the Return to Ravnica block, my first event and one of the first times playing was an event called a &amp;ldquo;Magic Celebration&amp;rdquo; in 2013 where they handed out free decks and packs.</description>
       <content>&lt;p&gt;Now, I started writing this before Oko was banned but even after the Ban, I feel like I have something to say.&lt;/p&gt;
@@ -460,10 +464,10 @@ So I was a very into Magic a few years ago. I came into the game at the end of t
     
     <item>
       <title>iOS Game Reviews: Elder Scrolls Blades</title>
-      <link>https://zaza.studio/archive/ios-review-es-blades/</link>
+      <link>https://emmaceleste.gay/archive/ios-review-es-blades/</link>
       <pubDate>Thu, 11 Apr 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/archive/ios-review-es-blades/</guid>
+      <guid>https://emmaceleste.gay/archive/ios-review-es-blades/</guid>
       <description>I want to love Elder Scrolls: Blades. I do. I really really do.
 I&amp;rsquo;m starting this off by saying that I am a huge fan of the Elder Scrolls series. I have put more hours than I can count into Oblivion and almost as many into Skyrim. Elder Scrolls Online is in my top 5 MMOs. So I wanted, so desperately, for a mobile game to capture the feeling of Elder Scrolls.</description>
       <content>&lt;!-- raw HTML omitted --&gt;
@@ -547,10 +551,10 @@ The movement with tapping feels far worse than with the virtual analog stick. Wh
     
     <item>
       <title>2019: Year of Content</title>
-      <link>https://zaza.studio/posts/2019-yearly-theme/</link>
+      <link>https://emmaceleste.gay/posts/2019-yearly-theme/</link>
       <pubDate>Sun, 06 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/2019-yearly-theme/</guid>
+      <guid>https://emmaceleste.gay/posts/2019-yearly-theme/</guid>
       <description>I&amp;rsquo;ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.
 Part of the reason I started this blog is to chronicle my yearly themes. I&amp;rsquo;ll probably repost my old themes but no promises.</description>
       <content>&lt;p&gt;I&amp;rsquo;ve been thinking about my 2019 plan for a while. And after the absolute failure that 2018: Year of Less was, but also the kinda semi success of 2017: Year of Completion, and the success of my 2016: Year of Me, I was excited to talk about my new theme. Also New Years Resolutions are dumb.&lt;/p&gt;
@@ -564,10 +568,10 @@ Part of the reason I started this blog is to chronicle my yearly themes. I&amp;r
     
     <item>
       <title>Accidental Disconnect from the Internet</title>
-      <link>https://zaza.studio/posts/disconnect/</link>
+      <link>https://emmaceleste.gay/posts/disconnect/</link>
       <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/disconnect/</guid>
+      <guid>https://emmaceleste.gay/posts/disconnect/</guid>
       <description>It&amp;rsquo;s been an odd month or two for me. For the first time in as long as I can remember, I&amp;rsquo;ve been mostly disconnected from the internet.
 This wasn&amp;rsquo;t really any kind of planned event. I had recently become more active on the Do By Friday discord, was fairly active with my bands social media, rediscovered Twitter a third time, and was actually enjoying Instagram. Then, shortly before I took my trip to Mexico, my use basically plummited.</description>
       <content>&lt;p&gt;It&amp;rsquo;s been an odd month or two for me. For the first time in as long as I can remember, I&amp;rsquo;ve been mostly disconnected from the internet.&lt;/p&gt;
@@ -590,10 +594,10 @@ This wasn&amp;rsquo;t really any kind of planned event. I had recently become mo
     
     <item>
       <title>Coming Back to Magic</title>
-      <link>https://zaza.studio/posts/state-of-magic-2018/</link>
+      <link>https://emmaceleste.gay/posts/state-of-magic-2018/</link>
       <pubDate>Wed, 05 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/state-of-magic-2018/</guid>
+      <guid>https://emmaceleste.gay/posts/state-of-magic-2018/</guid>
       <description>editors note: two things have changed in this time. i&amp;rsquo;ve quit and come back to magic two more times. and a mac client for Magic Arena has been released. ^.^
 I left Magic about two years ago. It was a slow fade, and once I was done I thought I was out. I thought I quit this Cardboard Crack
 OH NO
@@ -620,10 +624,10 @@ And I&amp;rsquo;m so glad I&amp;rsquo;m back.</description>
     
     <item>
       <title>Back to Living in Fear</title>
-      <link>https://zaza.studio/posts/fear/</link>
+      <link>https://emmaceleste.gay/posts/fear/</link>
       <pubDate>Fri, 23 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/fear/</guid>
+      <guid>https://emmaceleste.gay/posts/fear/</guid>
       <description>When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.
 I&amp;rsquo;m a child of immigrants. I wont go into it too much, but I&amp;rsquo;ll just say both my parents are citizens now. They weren&amp;rsquo;t then.</description>
       <content>&lt;p&gt;When I was a kid, I had one big fear. Most kids were scared of heights, or the dark, or the monster under the bed. I was scared of being pulled over. I was scared that the cops were going to take away my mom and dad.&lt;/p&gt;
@@ -641,10 +645,10 @@ I&amp;rsquo;m a child of immigrants. I wont go into it too much, but I&amp;rsquo
     
     <item>
       <title>Test Blog Part 3!</title>
-      <link>https://zaza.studio/posts/test-blog-part-3/</link>
+      <link>https://emmaceleste.gay/posts/test-blog-part-3/</link>
       <pubDate>Wed, 21 Nov 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/posts/test-blog-part-3/</guid>
+      <guid>https://emmaceleste.gay/posts/test-blog-part-3/</guid>
       <description>i&amp;rsquo;m on blog #5 now. im also a different gender from when i wrote this. it&amp;rsquo;s here as an archive, mostly for nostalgia at this point. at the insufferably up-tight loser i was i guess. everything below here is past me
 I ask myself that all too much. This is the 3rd blog I try(4th if you count tumblr&amp;hellip; I don&amp;rsquo;t) in earnest to start. And it&amp;rsquo;s been up in some capacity since September, without updates, so even before I get it in a decent state I already feel like I failed(I talk more about my view on failure Here).</description>
       <content>&lt;blockquote&gt;
@@ -664,10 +668,10 @@ everything below here is past me&lt;/p&gt;
     
     <item>
       <title>Theme Showcase</title>
-      <link>https://zaza.studio/showcase/</link>
+      <link>https://emmaceleste.gay/showcase/</link>
       <pubDate>Wed, 18 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://zaza.studio/showcase/</guid>
+      <guid>https://emmaceleste.gay/showcase/</guid>
       <description>Header 2 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. Donec quis dolor nec nunc mollis interdum vel in purus. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.</description>
       <content>&lt;h2 id=&#34;header-2&#34;&gt;Header 2&lt;/h2&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam nec interdum metus. Aenean rutrum ligula sodales ex auctor, sed tempus dui mollis. Curabitur ipsum dui, aliquet nec commodo at, tristique eget ante. &lt;strong&gt;Donec quis dolor nec nunc mollis interdum vel in purus&lt;/strong&gt;. Sed vitae leo scelerisque, sollicitudin elit sed, congue ante. In augue nisl, vestibulum commodo est a, tristique porttitor est. Proin laoreet iaculis ornare. Nullam ut neque quam.&lt;/p&gt;
